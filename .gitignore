@@ -1,0 +1,20 @@
+# --- Map data ------------------------------------------------------
+# The Geofabrik extract is hundreds of MB. GitHub refuses files
+# over 100 MB, so it lives on each machine, never in the repo.
+*.osm.pbf
+
+# --- OSRM preprocessing output -------------------------------------
+# Running osrm-extract on the map file spawns a family of
+# .osrm files. All regenerable in minutes, none belong in git.
+*.osrm
+*.osrm.*
+
+# --- Python ---------------------------------------------------------
+.venv/
+__pycache__/
+*.pyc
+
+# --- Editor and Windows noise ---------------------------------------
+.vscode/
+Thumbs.db
+desktop.ini

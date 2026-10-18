@@ -1,0 +1,759 @@
+osm_type,osm_id,name,brand,operator,lat,lon,housenumber,street,city,postcode
+node,330145579,Dunkin',Dunkin',,42.6538085,-71.1389092,93,Main Street,Andover,01810
+node,345423146,Dunkin',Dunkin',,42.3835142,-71.1066039,519,Somerville Avenue,Somerville,02143
+node,387544816,Dunkin',Dunkin',,42.4689435,-71.4564176,212,Main Street,Acton,01720
+node,443532247,Dunkin',Dunkin',,42.4215724,-71.3712353,1641,Sudbury Road,Concord,01742
+node,464793778,Dunkin',Dunkin',,42.4122772,-71.1485672,369-1,Massachusetts Avenue,Arlington,02474
+node,530969569,Dunkin',Dunkin',,42.3787228,-71.2232941,53,Linden Street,Waltham,02452
+node,533088699,Dunkin',Dunkin',,42.3949851,-71.2610095,75,3rd Avenue,Waltham,02451
+node,539692516,Dunkin',Dunkin',,42.5405217,-71.6147417,10,Andrews Parkway,Devens,01432
+node,560218266,Dunkin',Dunkin',,42.389218,-71.1195667,1,White Street,Cambridge,02140
+node,591089271,Dunkin',Dunkin',,42.4563153,-71.3563069,117,Thoreau Street,Concord,01742
+node,601266434,Dunkin',Dunkin',,42.2021454,-70.943655,634,Middle Street,Weymouth,02189
+node,633268855,Dunkin',Dunkin',,42.436135,-71.2350603,373,Waltham Street,Lexington,02421
+node,652791195,Dunkin',Dunkin',,42.2535953,-71.0273233,550,Adams Street,Quincy,02169
+node,739866476,Dunkin',Dunkin',,42.3291253,-71.7241734,270,Shrewsbury Street,Boylston,01505
+node,747885288,Dunkin',Dunkin',,42.5444017,-71.874361,21,Village Inn Road,Westminster,01473
+node,747893623,Dunkin',Dunkin',,42.6089711,-71.942593,6,Gardner Road,Ashburnham,01430
+node,773168766,Dunkin',Dunkin',,42.5008936,-71.2300515,240,Middlesex Turnpike Extension,Burlington,01803
+node,880757396,Dunkin' Donuts,Dunkin',,42.2953364,-71.7713126,543,Lincoln Street,Worcester,01605
+node,880757409,Dunkin' Donuts,Dunkin',,42.2945284,-71.7774302,490,Lincoln Street,Worcester,01605
+node,942035769,Dunkin',Dunkin',,42.4095877,-70.9994991,477,Beach Street,Revere,02151
+node,957119806,Dunkin',Dunkin',,42.4141533,-71.0789936,283,Middlesex Avenue,Medford,02155
+node,996412153,Dunkin',Dunkin',,42.2684726,-71.7803706,295,Shrewsbury Street,Worcester,01604
+node,1086143313,Dunkin',Dunkin',,42.2539666,-71.8146484,845,Main Street,Worcester,01610
+node,1249710181,Dunkin',Dunkin',,42.3639371,-71.0210912,,,East Boston,02128
+node,1249775387,Dunkin',Dunkin',,42.3681676,-71.0182748,1,Harborside Drive,Boston,02128
+node,1260824958,Dunkin' Donuts,Dunkin',,42.6422302,-71.2362067,1785,Andover Street,Tewksbury,01876
+node,1264749723,Dunkin' Donuts,Dunkin',,42.2733236,-71.7666828,310,Belmont Street,Worcester,01604
+node,1283888273,Dunkin' Donuts,Dunkin',,42.6219094,-71.1831193,1699,Shawsheen Road,Tewksbury,01876
+node,1309599010,Dunkin',Dunkin',,42.2634337,-71.8020193,421-427,Main Street,Worcester,01608
+node,1313213638,Dunkin' Donuts,Dunkin' Donuts,,42.6431194,-71.2269835,,,,
+node,1401218090,Dunkin' Donuts,Dunkin',,42.4175161,-71.6887583,Dunkin' Donuts,Main Street,Clinton,01510
+node,1408373270,Belmont St at dunkin donuts,,Brockton Area Transit Authority,42.068101,-71.049525,,,,
+node,1408377359,Dunkin',Dunkin',First Transit,42.150185,-71.502011,,,,
+node,1408377361,Dunkin' Donuts/Rogers Street,Dunkin' Donuts,Cape Ann Transportation Authority,42.613423,-70.658864,,,,
+node,1408378412,King/Bright (Dunkin' Donuts),,,42.323509,-72.632416,,,,
+node,1408381424,Senior Center/Dunkin' Donuts,,Cape Ann Transportation Authority,42.613531,-70.659259,,,,
+node,1408383187,Washington St at McDonalds-Dunkin Donuts,,,42.134291,-71.101617,,,,
+node,1492438583,Dunkin',Dunkin',,42.4106562,-71.088451,7,Commercial Street,Medford,02155
+node,1593339581,Dunkin',Dunkin',,42.351171,-71.049434,330,Congress Street,Boston,02210
+node,1619742058,Dunkin',Dunkin',,42.4574231,-71.0828221,2,Lynn Fells Parkway,Stoneham,
+node,1666191408,Dunkin',Dunkin',,42.2749964,-71.8083807,100,Institute Road,Worcester,01609
+node,1672846372,Dunkin',Dunkin',,42.4331175,-71.0467437,655,Salem Street,Malden,02148
+node,1674038390,Dunkin' Donuts,Dunkin',,42.606424,-71.5694123,133,Main Street,Groton,01450
+node,1674038391,Dunkin',Dunkin',,42.6141413,-71.5777808,318,Main Street,Groton,01450
+node,1681857361,Dunkin',Dunkin',,41.9212729,-71.0911891,232,Broadway,Taunton,02780
+node,1743721802,Dunkin',Dunkin',,42.6463741,-71.2701994,940,Andover Street,Tewksbury,01876
+node,1846268722,Dunkin',Dunkin',,42.3570458,-71.6239503,64,River Road West,Berlin,01503
+node,1846268723,Dunkin' Donuts,Dunkin',,42.3970527,-71.6031292,139,Coolidge Road,Berlin,01503
+node,1884036267,Dunkin',Dunkin',,42.3608792,-71.1154484,808,Memorial Drive,Cambridge,02139
+node,1914868890,Dunkin',Dunkin',,42.3418178,-71.0864751,283,Huntington Avenue,Boston,02115
+node,1997986837,Dunkin',Dunkin',,42.2743769,-71.7497712,118,Boston Turnpike,Shrewsbury,01545
+node,2089356489,Dunkin',Dunkin',,42.7220963,-70.9875042,66,East Main Street,Georgetown,01833
+node,2098200591,Dunkin',Dunkin',,42.1166536,-71.8620798,17,Sutton Avenue,Oxford,01540
+node,2098851711,Dunkin',Dunkin',,42.7705008,-71.1145099,784,River Street,Haverhill,01832
+node,2129829181,Dunkin',Dunkin',,42.3512165,-71.0564197,711,Atlantic Avenue,Boston,02111
+node,2138609083,Dunkin',Dunkin',,42.3238553,-72.633092,132,King Street,Northampton,01060
+node,2152568351,Dunkin',Dunkin',,42.3375049,-71.0901364,115,Forsyth Street,Boston,02115
+node,2156790548,Dunkin',Dunkin',,42.5427226,-71.465266,220,Great Road,Littleton,01460
+node,2182872217,Dunkin',Dunkin',,41.6953669,-70.5873621,,,,
+node,2199673456,Dunkin' Donuts,Dunkin',,42.2445331,-71.7583261,990,Grafton Street,Worcester,01604
+node,2218171698,Dunkin' Donuts,Dunkin',,41.6883134,-70.3382759,2135,Iyannough Road,West Barnstable,02668
+node,2230909207,Dunkin',Dunkin',,42.3400262,-71.1672832,15,Commonwealth Avenue,Chestnut Hill,02467
+node,2350393263,Dunkin',Dunkin',Dunkin’ Brands,42.3485501,-71.0963142,530,Commonwealth Avenue,Boston,02215
+node,2377531787,Dunkin',Dunkin',,42.5615845,-71.590817,16,Park Street,Ayer,01432
+node,2423414987,Dunkin' Donuts,Dunkin',,41.6977325,-70.0730425,173,Pleasant Lake Drive,Harwich,02645
+node,2445152325,Dunkin' Donuts,Dunkin',,42.5784501,-71.5207251,788,Boston Road,Groton,01450
+node,2446018087,Dunkin',Dunkin',,42.3588364,-71.0950171,,,,
+node,2458349917,Dunkin',Dunkin',,42.3335679,-71.1189688,8,Harvard Street,Brookline,02445
+node,2502861291,Dunkin',Dunkin',,42.5391629,-71.1389875,316,Lowell Street,Wilmington,01887
+node,2546995182,Dunkin',Dunkin',,42.389654,-71.0887839,220,Broadway,Somerville,02145
+node,2548045834,Dunkin',Dunkin',,42.35031,-71.5031303,681,Boston Post Road,Marlboro,01752
+node,2556583726,Dunkin',Dunkin',,42.2370756,-72.5817409,491,Newton Street,South Hadley,01075
+node,2564511796,Dunkin',Dunkin',,42.3974766,-70.9922495,1,Bennington Street,Revere,02151
+node,2611027220,Dunkin',Dunkin',,42.2725536,-70.8595815,1,Bay Street,Hull,02045
+node,2623029721,Dunkin',Dunkin',,42.4051178,-71.2344911,876A,Lexington Street,Waltham,02452
+node,2623047090,Dunkin',Dunkin',,42.4211241,-71.0750816,200,Commercial Street,Malden,02148
+node,2660305107,Dunkin' Donuts,Dunkin' Donuts,,42.4815763,-71.2135855,,,,
+node,2663932748,Dunkin',Dunkin',Dunkin' Donuts,42.6905175,-71.2100946,,,,
+node,2664315859,Dunkin',Dunkin',,42.5256741,-71.5801634,188,Ayer Road,Harvard,01451
+node,2687181590,,Dunkin' Donuts,,42.3627828,-71.0247381,,,,
+node,2708165947,Dunkin',Dunkin',,42.364372,-71.0629242,59,Causeway Street,Boston,02114
+node,2708165998,Dunkin',Dunkin',,42.3610246,-71.0630851,106,Cambridge Street,Boston,02114
+node,2730827588,Dunkin',Dunkin',,42.4966886,-71.1011756,65,Main Street,Stoneham,02180
+node,2733109282,Dunkin',Dunkin',,42.4866011,-71.4172781,182,Great Road,Acton,01720
+node,2733109303,Dunkin',Dunkin',,42.4655695,-71.3893145,,,,
+node,2837092693,Dunkin' Donuts,Dunkin',,42.5387074,-71.5096229,25,King Street,Littleton,01460
+node,2837092696,Dunkin',Dunkin',,42.5460726,-71.4747971,460,King Street,Littleton,01460
+node,2941105783,Dunkin' Donuts,Dunkin',,41.9291415,-70.0175008,2393,State Highway Route 6,Wellfleet,02667
+node,3067171281,Dunkin',Dunkin',,42.3883448,-71.1036392,154,Highland Avenue,Somerville,02143
+node,3188737338,Dunkin',Dunkin',,42.3564483,-71.0530893,265,Franklin Street,Boston,02109
+node,3188739863,Dunkin',Dunkin',,42.356713,-71.0565572,3,Post Office Square,Boston,02109
+node,3200209557,Dunkin',Dunkin',,42.5681596,-71.1593491,357,Middlesex Avenue,Wilmington,01887
+node,3213253232,Dunkin',Dunkin',,42.55858,-71.1366361,66,Concord Street,Wilmington,01887
+node,3222489126,Dunkin',Dunkin',,42.4656825,-71.0062776,42,Hamilton Street,Saugus,01906
+node,3296657436,Dunkin',Dunkin',,42.571333,-71.9945552,221,Main Street,Gardner,01440
+node,3310952563,Dunkin',Dunkin',,42.3661454,-71.0620468,100,Legends Way,Boston,02114
+node,3324503435,Dunkin',Dunkin',,42.2720933,-72.4110999,37,State Street,Belchertown,01007
+node,3335287516,Dunkin',Dunkin',,42.2903456,-72.4076275,16,Federal Street,Belchertown,01007
+node,3387910881,Dunkin' Donuts,Dunkin',,42.0967474,-71.0093514,245,East Ashland Street,Brockton,02302
+node,3408112509,Dunkin' Donuts,Dunkin',,41.7169465,-70.5844917,174,Clay Pond Road,Bourne,02532
+node,3452852748,Dunkin',Dunkin',,42.2536436,-71.4700646,41,West Union Street,Ashland,01721
+node,3517153210,Dunkin',Dunkin',,42.2479081,-71.4297835,190,Pond Street,Ashland,01721
+node,3523832355,Dunkin',Dunkin',,42.4321269,-71.4491693,5,Waltham Street,Maynard,01754
+node,3572424594,Dunkin',Dunkin',,41.6756172,-70.3095322,1220,Iyannough Road,Hyannis,02601
+node,3699239315,Dunkin',Dunkin',,41.6628342,-70.2990758,317,Falmouth Road,Hyannis,02601
+node,3760312425,Dunkin',Dunkin',,42.5064295,-71.1606681,880,Main Street,Woburn,01801
+node,3769695931,Dunkin',Dunkin',,42.4963715,-71.2858697,44,North Road,Bedford,01730
+node,3769886465,Dunkin',Dunkin',,42.2374104,-71.177496,806,Boston Providence Turnpike,Dedham,02026
+node,3769912163,Dunkin',Dunkin',,41.7816948,-70.5402295,24,Meeting House Lane,Sagamore Beach,02562
+node,3803650035,Dunkin' Donuts,Dunkin',,42.205289,-71.5451442,76,South Street,Hopkinton,01748
+node,3813861730,Dunkin',Dunkin',,42.4686009,-71.1477828,75,Main Street,Woburn,01801
+node,3837346729,Dunkin',Dunkin',,42.4803996,-71.1511149,409,Main Street,Woburn,01801
+node,3889775548,Dunkin',Dunkin',,42.5670584,-71.4239169,179,Littleton Road,,
+node,3927396358,Dunkin' Donuts,Dunkin',,42.8468759,-70.9150436,80,Macy Street,Amesbury,01913
+node,3938342558,Dunkin',Dunkin',,42.3758044,-71.0654203,11,Austin Street,Charlestown,02129
+node,4006850102,Dunkin' Donuts,Dunkin',,41.7028711,-70.4852279,273,Cotuit Road,Sandwich,02563
+node,4006850103,Dunkin',Dunkin',,41.713645,-70.4895482,290 #3,Route 130,,
+node,4010523467,Dunkin',Dunkin',,42.5534938,-70.9401419,,,,
+node,4010644103,Dunkin',Dunkin',,42.5992421,-70.9608052,420,Newbury Street,Danvers,01923
+node,4010674347,Dunkin',Dunkin',,42.5334153,-70.9900596,117,Newbury Street,Peabody,01960
+node,4010674348,Dunkin',Dunkin',,42.5340553,-70.9907471,124,Newbury Street,Peabody,01960
+node,4012279665,Dunkin',Dunkin',,42.4212926,-71.0054463,30,Squire Road,Revere,02151
+node,4012279666,Dunkin',Dunkin',,42.4219882,-71.0053442,35,Squire Road,Revere,02151
+node,4019243952,Dunkin',Dunkin',,42.2966354,-71.4827056,1670,Worcester Road,Framingham,01702
+node,4020965735,Dunkin',Dunkin',,42.3041403,-71.3241119,978,Worcester Street,Wellesley,02482
+node,4023028572,Dunkin' Donuts,Dunkin',,41.6671567,-70.1852325,1353,Route 28,South Yarmouth,02664
+node,4023123910,Dunkin',Dunkin',,41.668166,-70.0809517,481,Route 28,Harwich Port,02646
+node,4025384807,Dunkin',Dunkin',,41.786635,-69.9948016,136,Cranberry Highway,Orleans,02653
+node,4027431340,Dunkin' Donuts,Dunkin',,41.6409457,-71.0016472,450,State Road,North Dartmouth,02747
+node,4045499263,Dunkin',Dunkin',,41.5608502,-70.6194722,,,,
+node,4047396607,Dunkin',Dunkin',,41.7521007,-70.593678,343,Scenic Highway,Buzzards Bay,02532
+node,4047472085,Dunkin',Dunkin',,41.933184,-70.6586907,11,Long Pond Road,Plymouth,02360
+node,4047472086,Dunkin',Dunkin',,41.9390668,-70.6563941,160,South Street,Plymouth,02360
+node,4073150927,Dunkin' Donuts,Dunkin',,42.2845381,-71.6059846,124,Turnpike Road,Westborough,01581
+node,4074813873,Dunkin',Dunkin',,42.3518681,-71.0549696,1,South Station,Boston,02210
+node,4074813875,Dunkin',Dunkin',,42.3522864,-71.0624349,630,Washington Street,Boston,02111
+node,4074813876,Dunkin',Dunkin',,42.3534817,-71.0580307,101,Summer Street,Boston,02110
+node,4074813877,Dunkin',Dunkin',,42.3544906,-71.0595435,1,Summer Street,Boston,02110
+node,4123603494,Dunkin',Dunkin',,42.3488839,-71.1529834,350,Washington Street,Brighton,02135
+node,4123617195,Dunkin',Dunkin',,42.3503667,-71.1667682,598,Washington Street,Brighton,02135
+node,4141467892,Tedeschi's & Dunkin Donuts,,,41.993792,-70.8475534,,,,
+node,4148336681,Dunkin',Dunkin',,41.9559756,-70.6799023,105,Samoset Street,Plymouth,02360
+node,4202372105,Dunkin',Dunkin',,42.1136919,-71.4722995,189,Hartford Avenue,Bellingham,02019
+node,4266246500,Dunkin',Dunkin',,42.5956263,-71.7514976,451,Massachusetts Avenue,Lunenburg,01462
+node,4345877289,Dunkin',Dunkin',,42.3971923,-71.1048975,504,Broadway,Somerville,02145
+node,4365799234,Dunkin',Dunkin',,41.5527412,-70.6059605,614,Main Street,Falmouth,02540
+node,4406184597,Dunkin',Dunkin',,42.3609891,-71.0686153,296,Cambridge Street,Boston,02114
+node,4406195907,Dunkin',Dunkin',,42.3607681,-71.0702852,161,Charles Street,Boston,02114
+node,4421257481,Dunkin',Dunkin',,42.3443972,-71.0440409,411,D Street,Boston,02110
+node,4440594143,Dunkin',Dunkin',,42.0361282,-71.3461105,1001,South Street,Wrentham,02093
+node,4440594144,Dunkin',Dunkin',,42.0374052,-71.3473819,1048,South Street,Wrentham,02093
+node,4454580325,Dunkin',Dunkin',,42.3581352,-71.0580662,235,Washington Street,Boston,02108
+node,4454580326,Dunkin',Dunkin',,42.3590215,-71.0595603,16,Tremont Street,Boston,02116
+node,4456091893,Dunkin',Dunkin',,42.3858657,-71.008385,951,Bennington Street,East Boston,02128
+node,4472161773,Dunkin',Dunkin',,42.083063,-71.4535184,207,Mechanic Street,Bellingham,02019
+node,4564083913,Dunkin',Dunkin',,42.2528997,-70.9929149,543,Southern Artery,Quincy,02169
+node,4722603141,Dunkin',Dunkin',,42.3425067,-71.0568254,11,West Broadway,South Boston,02127
+node,4727545882,Dunkin',Dunkin',,42.3533754,-71.133529,179,Brighton Avenue,Allston,02134
+node,4753506343,Dunkin',Dunkin',,42.058337,-71.0675229,1280,Belmont Street,Brockton,02301
+node,4759779267,Dunkin' Donuts,Dunkin',,42.4510346,-72.5625661,303,Amherst Road,Sunderland,01375
+node,4763030377,Dunkin',Dunkin',,42.0678788,-71.0880019,285,Washington Street,North Easton,02356
+node,4763030387,Dunkin',Dunkin',,42.0807468,-71.0215949,,,,
+node,4781337841,Dunkin',Dunkin',,42.1688079,-72.543235,470,Burnett Road,Chicopee,01020
+node,4802159421,Dunkin',Dunkin',,42.4268165,-71.0672063,424,Main Street,Malden,02148
+node,4827991322,Dunkin',Dunkin',,42.3869186,-71.1908854,52,Church St.,,
+node,4840062091,Dunkin',Dunkin',,42.3651279,-71.0610307,180,Canal Street,Boston,02114
+node,4955521123,Dunkin' Donuts,,,41.6575828,-70.270306,,,,
+node,4978287999,Dunkin',Dunkin',,42.3741932,-71.1211652,61,Church Street,Cambridge,02138
+node,4987379336,Dunkin',Dunkin',,42.3743424,-71.0857379,14,McGrath Highway,Somerville,02143
+node,5007585143,Dunkin',Dunkin',,42.3891045,-71.0408296,130,Broadway,Chelsea,02150
+node,5032320098,Dunkin' Donuts,Dunkin',,42.1748978,-72.6409036,225,Whiting Farms Road,Holyoke,01040
+node,5037895388,Dunkin',Dunkin',,42.4048857,-71.0357644,372,Washington Avenue,Chelsea,02150
+node,5118009112,Dunkin',Dunkin',,42.3512984,-71.0659905,8,Park Plaza,Boston,02116
+node,5128879727,Dunkin' Donuts,Dunkin',,42.2051583,-71.0000477,240,Ivory Street,Braintree,02184
+node,5197251949,Dunkin',Dunkin',,42.3464972,-71.0875724,153,Massachusetts Avenue,Boston,02115
+node,5235769293,Dunkin',Dunkin',,42.8097606,-70.8705255,,,,
+node,5238856088,Dunkin' Donuts,Dunkin',,42.1912925,-70.9888596,238,Grove Street,Braintree,02184
+node,5265636487,Dunkin',Dunkin',,42.1160886,-72.0675134,215,Charlton Road,Sturbridge,01566
+node,5265747304,Dunkin' Donuts,Dunkin',,42.23323,-72.015296,72,West Main Street,Spencer,01562
+node,5276464352,Dunkin',Dunkin',,42.0968151,-72.5978736,85,Memorial Avenue,West Springfield,01089
+node,5380463925,Dunkin',Dunkin',,42.3653541,-71.0146427,,,East Boston,02128
+node,5380524226,Dunkin',Dunkin',,42.3677839,-71.0148405,,,,
+node,5380535024,Dunkin',Dunkin',,42.3657031,-71.0151548,,,,
+node,5380558931,Dunkin',Dunkin',,42.3619588,-71.0174548,,,Boston,02128
+node,5380576924,Dunkin',Dunkin',,42.3627135,-71.0179951,,,,
+node,5402641939,Dunkin',Dunkin',,42.1657782,-71.0451529,39,Warren Street,Randolph,02368
+node,5411107496,Dunkin' Donuts,Dunkin',,42.804962,-71.0494171,407,Amesbury Road,Haverhill,01830
+node,5412089699,Dunkin' Donuts,Dunkin',,42.8695952,-70.8819482,46A,Toll Road,Salisbury,01952
+node,5441156544,Dunkin',Dunkin',,42.1615604,-71.0635792,105,Mazzeo Drive,Randolph,02368
+node,5494285005,Dunkin',Dunkin',,42.4563658,-71.3910742,1191,Main Street,Concord,01742
+node,5567734725,Dunkin',Dunkin',,42.3294096,-71.0843243,2360,Washington Street,Roxbury,02119
+node,5572302365,Dunkin',Dunkin',,42.2512677,-71.8089496,399,Southbridge Street,Worcester,01610
+node,5579317899,Dunkin',Dunkin',,42.5761879,-70.9959035,260,South Main Street,Middleton,01949
+node,5582578752,Dunkin',Dunkin',,42.5751412,-71.0724447,6,Washington Street,North Reading,01864
+node,5590849499,Dunkin',Dunkin',,42.2303289,-71.8495058,60,South Ludlow Street,Worcester,01603
+node,5662143578,Dunkin',Dunkin',,42.4300913,-71.5890391,476,Main Street,Bolton,01740
+node,5745195938,Dunkin',Dunkin',,42.6678835,-71.1209967,315,Turnpike Street,North Andover,01845
+node,5847540470,Dunkin',Dunkin',,42.4053869,-71.1018674,275,Mystic Avenue,Medford,02155
+node,5932494735,Dunkin',Dunkin',,42.5261828,-71.087015,273,Salem Street,Reading,01867
+node,5965122845,Dunkin',Dunkin',,42.0801676,-72.6143259,389,Main Street,Agawam,01001
+node,6049362899,Dunkin',Dunkin',,42.1417764,-71.0618802,600,Page Street,Avon,02322
+node,6069355966,Dunkin',Dunkin',,42.197699,-71.0606225,1245,North Main Street,Randolph,02368
+node,6097042653,Dunkin',Dunkin',,42.201506,-71.0620492,1375-1395,North Main Street,Randolph,02368
+node,6109606286,Dunkin',Dunkin',,42.4184639,-71.1093267,2,Salem Street,Medford,02155
+node,6124523706,Dunkin',Dunkin',,42.3695516,-71.1114518,1001,Massachusetts Avenue,Cambridge,02138
+node,6135304943,Dunkin',Dunkin',,42.2368477,-70.8247259,156,King Street,Cohasset,02025
+node,6234789786,Dunkin',Dunkin',,42.3396129,-71.0885283,360,Huntington Avenue,Boston,02115
+node,6285300338,Dunkin',Dunkin',,42.1762895,-72.5806989,650,Memorial Drive,Chicopee,01020
+node,6322303590,Dunkin',Dunkin',,42.463934,-70.9439083,1,Central Square,,
+node,6345780660,Dunkin',Dunkin',,42.3308023,-71.2097957,1148,Beacon Street,Newton,02461
+node,6361380872,Dunkin',Dunkin',Dunkin' Donuts,42.4463784,-71.2218251,10,Woburn Street,Lexington,02420
+node,6368739776,Dunkin',Dunkin',,42.2088361,-71.1204003,2790,Washington Street,Canton,02021
+node,6381228569,Dunkin',Dunkin',,42.5489311,-70.9401804,153,Endicott Street,Danvers,01923
+node,6383944407,Dunkin',Dunkin',,41.9605534,-70.6702834,,,,
+node,6384046225,Dunkin',Dunkin',,41.9775022,-70.6879468,367,Court Street,Plymouth,02360
+node,6439769973,Dunkin',Dunkin',,42.3546641,-71.0544769,230,Congress Street,Boston,02110
+node,6510228126,Dunkin',Dunkin',,42.111723,-72.719263,625,East Main Street,Westfield,01085
+node,6535152420,Dunkin',Dunkin',,42.4421443,-71.4296134,100,Powdermill Road,Acton,01720
+node,6541113523,Dunkin',Dunkin',,42.5033092,-70.8898366,352,Lafayette Street,Salem,01970
+node,6549959444,Dunkin' Donuts,Dunkin',,41.771289,-70.954999,1,Mason Road,East Freetown,02717
+node,6573533344,Dunkin',Dunkin',,42.2190272,-71.180114,208,Providence Highway,Westwood,02090
+node,6743220762,Dunkin',Dunkin',,42.2910965,-71.8064075,67,West Boylston Street,Worcester,01606
+node,6743220766,Dunkin',Dunkin',,42.2846961,-71.8070828,340,Grove Street,Worcester,01605
+node,6780114186,Dunkin',Dunkin',,42.2176848,-71.2248239,915,High Street,Westwood,02090
+node,6788321732,Dunkin',Dunkin',,42.2102478,-71.1475462,50,University Avenue,Westwood,02090
+node,6810184617,Dunkin',Dunkin',,41.7693137,-71.2655937,2368,G A R Highway,Swansea,02777
+node,6813212838,Dunkin',Dunkin',,42.3408196,-71.0817728,434,Massachusetts Avenue,Boston,02118
+node,6818444238,Dunkin',Dunkin',,42.3478083,-71.2474649,2096,Commonwealth Avenue,Newton,02466
+node,6876714850,Dunkin',Dunkin',,42.6366522,-71.314586,,,,
+node,6940324634,Dunkin',Dunkin',,42.1200661,-71.3241986,134,Main Street,Norfolk,02056
+node,6940324637,Dunkin',Dunkin',,42.0742716,-71.2596298,127,Main Street,Foxboro,02035
+node,6965112020,Dunkin',Dunkin',,42.2399855,-71.369006,21,South Main Street,Sherborn,01770
+node,6974241986,Dunkin',Dunkin',,42.3594904,-71.0590046,100,City Hall Plaza,Boston,02114
+node,6979767274,,,DUNKIN DONUTS,42.4067633,-71.0835627,,,,
+node,7072426441,Dunkin',Dunkin',,42.4631041,-71.2873535,,,Bedford,01730
+node,7089482025,Dunkin',Dunkin',,42.3210071,-71.3639009,15,East Plain Street,Wayland,01778
+node,7098323235,Dunkin' Donuts,Dunkin',,42.5735267,-70.769304,40,Beach Street,Manchester by the Sea,01944
+node,7100285256,Dunkin',Dunkin',,42.3717171,-71.1211329,65,John F. Kennedy Street,Cambridge,02138
+node,7123801800,Dunkin' Donuts,Dunkin',,42.3285151,-71.4361855,876,Edgell Road,Framingham,01701
+node,7176068705,Dunkin',Dunkin',,42.3365119,-71.0892211,1131,Tremont Street,Boston,02120
+node,7201833218,Dunkin',Dunkin',,42.2151889,-71.1890596,400,Washington Street,Westwood,02090
+node,7202757509,Dunkin',Dunkin',,42.2835391,-71.3718628,117,West Central Street,Natick,01760
+node,7221486368,Dunkin',Dunkin',,42.1539668,-71.2461064,703,Main Street,Walpole,02081
+node,7239465809,Dunkin' Donuts,Dunkin' Donuts,,42.1216866,-71.1018555,,,,
+node,7285676508,Dunkin',Dunkin',,42.2856462,-71.2357773,1203,Highland Avenue,Needham,02494
+node,7426571371,Dunkin' Donuts,Dunkin',,42.4465741,-71.3589496,1089,Concord Turnpike,Concord,01742
+node,7539307935,Dunkin',Dunkin',,42.3496159,-71.0799834,715,Boylston Street,Boston,02116
+node,7620194376,Dunkin',Dunkin',,42.1204381,-71.0923054,287,Park Street,Stoughton,02072
+node,7623947953,Dunkin',Dunkin',,42.3591135,-71.0547647,111,State Street,Boston,02109
+node,7626047621,Dunkin',Dunkin',,42.3690295,-71.0392695,13-15,Maverick Square,East Boston,02128
+node,7626593343,Dunkin',Dunkin',,42.3754791,-71.0389062,34,William Kelley Square,East Boston,02128
+node,7633387903,Dunkin',Dunkin',,42.3962145,-71.0088471,41,Lee Burbank Highway,Revere,02151
+node,7690362223,Dunkin',Dunkin',,42.3533777,-71.1385047,509,Cambridge Street,Boston,02134
+node,7734560605,Dunkin',Dunkin',,42.355161,-71.0631006,147,Tremont Street,Boston,02111
+node,7821436197,Dunkin',Dunkin',Dunkin,42.1066648,-72.5934636,55,Frank B Murray Street,Springfield,01103
+node,7821801619,Dunkin',Dunkin',,42.3657428,-71.0624257,100,Legends Way,Boston,02114
+node,7823784779,Dunkin',Dunkin',,42.3473185,-71.0756143,145,Dartmouth Street,Boston,02116
+node,7888146048,Dunkin',Dunkin',,42.3250576,-71.2595895,12,Washington Street,Wellesley,02481
+node,7903279606,Dunkin',Dunkin',,42.2849762,-71.0648556,1931,Dorchester Avenue,Dorchester,02124
+node,7924592200,Dunkin',Dunkin',,42.3628339,-71.0839222,1,Broadway,Cambridge,02142
+node,7926688804,Dunkin',Dunkin',,42.3469236,-71.08291,800,Boylston Street,Boston,02199
+node,7970559768,Dunkin' Donuts,Dunkin',,41.6167789,-70.5170984,401,Nathan Ellis Highway,Mashpee,02649
+node,8169170202,Dunkin',Dunkin',,42.2969154,-71.0604781,1580,Dorchester Avenue,Dorchester,02122
+node,8214968018,Dunkin',Dunkin',,41.70609,-70.0215829,109,Route 137,Harwich,02645
+node,8491489148,Dunkin' Donuts,Dunkin',,42.5870557,-72.4893373,63,French King Highway,Erving,01344
+node,8547097223,Dunkin',Dunkin',,42.1496699,-71.5012554,35,Medway Road,Milford,01757
+node,8564200578,Dunkin' Donuts,Dunkin',,42.2470326,-72.5444271,77,West State Street,Granby,01033
+node,8591579836,Dunkin',Dunkin',,42.4108057,-71.1204021,364,Boston Avenue,Medford,02155
+node,8591736850,Dunkin',Dunkin',,42.2681716,-72.6714491,60,Union Street,Easthampton,01027
+node,8591810086,Dunkin' Donuts,Dunkin',,42.2807257,-72.6706413,126,Northampton Street,Easthampton,01027
+node,8596977668,Dunkin',Dunkin',,42.4030791,-71.0498929,1885,Revere Beach Parkway,Everett,02149
+node,8596977669,Dunkin',Dunkin',,42.4023875,-71.0498456,1886-16,Revere Beach Parkway,Everett,02149
+node,8630846200,Dunkin',Dunkin',,41.9063366,-71.0374595,748,New State Highway,Raynham,02767
+node,8660330823,Dunkin',Dunkin',,42.3361283,-71.8355557,5,Shrewsbury Street,Holden,01520
+node,8660330824,Dunkin',Dunkin',,42.3500337,-71.8616324,1175,Main Street,Holden,01520
+node,8785546452,Dunkin's,Dunkin',,42.4178,-71.4469326,2,DIgital Way,Maynard,01742
+node,8902383189,Dunkin' Donuts,Dunkin',,41.6648151,-71.1564785,1099,William South Canning Boulevard,Fall River,02721
+node,8929655760,Dunkin',Dunkin',,41.7329417,-71.1743004,1073,Grand Army Highway,Somerset,02726
+node,8929655774,Dunkin',Dunkin',,41.7488554,-71.2093117,651,Gar Highway,Swansea,02777
+node,8929665620,Dunkin',Dunkin',,41.7291129,-71.1664409,505,Gar Highway,Somerset,02726
+node,8939498652,Dunkin',Dunkin',,41.7003789,-71.1451458,15,Robeson Street,Fall River,02720
+node,8944494742,Dunkin' Donuts,Dunkin',,41.713708,-71.1272595,325,Elsbree Street,Fall River,02720
+node,8944672516,Dunkin',Dunkin',,41.7152011,-71.1512914,1023,North Main Street,Fall River,02720
+node,8944714729,Dunkin' Donuts,Dunkin',,41.710918,-71.1421719,190,New Boston Road,Fall River,02720
+node,8944714730,Dunkin',Dunkin',,41.6995099,-71.1596786,234,Milliken Boulevard,Fall River,02721
+node,8944714731,Dunkin',Dunkin',,41.6964277,-71.1530323,350,Rodman Street,Fall River,02721
+node,8944714732,Dunkin',Dunkin',,41.6973931,-71.1446615,657,Pleasant Street,Fall River,02721
+node,8944714733,Dunkin',Dunkin',,41.6874117,-71.1720076,499,Globe Street,Fall River,02724
+node,8944714734,Dunkin',Dunkin',,41.6825668,-71.1630923,64,Rhode Island Avenue,Fall River,02724
+node,8944714735,Dunkin',Dunkin',,41.6836528,-71.1485828,540,Brayton Avenue,Fall River,02721
+node,8944714736,Dunkin' Donuts,Dunkin' Donuts,,41.6814875,-71.1319606,,,,
+node,8944714737,Dunkin' Donuts,Dunkin',,41.6757621,-71.1081625,175,State Road,Westport,02790
+node,8944714738,Dunkin',Dunkin',,41.6936403,-71.1393934,400,Quarry Street,Fall River,02723
+node,8981460767,Dunkin',Dunkin',,42.3339118,-71.103702,1631,Tremont Street,Boston,02120
+node,8996634308,Dunkin',Dunkin',,42.056092,-72.5544219,711,Bliss Road,Longmeadow,01106
+node,9049595405,Dunkin',Dunkin',,41.8182909,-70.5516984,2300,State Road,Plymouth,02360
+node,9085524072,Dunkin',Dunkin',,42.0943935,-71.2197577,700,South Main Street,Sharon,02067
+node,9170394245,Dunkin',Dunkin',,42.2985255,-71.3898714,1362,Worcester Street,Natick,01760
+node,9201472597,Dunkin',Dunkin',,42.3858911,-71.2227041,175,Forest Street,Waltham,02452
+node,9219822034,Dunkin',Dunkin',,42.3757298,-71.053461,100,First Avenue,Boston,02129
+node,9219822035,Dunkin',Dunkin',,42.3130263,-71.0370383,100,Campus Shuttle Loop,Boston,02125
+node,9219822037,Dunkin',Dunkin',,42.3437535,-71.0658457,1138,Washington Street,Boston,02118
+node,9219822038,Dunkin',Dunkin',,42.3319407,-71.0968361,1443,Tremont Street,Boston,02120
+node,9219822039,Dunkin',Dunkin',,42.3509519,-71.0622372,16,Kneeland Street,Boston,02111
+node,9219822040,Dunkin',Dunkin',,42.3321271,-71.0735116,17,Melnea Cass Boulevard,Boston,02119
+node,9219822041,Dunkin',Dunkin',,42.360663,-71.0563348,20,North Street,Boston,02109
+node,9219822042,Dunkin',Dunkin',,42.3397557,-71.1047728,330,Brookline Avenue,Boston,02215
+node,9219822043,Dunkin',Dunkin',,42.3568053,-71.0587673,330,Washington Street,Boston,02108
+node,9219822044,Dunkin',Dunkin',,42.3384772,-71.1070671,350,Longwood Avenue,Boston,02115
+node,9219822045,Dunkin',Dunkin',,42.331185,-71.1119487,37,South Huntington Avenue,Boston,02130
+node,9219822046,Dunkin',Dunkin',,42.3458986,-71.0987936,4,Yawkey Way,Boston,02115
+node,9219822048,Dunkin',Dunkin',,42.3379817,-71.1087766,457,Brookline Avenue,Boston,02215
+node,9219822049,Dunkin',Dunkin',,42.3499038,-71.0631836,750,Washington Street,Boston,02111
+node,9219822050,Dunkin',Dunkin',,42.3507861,-71.1089916,775,Commonwealth Avenue,Boston,02215
+node,9219822051,Dunkin',Dunkin',,42.348442,-71.0823143,800,Boylston Street,Boston,02199
+node,9219822052,Dunkin',Dunkin',,42.3425619,-71.0563463,48,West Broadway,South Boston,02127
+node,9276033583,Dunkin',Dunkin',,41.6524089,-70.287469,149,North Street,Hyannis,02601
+node,9307450537,Dunkin',Dunkin',,42.3584562,-71.1263614,219,Cambridge Street,Allston,02134
+node,9325753304,Dunkin',Dunkin',,42.3629503,-71.0178949,,,East Boston,02128
+node,9325824924,Dunkin',Dunkin',,41.656463,-70.9123605,32,Howland Road,Fairhaven,02719
+node,9404238547,Dunkin',Dunkin',,42.3686005,-71.2717601,88,Boston Post Road,Weston,02493
+node,9450635674,Dunkin',Dunkin',,42.2728645,-71.8134891,185,Park Avenue,Worcester,01609
+node,9455399898,Dunkin',Dunkin',,42.5470109,-70.9199376,128,Water Street,Danvers,01923
+node,9544549516,Dunkin',Dunkin',,42.2768701,-71.76182,55,North Lake Avenue,Worcester,01655
+node,9607815552,Dunkin',Dunkin',,42.5888637,-71.1581406,206,Ballardvale Street,Wilmington,01887
+node,9655221239,Dunkin',Dunkin',,42.4199692,-71.0437724,903,Broadway,Everett,02149
+node,9733716134,Dunkin',Dunkin',,42.2713905,-71.0265865,65,Newport Avenue,Quincy,02171
+node,9737687519,Dunkin',Dunkin',Dunkin',42.4444821,-71.7522669,50,Leominster Road,Sterling,01564
+node,9755476573,Dunkin',Dunkin',,41.7508286,-70.5988016,278,Main Street,Buzzards Bay,02532
+node,9776352878,Dunkin',Dunkin',,42.4084864,-73.263009,1025,South Street,Pittsfield,01201
+node,9776907080,Dunkin',Dunkin',,42.4730636,-71.0361176,339,Main Street,Saugus,01906
+node,9822701203,Dunkin',Dunkin',,42.320882,-71.0609283,256,Boston Street,Dorchester,02125
+node,9853645978,Dunkin',Dunkin',,42.6101769,-70.8732288,15,Walnut Road,Hamilton,01982
+node,9854394848,Dunkin',Dunkin',,42.5755403,-70.8921398,44,Dodge Street,Beverly,01915
+node,9925121400,Dunkin',Dunkin',,42.2774805,-71.6752146,,,,
+node,9927038820,Dunkin donuts,Dunkin',,42.1928527,-71.7565463,,,,
+node,9934160949,Dunkin',Dunkin',,42.2751184,-71.6787782,866,Hartford Turnpike,Shrewsbury,01545
+node,9973380943,Dunkin',Dunkin',,42.4743009,-70.9899812,577A,Walnut Street,Lynn,01905
+node,9975547374,Dunkin',Dunkin',,42.3555978,-71.6127283,,,,
+node,9977235024,Dunkin',Dunkin',,42.6656458,-71.5852232,61-63,Main Street,Pepperell,01463
+node,10000119969,Dunkin',Dunkin',,42.4210411,-71.1329116,4,Harvard Avenue,Medford,02155
+node,10067834308,Dunkin',Dunkin',,42.6215359,-71.1846281,,,,
+node,10202888657,Dunkin',Dunkin',,42.3618969,-71.0195807,,,,
+node,10285346985,Dunkin',Dunkin',,42.2956026,-71.1160724,7,Walk Hill Street,Jamaica Plain,02130
+node,10650478013,Dunkin',Dunkin',,42.3365877,-71.1488136,1912,Beacon Street,Boston,02135
+node,10709866227,Dunkin',Dunkin',,42.5577244,-72.2856392,167,Daniel Shays Highway,Orange,01364
+node,10742623230,Dunkin',Dunkin',,42.2210709,-71.0253969,551,Granite Street,Braintree,02184
+node,10771880233,Dunkin',Dunkin',,42.6705984,-71.4974682,238,Pleasant Street,Dunstable,01827
+node,10790229519,Dunkin',Dunkin',,42.3661577,-71.238529,591,Moody Street,Waltham,02453
+node,10829838775,Dunkin',Dunkin',,42.2458929,-71.8100612,590,Southbridge Street,Worcester,01610
+node,10885280995,,,Dunkin',42.3437202,-71.0659656,,,,
+node,10915259586,Dunkin',Dunkin',,41.6822907,-69.9914288,,,,
+node,10938406181,Dunkin',Dunkin',,42.3424414,-71.1210641,1316,Beacon Street,Brookline,02446
+node,10963824305,Dunkin',Dunkin',,42.6506344,-70.9350349,367,Boston Street,Topsfield,01983
+node,11028084861,Dunkin',Dunkin',,42.281132,-71.6322124,,,,
+node,11051429161,Dunkin',Dunkin',,41.6119476,-70.4892042,40,South Street,Mashpee,02649
+node,11078950119,Dunkin',Dunkin',,42.6491567,-71.1830013,309,Lowell Street,Andover,01810
+node,11214346002,Dunkin',Dunkin',,42.1530618,-71.4909833,350,East Main Street,Milford,01757
+node,11265214186,Dunkin',Dunkin',,42.0133498,-71.2327979,321,School Street,Mansfield,02048
+node,11265331828,Dunkin',Dunkin',,42.024198,-71.1188534,700,Depot Street,North Easton,02356
+node,11265422539,Dunkin',Dunkin',,42.0466743,-71.0801625,606,Washington Street,South Easton,02375
+node,11474809042,Dunkin',Dunkin',,42.4832285,-70.9014809,980,Paradise Road,Swampscott,01907
+node,11476857453,Dunkin',Dunkin',,42.5578167,-71.2989601,1,Republic Road,North Billerica,01862
+node,11476875015,Dunkin',Dunkin',,42.5087541,-71.1243041,4,West Street,Reading,01867
+node,11476885251,Dunkin',Dunkin',,42.6608079,-71.4274346,95,Westford Road,Tyngsborough,01879
+node,11477322388,Dunkin',Dunkin',,42.4320015,-71.0261376,155;163,Beach Street,Revere,01251
+node,11483121055,Dunkin',Dunkin',,42.4707763,-72.6157545,1,Greenfield Road,South Deerfield,01373
+node,11483373244,Dunkin',Dunkin',,42.5792889,-72.1803481,1271,Templeton Road,Athol,01331
+node,11492003998,Dunkin',Dunkin',,42.3927796,-71.5573306,350,Main Street,Hudson,01749
+node,11495396690,Dunkin',Dunkin',,41.9375574,-71.0811071,,,,
+node,11538297669,Dunkin Donuts,,,41.910686,-70.7358851,,,,02330
+node,11669966592,Dunkin',Dunkin',,42.1742584,-71.8767049,895,Southbridge Street,Auburn,01501
+node,11702040609,Dunkin',Dunkin',,42.5549709,-71.4405497,294B,Littleton Road,Westford,01886
+node,11737736340,Dunkin',Dunkin',,42.4768297,-71.4499644,315,Main Street,Acton,01720
+node,11879456170,Dunkin',Dunkin',,41.6342133,-70.9275352,231,Union Street,New Bedford,02740
+node,11896287911,Dunkin',Dunkin',,42.3957444,-71.1414744,5,Cambridgepark Drive,,02140
+node,11921068374,Dunkin',Dunkin',,42.0910987,-72.0664353,120,Main Street,Sturbridge,01566
+node,11936158177,Dunkin',Dunkin',,41.6930828,-70.1503035,6,Enterprise Road,South Dennis,02660
+node,11936164403,Dunkin',Dunkin',,41.755194,-70.1128451,15,Lower Road,Brewster,02631
+node,11936192174,Dunkin',Dunkin',,41.6601113,-70.2756813,156,Iyannough Road,Hyannis,02601
+node,11965980119,Dunkin',Dunkin',,42.6405438,-72.0047487,,,,
+node,11989307393,Dunkin',Dunkin',,41.6136924,-70.9315208,,Rockdale Avenue,New Bedford,02744
+node,12006185802,Dunkin',Dunkin',,42.1451145,-71.9888686,28,Worcester Road,Charlton,01507
+node,12009611075,Dunkin',Dunkin',,42.1668043,-71.8937702,138,Southbridge Road,North Oxford,01537
+node,12069007040,Dunkin',Dunkin',,42.0707842,-72.0142231,,,,
+node,12082018756,Dunkin',Dunkin',,42.3656352,-71.1037772,655,Massachusetts Avenue,Cambridge,02139
+node,12105312701,Dunkin',,,42.0373912,-71.3473698,,,,
+node,12119430379,Dunkin',Dunkin',,41.7700227,-71.2653575,,,,
+node,12167226278,Dunkin',Dunkin',,42.2972178,-71.0156634,751,East Squantum Street,Quincy,02171
+node,12184966848,Dunkin',Dunkin',,42.0436446,-70.882493,1120,Main Street,Hanson,02341
+node,12272115666,Dunkin',Dunkin',,42.426137,-71.1953781,,,,
+node,12307696859,Dunkin',Dunkin',,41.9342312,-71.3001732,,,,
+node,12388292473,Dunkin',Dunkin',,42.4227969,-71.0919972,,,,
+node,12572239601,Dunkin',Dunkin',,42.5397011,-71.6138736,,,,
+node,12602372202,Dunkin',Dunkin',,42.3805014,-71.2370065,,,,
+node,12602375301,Dunkin' Donuts,,,41.8930887,-70.7753552,,,,02330
+node,12637954932,Dunkin',Dunkin',,42.7509034,-71.1721094,163,Howe Street,Methuen,01844
+node,12663046555,Brand: Dunkin',,,42.1511249,-72.467825,2144,Boston Road,Wilbraham,01095
+node,12717508901,Dunkin',Dunkin',,42.3759977,-71.5637855,256,Washington Street,Hudson,01749
+node,12732376015,Dunkin',Dunkin',,42.2761347,-71.2150777,,,,
+node,12762779437,Dunkin',Dunkin',,42.2563455,-72.2517953,139,West Street,Ware,01082
+node,12780122234,Dunkin',Dunkin',,41.6578294,-70.3472665,,,,
+node,12919624363,Dunkin',Dunkin',,42.2773544,-71.4130106,334,Waverly Street,Framingham,01702
+node,12941615542,Dunkin',Dunkin',,42.3520801,-71.1158015,10,Buick Street,,
+node,12941617510,Dunkin',Dunkin',,42.3520869,-71.1158266,10,Buick Street,,
+node,13034904610,Dunkin',Dunkin',,42.4862846,-71.539898,,,,
+node,13092760682,Dunkin',,,41.6749076,-71.1083196,,,,
+node,13100846702,Dunkin',Dunkin',,42.2547123,-71.7989596,185R,Madison Street,Worcester,
+node,13103819253,Dunkin',Dunkin',,42.2463106,-71.8351917,,,,
+node,13104307904,Dunkin',Dunkin',,41.6241354,-70.5512464,1184,Sandwich Road,East Falmouth,02536
+node,13119586315,Dunkin',Dunkin',,42.261268,-71.8180272,,,,
+node,13140089245,Dunkin',Dunkin',,42.4810445,-71.107618,62,Montvale Avenue,Stoneham,02180
+node,13141652543,Dunkin',Dunkin',"University of Massachusetts, Dartmouth",41.6286497,-71.0043767,,,,
+node,13147597720,Dunkin',Dunkin',,42.2001196,-72.6060335,,,,
+node,13148248212,Dunkin',Dunkin',,42.5119368,-70.9919548,932,Lynnfield Street,Lynn,01904
+node,13149451009,Dunkin's inc. Merrimac Rug,,,42.6392536,-71.3149814,,,,
+node,13185301178,Dunkin',Dunkin',,41.7699006,-71.137826,,,,
+node,13228187518,Dunkin',Dunkin',,42.1402163,-72.733341,,,,
+node,13258300732,Dunkin',Dunkin',,41.640309,-70.8854906,18,Plaza Way,Fairhaven,02719
+node,13258920250,Dunkin',Dunkin',,41.6224238,-70.9200602,359,South Front Street,New Bedford,02740
+node,13260540971,Dunkin',Dunkin',,42.3679546,-71.2571526,,,,
+node,13262962417,Dunkin',Dunkin',,42.0638056,-72.5164156,,,,
+node,13271419863,Dunkin',Dunkin',,42.3413511,-71.1043049,,,,
+node,13276144865,Dunkin',Dunkin',,42.5474044,-71.8536673,,,,
+node,13276144867,Dunkin',Dunkin',,42.5455713,-71.8542831,,,,
+node,13278452957,Dunkin',Dunkin',,42.5522529,-71.8457049,,,,
+node,13295193287,Dunkin',Dunkin',,42.5531814,-71.7842453,,,,
+node,13338726037,Dunkin',Dunkin',,42.3568848,-71.1877993,,,,
+node,13338769909,Dunkin',Dunkin',,42.4307618,-70.9794184,,,,
+node,13338776172,Dunkin',Dunkin',,42.4579255,-70.9500184,,,,
+node,13384488593,Dunkin',Dunkin',,42.4007343,-71.1172742,,,,
+node,13388230758,Dunkin',Dunkin',,41.8867412,-71.1352408,148,North Walker Street,Taunton,02780
+node,13449392797,Dunkin',Dunkin',,42.5285867,-71.7586734,,,,
+node,13521055828,Dunkin',Dunkin',,42.4938129,-71.7268641,,,,
+node,13532358134,Dunkin',Dunkin',,42.2164775,-70.9644697,185,Washington Street,Weymouth,02188
+node,13540050941,Dunkin',Dunkin',,42.5196956,-71.7578644,,,,
+node,13628644251,Dunkin',Dunkin',,42.5850137,-72.20687,,,,
+node,13712542948,Dunkin',Dunkin',,42.218159,-71.540841,78,West Main Street,,
+node,13720711210,Dunkin',Dunkin',,42.2420664,-71.8450163,,,,
+node,13723607217,Dunkin',Dunkin',,42.1682669,-72.3266129,,,,
+node,13725551164,Dunkin',Dunkin',,42.5662753,-73.1633427,173,North Street,Cheshire,01225
+node,13765537144,Dunkin',Dunkin',,42.5339124,-70.8873101,31,Bridge Street,Salem,01970
+node,13791623181,Dunkin',Dunkin',,42.3900344,-71.1429051,,,,
+node,13819589984,Dunkin',Dunkin',,42.3935219,-71.0835174,,,,
+node,13879300802,Dunkin',,,42.0895714,-71.0935364,3,Roche Brothers Way,,
+node,13894762398,Dunkin',Dunkin',,42.0558871,-72.7694337,,,,
+node,13894801258,Dunkin',Dunkin',,42.5347657,-71.2367769,,,,
+node,13912264602,Dunkin',,,41.6648413,-70.8102035,51,County Road,,
+node,13913398301,Dunkin',Dunkin',,41.7870466,-70.6397414,3,Barker Road,,
+node,13913561250,Dunkin',Dunkin',,42.1827747,-71.8615319,,,,
+node,13913629290,Dunkin',Dunkin',,41.8546984,-71.1162129,420,Somerset Avenue,Dighton,02764
+node,13913633597,Dunkin',Dunkin',,41.8504544,-71.0641122,34-38,Padelford Street,Berkley,02779
+node,13917857701,Dunkin',Dunkin',,41.9856401,-71.1576891,,,,
+node,13920618605,Dunkin',Dunkin',,42.5335439,-71.2630139,612,Middlesex Turnpike,,
+node,13929844421,Dunkin',Dunkin',,42.5776423,-71.7495617,,,,
+node,13956240015,Dunkin',Dunkin',,42.7029694,-70.9104688,,,,
+node,13958085145,Dunkin',Dunkin',,42.4397255,-71.2502147,,,,
+node,14013835764,Dunkin',Dunkin',,42.5369437,-71.7059246,,,,
+node,14023097960,Dunkin',Dunkin',,42.3515156,-71.1215955,,,,
+node,14080632249,Dunkin',Dunkin',,42.4185825,-71.1085589,,,,
+node,14108064786,Dunkin',Dunkin',,42.5300145,-71.2065178,,,,
+node,14165308212,Dunkin',Dunkin',,42.3628647,-71.3644112,289,Boston Post Road,Wayland,01778
+node,14167973669,Dunkin',Dunkin',,42.1297684,-70.9496324,937,Bedford Street,North Abington,02351
+node,14195922416,Dunkin',Dunkin',,42.2285205,-70.9857734,29,Hayward Street,,
+way,29519130,Dunkin',Dunkin',,42.3957592,-71.0524151,276,Beacham Street,Chelsea,02150
+way,29519642,Dunkin',Dunkin',,42.3937339,-71.0388407,83,Everett Avenue,Chelsea,02150
+way,29523280,Dunkin',Dunkin',,42.5034701,-71.1320529,305,Mishawum Road,Woburn,01801
+way,29523403,Dunkin',Dunkin',,42.4976353,-71.1257422,344,Washington Street,Woburn,01801
+way,29532632,Dunkin',Dunkin',,42.4605031,-70.9685392,819,Western Avenue,Lynn,01905
+way,29536712,Dunkin',Dunkin',,42.4099317,-71.1393978,101,Broadway,Arlington,02474
+way,29551398,Dunkin',Dunkin',Dunkin' Donuts,42.4064815,-71.0827458,620,Fellsway,Medford,02155
+way,29552329,Dunkin',Dunkin',,42.4799181,-71.1200696,318,Montvale Avenue,Woburn,01801
+way,29552909,Dunkin',Dunkin',,42.4593267,-71.1397903,797;801,Main Street,Winchester,01890
+way,29557636,Dunkin',Dunkin',,42.4304111,-71.0422526,980,Eastern Avenue,Malden,02148
+way,29568317,Dunkin',Dunkin',,42.3297497,-71.0574338,510,Southampton Street,Boston,02127
+way,29574599,Dunkin',Dunkin',,42.2404835,-70.9906738,227,Quincy Avenue,Quincy,02169
+way,29578203,Dunkin',Dunkin',,42.3987102,-71.1321609,2480;2482,Massachusetts Avenue,Cambridge,02140
+way,29582003,Dunkin',Dunkin',,42.3827814,-70.9936144,20,Main Street,Winthrop,02152
+way,29590471,Dunkin',Dunkin',,42.3660406,-71.1820469,49,Mount Auburn Street,Watertown,02472
+way,29622844,Dunkin',Dunkin',,42.4767463,-71.09063,128,Franklin Street,Stoneham,02180
+way,29623536,Dunkin',Dunkin',,42.2803299,-71.0345451,125,Hancock Street,,
+way,29626896,Dunkin',Dunkin',,42.3357565,-71.0560104,75,Old Colony Avenue,South Boston,02127
+way,29636231,Dunkin',Dunkin',,42.3878457,-71.1422941,517;527,Concord Avenue,Cambridge,02138
+way,29638295,Dunkin',Dunkin',,42.3625888,-71.1307259,209;211,North Harvard Street,Allston,02134
+way,29642762,Dunkin',Dunkin',,42.3787804,-71.0946259,282;286,Somerville Avenue,Somerville,02143
+way,29652014,Dunkin',Dunkin',,42.423894,-71.0655399,57;59,Eastern Avenue,Malden,02148
+way,29653718,Dunkin',Dunkin',,42.4640957,-71.0626253,470,Lynn Fells Parkway,Melrose,02176
+way,29657690,Dunkin',Dunkin',,42.293712,-71.0480822,855,William T Morrissey Boulevard,Dorchester,02122
+way,29665935,Dunkin',Dunkin',,42.2427618,-70.9582831,162-180,Bridge Street,Weymouth,02191
+way,29672269,Dunkin',Dunkin',,42.3625482,-71.1530788,640,Arsenal Street,Watertown,02472
+way,29677888,Dunkin',Dunkin',,42.2835942,-71.1125017,684,American Legion Highway,,
+way,29715743,Dunkin',Dunkin',,42.4890326,-71.0997933,196,Main Street,Stoneham,02180
+way,29729595,Dunkin',Dunkin',,42.4143987,-71.1104072,154,Main Street,Medford,02155
+way,29737492,Dunkin',,,42.409408,-71.0536608,520;524,Broadway,,
+way,29757639,Dunkin' Donuts,Dunkin',,42.1969259,-71.0055339,1172,Washington Street,Braintree,02184
+way,29757870,Dunkin',Dunkin',,42.2579561,-71.0403498,545,Adams Street,,
+way,29759225,Dunkin',Dunkin',,42.2401119,-71.003636,,,,
+way,29767957,Dunkin',Dunkin',,42.4583808,-71.0234051,1204,Broadway,Saugus,01906
+way,29786538,Dunkin',Dunkin',,42.2378938,-71.1321229,1800,Hyde Park Avenue,Hyde Park,02136
+way,29798563,Dunkin',Dunkin',,42.483009,-71.02058,533,Broadway,Saugus,01906
+way,29801853,Dunkin',Dunkin',,42.3094051,-71.0820597,456,Blue Hill Avenue,,
+way,29834062,Dunkin',Dunkin',,42.3981991,-71.0207124,356,Eastern Avenue,Chelsea,02150
+way,29841838,Dunkin',Dunkin',,42.2625432,-70.9854922,360-364,Sea Street,Quincy,02169
+way,29846212,Dunkin',Dunkin',,42.2877609,-71.0237537,,,,
+way,29853441,Dunkin',Dunkin',,42.1997144,-70.9549717,38,Winter Street,Weymouth,02188
+way,29869376,Dunkin',Dunkin',,42.4523305,-71.0672754,350,Main Street,Melrose,02176
+way,29884600,Dunkin',Dunkin',,42.3705757,-71.1952164,448,Main Street,Watertown,02472
+way,29890047,Dunkin',Dunkin',,42.2578309,-71.1232092,1200,Hyde Park Avenue,Hyde Park,02136
+way,29934289,Dunkin',Dunkin',,42.3498971,-71.1302954,210,Harvard Avenue,Allston,02134
+way,29951973,Dunkin',Dunkin',,42.3370328,-71.0771482,616,Massachusetts Avenue,Boston,02118
+way,29963736,Dunkin',Dunkin',,42.267048,-71.015599,687,Hancock Street,Quincy,02170
+way,29971682,Dunkin',Dunkin',,42.3860405,-70.9768116,230,Revere Street,Winthrop,02152
+way,45191852,Dunkin',Dunkin',,42.3764262,-71.2453652,859,Main Street,Waltham,02451
+way,46656381,Dunkin',Dunkin',,42.2010429,-70.945387,787,Washington Street,Weymouth,02189
+way,46995398,Dunkin',Dunkin',,42.2442437,-70.9396739,645,Bridge Street,North Weymouth,02191
+way,49159581,Dunkin',Dunkin',,42.4326981,-71.4854505,108,Great Road,Stow,01775
+way,51993449,Dunkin',Dunkin',,42.6134885,-70.6593455,205,Main Street,Gloucester,01930
+way,53967692,Dunkin',Dunkin',,42.6165369,-70.6696221,130,Washington Street,Gloucester,01930
+way,54936011,Dunkin',Dunkin',,42.6977189,-71.4401786,440,Middlesex Road,Tyngsboro,01879
+way,60845754,Dunkin',Dunkin',,42.1800619,-70.9558121,755,Main Street,South Weymouth,02190
+way,66508937,Dunkin',Dunkin',,42.4600104,-71.1639723,400,Cambridge Road,Woburn,01801
+way,75296377,Dunkin',Dunkin',,42.134901,-72.7395781,127,North Elm Street,Westfield,01085
+way,82806208,Dunkin',Dunkin',,42.1265219,-71.068294,5,Stockwell Drive,Avon,02322
+way,83914028,Dunkin',Dunkin',,42.5897286,-71.2036477,1973,Main Street,Tewksbury,01876
+way,107511251,Dunkin',Dunkin',,42.6540179,-71.3270003,182,Riverside Street,,
+way,129030740,Dunkin' Donuts,Dunkin',,42.2168707,-70.9219501,1540,Commercial Street,Weymouth,02189
+way,138030987,Dunkin',Dunkin',,42.5419416,-71.166735,586,Main Street,Wilmington,01887
+way,138875642,Dunkin',Dunkin',,42.3112141,-71.3661209,8,Massachusetts Turnpike,Natick,
+way,139040005,Dunkin' Donuts,Dunkin',,42.6239296,-71.3624956,80,Drum Hill Road,Chelmsford,01824
+way,150417021,Dunkin',Dunkin',,42.5582975,-71.1825568,195,Main Street,Wilmington,01887
+way,164418806,Dunkin' Donuts,Dunkin',,42.6413456,-71.3526903,515,Pawtucket Boulevard,Lowell,01854
+way,173107595,Dunkin',Dunkin',,42.6851006,-71.139784,226,Winthrop Avenue,Lawrence,01843
+way,181956866,Dunkin',Dunkin',,42.7282108,-71.2023063,145,Pelham Street,Methuen,01844
+way,196035365,Dunkin',Dunkin',,42.1039452,-70.9554919,259,Brockton Avenue,,
+way,196403501,Dunkin',Dunkin',,42.2038927,-71.8372351,386,Southbridge Street,Auburn,01501
+way,196409778,Dunkin',Dunkin',,42.1986359,-71.8190416,310,Washington Street,,
+way,196420242,Dunkin',Dunkin',,41.7101599,-70.0239727,175,Route 137,Harwich,02645
+way,196450194,Dunkin',Dunkin',,42.4195246,-71.1530542,21,Summer Street,Arlington,02474
+way,196454035,Dunkin',Dunkin',,42.4239275,-71.1782736,1234,Massachusetts Avenue,Arlington,02476
+way,196506409,Dunkin',Dunkin',,42.1220289,-71.033056,20,Memorial Drive,Avon,02322
+way,196724111,Dunkin',Dunkin',,42.7989839,-70.8744192,167,State Street,Newburyport,01950
+way,199130061,Dunkin',Dunkin',,42.7636971,-71.0387653,259,Lincoln Avenue,Haverhill,01830
+way,199289896,Dunkin' Donuts,Dunkin',,42.7724091,-71.0764941,15,South Main Street,Bradford,01835
+way,204194347,Dunkin' Donuts,Dunkin',,42.2096822,-72.6297244,1600,Northampton Street,Holyoke,01040
+way,211826529,Dunkin',Dunkin',Dunkin' Donuts,42.6729265,-71.1506231,349,North Main Street,Andover,01810
+way,211845567,Dunkin',Dunkin',,42.5828063,-72.2615942,1634,South Main Street,,
+way,211863929,Dunkin',Dunkin',,41.6680324,-70.2929959,702,Iyannough Road,,
+way,211873693,Dunkin',Dunkin',,41.6535653,-70.3225174,751,West Main Street,Hyannis,02601
+way,211956541,Dunkin',Dunkin',,41.6481766,-70.4223396,3821,Falmouth Road,Marstons Mills,02648
+way,211976456,Dunkin',Dunkin',,42.4871325,-71.263316,306,The Great Road,Bedford,01730
+way,212055445,Dunkin',Dunkin',,42.5866621,-70.8849463,41,Enon Street,Beverly,01915
+way,212082878,Dunkin',Dunkin',,42.5535799,-71.2651877,459,Boston Road,,
+way,212113318,Dunkin',Dunkin',,42.0158555,-71.5280276,2,Main Street,Blackstone,01504
+way,212142005,Dunkin',Dunkin',,41.7441707,-70.5864756,2,Bourne Rotary,Bourne,02532
+way,212190237,Dunkin' Donuts,Dunkin' Donuts,,42.2117279,-71.0201728,551,Granite Street,,
+way,212208564,Dunkin',Dunkin',,41.9947238,-70.9734393,171,Broad Street,Bridgewater,02324
+way,212232226,Dunkin',Dunkin',,42.0499468,-71.0116007,1775,Main Street,Brockton,02301
+way,212256271,Dunkin',Dunkin',,42.0748735,-71.0425886,43,Torrey Street,Brockton,02301
+way,212257892,Dunkin',Dunkin',,42.067989,-71.0493191,784,Belmont Street,Brockton,02301
+way,212260292,Dunkin',Dunkin',,42.0923172,-71.053143,532,Westgate Drive,Brockton,02301
+way,212263451,Dunkin',Dunkin',,42.1000784,-71.0662683,317,North Pearl Street,Brockton,02301
+way,212276611,Dunkin',Dunkin',,42.4909156,-71.1734892,28,Winn Street,,
+way,212287082,Dunkin',Dunkin',,42.4753188,-71.2134052,69,Middlesex Turnpike,,
+way,212295801,Dunkin' Donuts,Dunkin',,42.173643,-71.1113189,360,Turnpike Street,Canton,02021
+way,212301827,Dunkin' Brands,,,42.2071815,-71.1299036,130,Royall Street,Canton,02021
+way,212311195,Dunkin' Donuts,Dunkin',,42.1653378,-71.1637659,600,Neponset Street,,02021
+way,212572802,Dunkin' Donuts,Dunkin',,42.2234664,-70.8039869,734,Chief Justice Cushing Highway,Cohasset,02025
+way,212613365,Dunkin',Dunkin',,41.6672118,-70.1485079,927,Main Street,West Dennis,02670
+way,212648766,Dunkin',Dunkin',,42.2456599,-71.2818119,14,Dedham Street,Dover,02030
+way,212668916,Dunkin',Dunkin',,42.6822951,-71.3547598,1198,Mammoth Road,Dracut,01826
+way,212683090,Dunkin',Dunkin',,42.0237856,-70.6834381,5,Chestnut Street,Duxbury,02332
+way,212857093,Dunkin',Dunkin',,42.5595838,-70.9314259,99;101,High Street,Danvers,01923
+way,212871273,Dunkin',Dunkin',,42.5526433,-70.9593192,79,Andover Street,Danvers,01923
+way,212877066,Dunkin',Dunkin',,41.6100617,-70.940282,575,Dartmouth Street,Dartmouth,02748
+way,212891999,Dunkin' Donuts,Dunkin',,41.6391988,-70.9828416,255,State Road,Dartmouth,02747
+way,212892620,Dunkin' Donuts,Dunkin',,41.6496829,-70.9869431,127,Faunce Corner Road,North Dartmouth,02747
+way,212900958,Dunkin' Donuts,Dunkin',,41.6384575,-71.0360915,823,State Road,Dartmouth,02747
+way,212906325,Dunkin',Dunkin',,42.2476149,-71.1537333,36,Sawmill Lane,Dedham,02026
+way,212957901,Dunkin and Verizon Wireless,,,42.0465608,-71.0801331,606,Washington Street,,
+way,213054769,Dunkin' Donuts,Dunkin' Donuts,,41.5783314,-70.5605268,363,East Falmouth Highway,,
+way,213068864,Dunkin',Dunkin',,41.5688382,-70.5952666,4,Sandwich Road,Falmouth,02536
+way,213227241,Dunkin',Dunkin',,42.5820274,-71.7931076,125,Main Street,Fitchburg,01420
+way,213231703,Dunkin',Dunkin',,42.5867304,-71.8099119,41;47,River Street,,
+way,213232267,Dunkin',Dunkin',,42.5680558,-71.8146765,511,Electric Avenue,Fitchburg,01420
+way,213245078,Dunkin',Dunkin',,42.1025598,-71.2569007,16,Washington Street,Foxboro,02035
+way,213257472,Dunkin',Dunkin',,42.2824466,-71.4152567,266,Concord Street,Framingham,01701
+way,213267871,Dunkin' Donuts,Dunkin',,42.2985906,-71.4449828,1170,Worcester Road,Framingham,01702
+way,213286883,Dunkin',Dunkin',,42.0903874,-71.4198143,541,West Central Street,Franklin,02038
+way,213345307,Dunkin',Dunkin',,42.2153383,-71.6918242,72,Worcester Street,Grafton,01519
+way,213345333,Dunkin',Dunkin',,42.2154991,-71.6918994,,,,
+way,213368982,Dunkin',Dunkin',,42.6042315,-72.5911111,378,Federal Street,Greenfield,01301
+way,213385181,Dunkin' Donuts,Dunkin',,42.3555096,-72.554702,331,Russell Street,Hadley,01035
+way,213390509,Dunkin',Dunkin',,42.3426001,-72.589501,142,Russell Street,Hadley,01035
+way,213446176,Dunkin' Donuts,Dunkin',,42.8113098,-71.1033482,20,Plaistow Road,Haverhill,01830
+way,213471767,Dunkin',Dunkin',,42.1810073,-70.8997916,187,Whiting Street,,
+way,213481888,Dunkin',Dunkin',,42.1532701,-71.0081598,57,South Franklin Street,,
+way,213482132,Dunkin',Dunkin',,42.1551645,-71.0095494,30,Union Street,Holbrook,02343
+way,213584340,Dunkin' Donuts,Dunkin',,42.0660586,-70.868637,485,Liberty Street,Hanson,02341
+way,213648516,,,,42.3799448,-71.566162,234,,Hudson,01749
+way,213649443,Dunkin',Dunkin',,42.3838849,-71.5701825,143,Washington Street,Hudson,01749
+way,213665207,Dunkin',Dunkin',,42.6848569,-70.8442113,6,Lord Square,Ipswich,01938
+way,213740881,Dunkin',Dunkin',,42.5383972,-71.7438826,456,Main Street,,
+way,213741579,Dunkin',Dunkin',,42.5001934,-71.7454695,1001,Central Street,Leominster,01453
+way,213752354,Dunkin',Dunkin',,42.5571413,-71.7719801,804,North Main Street,,
+way,213776524,Dunkin',Dunkin',,42.1509187,-71.4116985,81A,Main Street,Medway,02053
+way,213789674,Dunkin',Dunkin',,42.8315034,-70.999545,26,Broad Street,Merrimac,01860
+way,213947675,Dunkin',Dunkin',,42.1737031,-70.8837761,10,Washington Street,Norwell,02061
+way,213948731,Dunkin',Dunkin',,42.1073626,-70.7693716,155,Church Street,Pembroke,02359
+way,213984124,Dunkin',Dunkin',,42.1475193,-72.7297267,212,Southampton Road,,
+way,213986923,Dunkin',Dunkin',,42.1193423,-72.743448,93,Main Street,Westfield,01085
+way,214060175,Dunkin',Dunkin',,42.2236475,-71.1825255,115,Providence Highway,Westwood,02090
+way,214091368,Dunkin',Dunkin',,42.0808543,-70.9363367,26,South Avenue,Whitman,02382
+way,214106106,Dunkin' Donuts,Dunkin',,42.3741851,-72.7024756,142,Main Street,Haydenville,01039
+way,214108549,Dunkin',Dunkin',,42.7038392,-73.1886332,361,Main Street,Williamstown,01267
+way,214115120,Dunkin',Dunkin',,42.5388413,-71.1474958,211,Lowell Street,Wilmington,01887
+way,214155400,Dunkin',Dunkin',,42.4672899,-71.1783288,185,Cambridge Road,Woburn,01801
+way,214165700,Dunkin' Donuts,Dunkin',,42.2977209,-71.7626087,701,Plantation Street,Worcester,01605
+way,214229225,Dunkin' Donuts,Dunkin',,42.2777804,-71.8540412,648,Chandler Street,Worcester,01602
+way,214238568,Dunkin',Dunkin',,42.0675466,-71.3291672,29,Franklin Street,Wrentham,02093
+way,214251754,Dunkin',Dunkin',,41.6597748,-70.2036364,1050,Main Street,South Yarmouth,02664
+way,214253550,Dunkin',Dunkin',,41.6849223,-70.2070089,436,Station Avenue,South Yarmouth,02664
+way,214267390,Dunkin' Donuts,Dunkin',,41.6508155,-70.2396346,464,Route 28,West Yarmouth,02673
+way,214312230,Dunkin',Dunkin',,42.630909,-71.2824945,651,Rogers Street,Lowell,01852
+way,214324163,Dunkin' Donuts,Dunkin',,42.6415514,-71.3079217,290,Central Street,Lowell,01852
+way,214328287,Dunkin' Donuts,,,42.6406603,-71.3175289,556,Dutton Street,,
+way,214356856,Dunkin' Donuts,,,42.1707351,-72.4801355,4,Harding Avenue,,
+way,214430269,Dunkin',Dunkin',,41.7131566,-70.7714979,450,Wareham Road,Marion,02738
+way,214490118,Dunkin',Dunkin',,42.3509617,-71.5340604,269,East Main Street,Marlborough,01752
+way,214498349,Dunkin',Dunkin',,42.3421359,-71.5692298,199,Lakeside Avenue,,
+way,214508100,Dunkin',Dunkin',,41.6492692,-70.4820555,401,Main Street,Mashpee,02649
+way,214523781,Dunkin',Dunkin',,42.1857036,-71.3095416,563,Main Street,Medfield,02052
+way,214528545,Dunkin',Dunkin',,42.739857,-71.1324987,282,Merrimack Street,,
+way,214533757,Dunkin',Dunkin',,42.7234272,-71.1597501,40,Jackson Street,Methuen,01844
+way,214539877,Dunkin',Dunkin',,42.7191099,-71.1801257,58,Broadway,Methuen,01844
+way,214545366,Dunkin',Dunkin',,42.7372362,-71.1951727,450,Broadway,Methuen,01844
+way,214547028,Dunkin',Dunkin',,42.7061551,-71.1991058,188,Haverhill Street,Methuen,01844
+way,214566516,Dunkin',Dunkin',,41.8857112,-70.9171319,3,East Grove Street,Middleboro,02346
+way,214569427,Dunkin',Dunkin',,41.902517,-70.9577205,565,West Grove Street,Middleboro,02346
+way,214579566,Dunkin',Dunkin',,42.1438648,-71.5149359,31,Main Street,Milford,01757
+way,214579906,Dunkin',Dunkin',,42.1247486,-71.5162557,146,South Main Street,Milford,01757
+way,214595540,Dunkin' Donuts,Dunkin',,42.1918671,-71.7710828,100,Worcester-Providence Turnpike,Millbury,01527
+way,214601700,Dunkin' Donuts,Dunkin',,42.167396,-71.358262,871,Main Street,Millis,02054
+way,214614493,Dunkin',Dunkin',,42.2848898,-71.3426769,50,East Central Street,Natick,01760
+way,214643020,Dunkin',Dunkin',,42.2757481,-71.2372984,260,Chestnut Street,Needham,02492
+way,214658643,Dunkin',Dunkin',,41.6411,-70.9131043,53,Popes Island,New Bedford,02740
+way,214664076,Dunkin',Dunkin',,41.6793292,-70.9233907,2095,Acushnet Avenue,New Bedford,02745
+way,214690889,Dunkin',Dunkin',,41.702038,-70.9363305,3021,Acushnet Avenue,New Bedford,02745
+way,214700484,Dunkin' Donuts,Dunkin',,41.6628481,-70.9424518,131,Nauset Street,New Bedford,02746
+way,214701081,Dunkin' Donuts,,,41.6762095,-70.9430339,,,,
+way,214706669,Dunkin',Dunkin',,41.727143,-70.9471556,1169,Braley Road,,
+way,214710710,Dunkin',Dunkin',,41.6369723,-70.9556815,1121,Kempton Street,New Bedford,02740
+way,214733186,Dunkin',Dunkin',,42.360292,-71.2024794,401,Watertown Street,Newton,02458
+way,214738567,Dunkin',Dunkin',,42.3188964,-71.209937,940,Boylston Street,Newton,02461
+way,214750992,Dunkin',Dunkin',,42.3491316,-71.2248691,1250,Washington Street,,
+way,214830653,Dunkin',Dunkin',,42.7008344,-73.108298,5,Union Street,North Adams,01247
+way,214841847,Dunkin',Dunkin',,42.7144835,-71.1176164,1018,Osgood Street,North Andover,01845
+way,214866546,Dunkin',Dunkin',,42.3199122,-71.6472123,70,West Main Street,Northborough,01532
+way,214871588,Dunkin',Dunkin',,42.12291,-71.6446402,1083,Providence Road,Whitinsville,01588
+way,214893244,Dunkin',Dunkin',,42.5662703,-71.1076788,9;13,Main Street,North Reading,01864
+way,214894270,Dunkin',Dunkin',,42.5946382,-71.118679,291;293,Main Street,North Reading,01864
+way,214906196,Dunkin' Donuts,Dunkin',,41.9813125,-71.2092445,175,Mansfield Avenue,Norton,02766
+way,214913726,Dunkin',Dunkin',,42.1719907,-71.1943309,1202,Boston-Providence Turnpike,Norwood,02062
+way,214914363,Dunkin',Dunkin',,42.1928362,-71.1959873,141,Nahatan Street,Norwood,02062
+way,214970497,Dunkin',Dunkin',,42.1615234,-72.3387249,1559,North Main Street,Palmer,01069
+way,214991988,Dunkin',Dunkin',,42.5478355,-70.9508831,256,Andover Street,Danvers,01960
+way,215144227,Dunkin' Donuts,,,42.3496446,-71.5171457,330,Boston Post Road East,,
+way,215695632,Dunkin',Dunkin',Dunkin Donuts,42.4475075,-73.245588,425,East Street,Pittsfield,01201
+way,215740236,Dunkin',Dunkin',,41.9527044,-70.6844903,134,Samoset Street,Plymouth,02360
+way,215758086,Dunkin',Dunkin',,42.2877654,-71.0237576,388,East Squantum Street,,
+way,215781856,Dunkin',Dunkin',,41.9064099,-71.050244,406,Route 44,Raynham,02767
+way,215784080,Dunkin',Dunkin',,41.9743191,-71.0676068,1701,Broadway,,
+way,215867010,Dunkin',Dunkin',,42.1211998,-70.9140135,147,Market Street,,
+way,215894163,Dunkin' Donuts,Dunkin',,42.3759256,-71.9551977,255,Main Street,Rutland,01543
+way,215902496,Dunkin',Dunkin',,42.5070235,-70.8957412,201,Canal Street,Salem,01970
+way,215907840,Dunkin',Dunkin',,42.5194994,-70.909869,68,Boston Street,Salem,01970
+way,215910034,Dunkin',Dunkin',,42.5045213,-70.922465,248,Highland Avenue,Salem,01970
+way,215941751,Dunkin',Dunkin',,42.4963133,-71.015137,86,Broadway,Saugus,01906
+way,215942310,Dunkin',Dunkin',,42.454424,-71.0241412,1539,Broadway,Saugus,01906
+way,215949449,Dunkin',Dunkin',,41.7936163,-71.3263033,1200,Fall River Avenue,Seekonk,02771
+way,215971449,Dunkin',Dunkin',,42.544111,-71.6549064,2,Fredonian Street,Shirley,01464
+way,215981761,Dunkin' Donuts,Dunkin',,42.2945594,-71.7179976,36,Maple Avenue,Shrewsbury,01545
+way,216025498,Dunkin',Dunkin',,42.0768499,-72.0365898,419,Main Street,Southbridge,01550
+way,216064696,Dunkin',Dunkin',,42.0254098,-72.7855331,208,College Highway,Southwick,01077
+way,216092052,Dunkin',Dunkin',,42.1400871,-72.5046588,1190,Boston Road,Springfield,01119
+way,216117337,Dunkin',Dunkin',,42.1445928,-72.5406331,350,Cottage Street,Springfield (MA),01104
+way,216167296,Dunkin',Dunkin',,42.1089268,-72.5952001,100,Congress Street,Springfield,01104
+way,216188313,Dunkin',Dunkin',,42.150387,-71.0749058,1516,Turnpike Street,,
+way,216282546,Dunkin',Dunkin',,42.1135762,-72.103715,469,Main Street,Fiskdale,01518
+way,216288382,Dunkin',Dunkin',,42.3623571,-71.4177186,378,Boston Post Road,Sudbury,01776
+way,216330911,Dunkin',Dunkin',,41.9051674,-71.0659618,19,Cape Road,Taunton,02780
+way,216335309,Dunkin',Dunkin',,41.8883261,-71.0898644,491,Weir Street,Taunton,02780
+way,216340471,Dunkin',Dunkin',,41.9024894,-71.0989183,5,Washington Street,Taunton,02780
+way,216386109,Dunkin',Dunkin',,42.1709043,-71.6195542,8,Hartford Avenue North,Upton,01568
+way,216393332,Papa Ginos Pizza & Dunkin Donuts & Uxbridge Liquors,,,42.081756,-71.638085,,,,
+way,216397261,Dunkin',Dunkin',,42.5117324,-71.0421515,518,Salem Street,Wakefield,01880
+way,216403960,Dunkin',Dunkin',,42.4971099,-71.0690054,632,Main Street,Wakefield,01880
+way,216405450,Dunkin',Dunkin',,42.5022045,-71.0750206,225,North Avenue,Wakefield,01880
+way,216408934,Dunkin',Dunkin',,42.1585303,-71.2018038,51,Route 1,East Walpole,02032
+way,216409932,Dunkin',Dunkin',,42.1406757,-71.2173641,506,High Plain Street,Walpole,02081
+way,216412304,Dunkin' Donuts,Dunkin',,42.1239737,-71.2321549,995,Old Post Road,Walpole,02081
+way,217045797,Fresh Monkee,Dunkin',,42.0578633,-71.869464,83,East Main Street,Webster,01570
+way,217063841,Dunkin',Dunkin',,42.3049108,-71.3229944,951,Worcester Street,Wellesley,02482
+way,217076282,Dunkin',Dunkin',,42.2728217,-71.6107204,35,East Main Street,Westborough,01581
+way,217090682,Dunkin',Dunkin',,42.23319,-72.1507841,92,West Main Street,West Brookfield,01585
+way,217239990,Dunkin' Donuts,Dunkin',,42.3732636,-72.5040083,312,College Street,Amherst,01002
+way,217245779,Dunkin',Dunkin',,42.3674678,-72.5340605,175;181;183,University Drive,Amherst,01002
+way,217250984,Dunkin',Dunkin',,41.9486637,-71.2780123,134,Pleasant Street,,
+way,217262343,Dunkin',Dunkin',,41.9193804,-71.3591656,337,Washington Street,,
+way,318178718,Dunkin',Dunkin',,42.3688658,-71.2178162,49,River Street,Waltham,02453
+way,328878270,Dunkin',Dunkin',,42.3559009,-71.1490551,214,North Beacon Street,Brighton,02135
+way,402808282,Dunkin',Dunkin',,42.3104573,-71.115206,757,Centre Street,Jamaica Plain,02130
+way,404250236,,,Dunkin' Donuts,42.3104472,-71.1150993,,,,
+way,443684631,Dunkin' Donuts,Dunkin' Donuts,,42.5463731,-71.9141621,97,Main Street,Westminster,01473
+way,476767695,Dunkin',Dunkin',,42.3086595,-71.3850591,694,Cochituate Road,Framingham,01701
+way,545136544,Dunkin',Dunkin',,42.3015424,-71.2887584,277,Linden Street,Wellesley,02482
+way,571721583,Dunkin',Dunkin',,42.1381667,-71.9698414,57,North Main Street,Charlton,01507
+way,659558614,Dunkin',Dunkin',,42.3797333,-71.0267124,354;356,Bennington Street,East Boston,02128
+way,660227008,Dunkin,,,42.7530197,-71.1068192,915,South Main Street,,
+way,667294366,Dunkin',Dunkin',,42.092068,-72.5013618,1761,Allen Street,,
+way,669255738,Dunkin' Donuts,,,42.1928163,-71.7565237,1,Elm Street,,
+way,674720950,Dunkin',Dunkin',,42.6086946,-72.0755529,34,Elm Street,Baldwinville,01436
+way,692350793,Dunkin',Dunkin',,42.1066213,-72.6457192,1333,Westfield Street,West Springfield,01089
+way,699580293,Dunkin',Dunkin',,42.2463706,-71.0053966,100,Granite Street,Quincy,02169
+way,702123102,Dunkin',Dunkin',,42.3026375,-71.3605206,223,North Main Street,Natick,01760
+way,723526293,Dunkin',Dunkin',,42.2804783,-71.0841325,895,Morton Street,Boston,02126
+way,729208478,Dunkin' Donuts Drive-Through,,,41.6100675,-70.9402058,,,,
+way,731157923,Dunkin',Dunkin',,42.1286429,-72.6273373,11,Pierce Street,,
+way,740439501,Dunkin',Dunkin',,42.1094347,-70.9326273,323,Centre Avenue,Abington,02351
+way,754442746,Dunkin',Dunkin',,42.3713884,-71.1574699,635,Mount Auburn Street,Watertown,02472
+way,759718748,Dunkin',Dunkin',,42.5202903,-70.8959026,152;154,Washington Street,Salem,01970
+way,762757301,Dunkin',Dunkin',,42.3263377,-71.402311,3,Nicholas Road,Framingham,01701
+way,776792364,Dunkin',Dunkin',,42.2131076,-72.6206203,473,Pleasant Street,Holyoke,01040
+way,780221915,Dunkin',Dunkin',,42.3381789,-72.6340505,55,Damon Road,Northampton,01060
+way,824758620,Dunkin' Donuts,Dunkin',,42.1384408,-71.1486991,145,Sharon Street,Stoughton,02072
+way,835877777,Dunkin',,,42.336148,-71.8357041,,,,
+way,899737321,The Corner Store Mart,Dunkin' Donuts,,42.4142818,-71.0468795,5,Sycamore Street,,
+way,918286898,Dunkin',Dunkin',,42.1596141,-72.633823,2068,Riverdale Street,West Springfield,01089
+way,935932311,Dunkin',Dunkin',,41.7630034,-70.4966368,111,Route 6A,Sandwich,02563
+way,937491941,Dunkin',Dunkin',,42.2723771,-71.0678092,2290,Dorchester Avenue,Dorchester,02124
+way,992143956,Dunkin',Dunkin',,42.4858644,-70.8996714,9 1/2,Paradise Road,Salem,01970
+way,1038339477,Paxton Dunkin Donuts Drive-Through,,,42.3065878,-71.9236063,,,,
+way,1101748899,Dunkin',Dunkin',,42.5588042,-72.0437011,212,Patriots Road,,
+way,1121871842,Dunkin',Dunkin',,42.588159,-72.3088447,24,East River Street,Orange,01364
+way,1126599836,,,Dunkin' Donuts,42.0236032,-70.6834056,,,,
+way,1185741232,Dunkin',Dunkin',,42.2891321,-71.4284014,430,Franklin Street,Framingham,01702
+way,1195989260,Dunkin' Donuts Drive-Through,,,41.6101335,-70.9398536,,,,
+way,1195989261,Dunkin' Donuts Drive-Through,,,41.609838,-70.9402679,,,,
+way,1317297866,Dunkin',Dunkin',,42.6810919,-72.0481903,,,,
+way,1460186142,Dunkin',Dunkin',,42.5738999,-71.7765783,,,,
+way,1474213790,Dunkin',Dunkin',,42.1220912,-72.5840008,705,Liberty Street,,
+way,1479476543,,,Dunkin',42.17094,-71.6194947,,,,
+way,1497503243,Dunkin',Dunkin',,42.1376076,-71.1483962,126,Sharon Street,Stoughton,02072
+way,1501255994,Dunkin',Dunkin',,42.1686192,-71.0065721,2140,Washington Street,Braintree,
+way,1526668001,Dunkin',Dunkin',,41.887755,-71.1249342,336,Winthrop Street,Taunton,02780
+way,1528835568,Dunkin',Dunkin',,41.9603841,-71.1188027,,,,
+way,1530216629,Dunkin',Dunkin',,41.9500649,-70.713836,23,Commerce Way,Plymouth,02360-7234
+way,1557213391,Dunkin',Dunkin',,42.6501512,-71.6634285,26,Main Street,,
+relation,18149332,Dunkin',,,42.2743983,-71.7498615,,,,

@@ -1,0 +1,57 @@
+overture_id,original_name,address,city,confidence,source_dataset,notes,town
+da33a55e-05c7-46f5-9527-3e18977df566,Dunkin',,,0.77,Foursquare,"no address, we can safely toss",
+316a3bbb-57f3-469e-bda0-7f2d8636c530,Dunkin',,,0.77,Foursquare,"no address, we can safely toss",
+939df776-a931-4f01-b5be-1b32d6eba44d,Dunkin',1234 Massachusetts Ave,Arlington,0.9902192950248718,meta,duplicate,arlington
+7a8eecfb-7fb3-4a7d-8966-a3720c3eff12,Dunkin',30 Memorial Dr,Avon,0.55,BrightQuery,"incorrect address, correct address is 20 Memorial Dr Avon, MA",avon
+d644e428-6df4-49da-abd1-7d76e093be7b,Dunkin Donuts,2 Main St,Blackstone,0.9655072689056396,meta,duplicate,blackstone
+d8011feb-fb7d-471d-ba4e-d62805bd5952,Boston Logan International Airport: Dunkin' Donuts,,Boston,0.9722161889076232,meta,logan entry that does not need repeating,boston
+10695071-b0be-4a65-85da-f48ac65d2238,Dunkin',100 Morrissey Blvd,Boston,0.9199122190475464,meta,could not find this address on dunkin' site,boston
+d6e59a78-f844-4ee1-8534-1f02ea3b1a74,Dunkin',100 Morrissey Blvd,Boston,0.954699456691742,AllThePlaces,could not find this address on dunkin' site,boston
+00e3b767-e84b-4888-800e-3c2b38b28a2a,Dunkin' Donuts,127 Tremont St,Boston,0.55,BrightQuery,"found 147 Tremont St Boston, MA instead",boston
+88d228e0-a4ca-4b47-b659-424d19cb33d6,Waldwin Retail Llc Dba Dunkin Donuts,15 Allerton St,Boston,0.95,BrightQuery,,boston
+ea076bea-dd67-400e-83cc-62ac021793a0,Dunkin' Donuts,176 Federal St,Boston,0.55,BrightQuery,,boston
+959bdff0-44aa-4212-ab23-e90a15cc48c4,Dunkin' Donuts,53 Huntington Ave,Boston,0.55,BrightQuery,,boston
+ba038fd4-c7f3-4249-9979-42a4284fbd9c,Dunkin Donuts,550 Huntington Ave,Boston,0.3266782760620117,meta,,boston
+eebe4fa0-11a5-494e-aa03-2ae0a139ca11,Dunkin',684 Centre St,Jamaica Plain,0.55,BrightQuery,no but found 757 centre st,boston
+350bcf2d-9368-4dc5-9b68-adc33f0c4048,Dunkin',89 Broad St,Boston,0.9885,BrightQuery,,boston
+cb5deb40-8863-42e4-af49-765893fdbfdc,Dunkin',"Logan Airport, Terminal B Post Security",East Boston,0.977760910987854,Microsoft,we are only keeping one logan location,boston
+c337f3f8-fcd9-4f37-8dee-3a0ad52ffc55,Dunkin',688 Macarthur Blvd  # 28,Pocasset,0.6867767572402954,BrightQuery,actual location is 568 Mac Arthur Boulevard in Bourne,bourne
+ecd26f18-9a59-42b0-af32-14b96b01e47d,Dunkin',551 Granite St,Braintree,0.9902192950248718,meta,duplicate,braintree
+28f663ba-6d60-4c35-b2c8-0733298b2225,Dunkin',200 Westgate Dr Unit 5n-105,Brockton,0.55,BrightQuery,exists on dunkin' site as 532 Westgate Dr in the Westgate Mall,brockton
+0f6eda63-131d-46bb-9cd3-300b7007fa27,Dunkin',1659 Beacon St,Brookline,0.55,BrightQuery,"exists as 1316 Beacon St Coolidge Corner Brookline, MA",brookline
+b7e9c564-e70d-4ce0-8151-0370755231d1,Dunkin',,Cambridge,0.77,Foursquare,literally no data on this one easiest toss of my life,cambridge
+0fd53843-f656-4870-80e7-f83c224508e3,Dunkin',517 Concord Ave,Cambridge,0.9746509194374084,meta,,cambridge
+b276b0e6-ab8c-484b-af70-37d96be2fbf7,Dunkin',12 Washington St,Chelsea,0.9902192950248718,meta,duplicate,chelsea
+caad0c9c-145e-407f-b6ce-61e826aab958,Dunkin',740 Chief Justice Cushing Hwy,Cohasset,0.9891512393951416,meta,duplicate,cohasset
+63831d65-2a6b-4eaf-992e-db00f709fc56,Dunkin',1089 Concord Tpke,Concord,0.8734999999999999,BrightQuery,,concord
+cd8cce1a-97d0-438a-9260-9831efa9c219,Dunkin',50 Independence Way,Danvers,0.9199122190475464,Foursquare,dup and does not exist,danvers
+029d9051-78a4-4ce9-acab-4c4182c44963,Dunkin',50 Independence Way,Danvers,0.55,BrightQuery,dup and does not exist,danvers
+60c36882-bd91-4da2-a902-49280b7f82b8,Dunkin',285 Old Westport Rd,Dartmouth,0.9531283974647522,meta,dup,dartmouth
+c2509ca4-3600-4f10-a62f-f8e8435dd7b5,Dunkin',320 Washington St,North Easton,0.8,AllThePlaces,duplicate,easton
+9edcd1f3-7059-4830-ab78-7fd612d9552c,Dunkin',320 Washington St,North Easton,0.85,Microsoft,duplicate,easton
+ff19e172-46fd-4822-942e-bd1c8836abbd,Dunkin' Donuts,501 Rodman St Stop Andshop,Fall River,0.55,BrightQuery,,fall river
+8e98c45d-32a8-4acb-8543-2b3d594a1bc6,Dunkin Donuts,334 Waverly St,Framingham,0.9902192950248718,meta,duplicate,framingham
+6940412a-632b-44f1-b114-ef286352c2c0,Dunkin',1775,Hanover,0.77,Foursquare,no matching street number,hanover
+52112370-3889-4b0c-8235-7fdb7823b3d7,Dunkin',256 Washington St,Hudson,0.9902192950248718,Microsoft,duplicate,hudson
+8cecd93a-5242-43e9-ba08-d1ece133d7fc,Dunkin' Donuts,110 Independence Mall Way #F,Kingston,0.85,Microsoft,,kingston
+83ed93db-8991-422c-a71f-c308e57c95e9,Dunkin',110 Independence Mall Way Ste F,Kingston,0.25,BrightQuery,,kingston
+45b52976-87ee-47f8-8aa7-d008a8a3594a,Dunkin',136 Main St,Kingston,0.9885,BrightQuery,"121 Main St Kingston, MA",kingston
+430a4d9d-4edb-4804-99e6-af1f557265d5,Dunkin',,Lakeville,0.77,Foursquare,"we have another entry for the only location in Lakeville and it lives at a good address, so we're tossing this one and keeping that one",lakeville
+6bf1a135-b64d-4c8f-9892-7e696a4f0dcd,Dunkin',1474 Lunenburg Rd,Lancaster,0.9778743386268616,meta,duplicate,lancaster
+42fd88ca-93a4-4656-9ed1-628950678c04,Dunkin',99 Winthrop Ave,Lawrence,0.9971578121185304,meta,duplicate,lawrence
+e8a91618-6c1d-464e-98a6-bd8ebb3602fb,Dunkin',100 Commercial Rd,Leominster,0.55,BrightQuery,,leominster
+b317b9e6-3fbc-46d5-8e17-2fe919190051,Dunkin',,Lowell,0.77,Foursquare,there are too many dunkin's in lowell to keep this one without an address. We can safely remove this entry.,lowell
+6492a6e6-a94c-47ca-b8cd-4bea0d827557,Dunkin' Donuts,35 Washington St,Lynn,0.3729906678199768,meta,,lynn
+4c545799-9ec4-498f-a74c-99a251489cb3,Dunkin Donuts,410 Lakeside Ave Gulf,Marlborough,0.941805613040924,meta,,marlborough
+3ed2d3a2-30a4-460b-a8ea-131864815559,Dunkin Donuts,,Melrose,0.5684981346130371,meta,"no address, we can safely toss",melrose
+8008c363-9f60-4069-9baf-8b14072a9f88,Dunkin',188 Haverhill St,Methuen,0.9942651391029358,meta,duplicate,methuen
+a39432d8-781a-49fb-96b3-5553e24010ef,Dunkin',323 N Main St,Middleton,0.998275,BrightQuery,,middleton
+18f0d2a9-6ae2-4fc4-9581-11edd313f202,Dunkin',131 Nauset St,New Bedford,0.9568740725517272,meta,"exists as 140 Nauset St New Bedford, MA",new bedford
+60db95da-b8ce-4b3a-96d3-641ef7e82b04,Dunkin' Donuts,131 Nauset St,New Bedford,0.9655,Microsoft,,new bedford
+58b23c3a-3f49-49c9-92ae-e4c995b0c57f,Dunkin',152 Center St,Pembroke,0.9778743386268616,meta,duplicate,pembroke
+df1a0c3e-d393-4739-b3b4-80bf972095d1,Dunkin',765 State Rd,Plymouth,0.9531283974647522,Microsoft,,plymouth
+f671aeb7-33fd-4120-ad56-e09aa6244ebf,Dunkin Donuts,495 Southern Artery,Quincy,0.4726349115371704,meta,bad address,quincy
+83ab896a-1474-4c9c-b241-09afb577b19a,Dunkin Donuts,649 Squire Rd,Revere,0.4269251525402069,meta,entries on squire road but none for this street number,revere
+bed197e4-b23c-458c-aeea-f842e86d5527,Dunkin',90 North St,Salem,0.3821179568767547,meta,,salem
+baae0ffc-6a45-4276-9c55-38f831350028,Dunkin',32 Driftway,Scituate,0.9902192950248718,meta,duplicate,scituate
+0fdc0ecf-079b-4995-8ab5-eba5d2bd7635,Dunkin',2345 Gar Hwy,Swansea,0.55,BrightQuery,actual location is 651 GAR Hwy,swansea

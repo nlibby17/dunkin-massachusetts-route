@@ -1,0 +1,51 @@
+address,city,disposition,detail
+Hanscom Air Force Base Main Exchange Building,Bedford,geocode_queued,
+Logal International Airport 300 Terminal Dr,Boston,geocode_queued,
+8 Park Plz City Place,Boston,pin_donated,43c74921-f5d2-4946-b016-e43a2faec11c sim=0.60
+400 Fenway Emmanuel College,Boston,pin_donated,40234419-7f92-4bb1-93ea-3811223039fd sim=0.50
+1 South Station,Boston,pin_donated,59c9162c-8c5e-4220-9548-a4c0209943f9 sim=0.50
+100 Cambridge St,Boston,geocode_queued,
+360 Huntington Ave Northeastern University,Boston,geocode_queued,
+800 Boylston St. Prudential Center,Boston,pin_donated,86e8788e-97fb-4161-b42f-a5c617a0dc24 sim=0.60
+115 Forsyth St Northeastern University,Boston,geocode_queued,
+100 City Hall Plaza,Boston,geocode_queued,
+235 Washington St,Boston,geocode_queued,
+568 Mac Arthur Boulevard,Bourne,geocode_queued,
+Route 24 Southbound Service Pavilion,Bridgewater,geocode_queued,
+201 Alewife Brook Pky,Cambridge,pin_donated,13abc789-b292-4041-92f9-160c4b0b77c4 sim=0.60
+532 Russells Mills Road,Dartmouth,geocode_queued,
+10 Andrews Parkway,Devens,geocode_queued,
+875 Morrissey Blvd,Dorchester,pin_donated,7144c142-75e9-4363-a4eb-dddc66c629b3 sim=0.60
+17 Pearson St Mr. Mikes Sunoco,Gardner,pin_donated,e0a2569b-11d1-4667-8feb-9b7e0b6afb1e sim=0.50
+173 Pleasant Lake Dr,Harwich,pin_donated,4fa6dd36-bfc7-435d-b309-e6e01a6a7012 sim=0.60
+481 Route 28,Harwich Port,geocode_queued,
+30 Union St,Holbrook,geocode_queued,
+187 Summer St,Kingston,geocode_queued,
+577 Broadway,Lawrence,geocode_queued,
+8 Broadway Rt 1 South Gulf Gas Station,Lynnfield,geocode_queued,
+57 Eastern Ave,Malden,geocode_queued,
+34 Salem Street,Medford,geocode_queued,
+479 Broadway,Methuen,geocode_queued,
+140 Nauset Street,New Bedford,geocode_queued,
+1018 Osgood St,North Andover,geocode_queued,
+444 Walpole Street,Norwood,geocode_queued,
+117 Newbury St (Rt 1 N),Peabody,geocode_queued,
+109 Franklin Street,Quincy,geocode_queued,
+1245 N Main St,Randolph,geocode_queued,
+160 BROADWAY WM5448,Raynham,pin_donated,eae52a26-988b-429c-871a-b47695a299ca sim=0.67
+35 Squire Rd,Revere,geocode_queued,
+126 Sharon Street,Stoughton,geocode_queued,
+175 Maple Ave,Swansea,pin_donated,63facba3-11ff-4698-ba30-c401e9da4159 sim=0.50
+2345 G A R Hwy Shell Gas Station,Swansea,geocode_queued,
+2368 G A R Hwy,Swansea,geocode_queued,
+1992 Main St Petroil Station,Tewksbury,geocode_queued,
+5 East St Mobil Gas Station,Tewksbury,geocode_queued,
+95 Westford Road #97 Mobil Gas Station,Tyngsboro,geocode_queued,
+138 East Main Street,Webster,geocode_queued,
+12 Washington St,Wellesley,geocode_queued,
+Mile 105 Mass Turnpike Westboro Travel Plaza,Westborough,pin_donated,78ca52c9-f35a-4fd2-8195-73cb7014985f sim=0.60
+100 Valley Parkway Store # 2629,Whitinsville,geocode_queued,
+185 Cambridge Rd Woburn Four Corners,Woburn,geocode_queued,
+55 N Lake Ave,Worcester,pin_donated,b149b526-1c28-410d-b0e9-450ccf43f572 sim=0.75
+177 Southwest Cutoff Bee Zee Gas Station,Worcester,geocode_queued,
+100 Institute Rd Worcester Polytech Institute,Worcester,pin_donated,0a1d4e1f-2a2a-4bc3-84b6-e32b9d20e276 sim=0.75

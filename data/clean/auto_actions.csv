@@ -1,0 +1,22 @@
+overture_id,action,reason
+9a4a6d32-8347-4d63-872d-3259d68a398f,removed,non-store name pattern: donuts center providence
+d94d05e4-9f40-4788-82df-3250132689aa,removed,non-store name pattern: distribution
+11e59729-5684-4958-b025-7fb0483bdcad,removed,non-store name pattern: distribution
+2f70c0f0-bc0a-4711-b1e8-01a4ca6d3782,removed,non-store name pattern: brands university
+08fb8d70-405b-40c6-9e33-039130e30f05,removed,non-store name pattern: charitable trust
+ea76e48f-b327-4e33-8fc7-696bb281e256,removed,non-store name pattern: global headquarters
+49f94cfb-3dde-4e5f-90a4-843a07cdc814,removed,non-store name pattern: doggies
+d3caaaf9-8f67-4535-891a-595fecf398ac,merged into 0e1af43e-5f05-4b87-a215-03712f1ee38b,"same normalized address+town, pins within 100 m"
+eef1c861-1780-4f6b-b28b-651644455765,merged into 0fd53843-f656-4870-80e7-f83c224508e3,"same normalized address+town, pins within 100 m"
+115f5178-e4cd-490e-9f47-f81835bd3a1e,merged into c342ede2-2bc8-4d21-96f7-08ee1b1b865e,"same normalized address+town, pins within 100 m"
+a715dc32-6012-4bc3-960d-d719e49f2c52,merged into 1522b015-8ab3-4f62-a2ef-0dd7229d83e8,"same normalized address+town, pins within 100 m"
+38390d0a-7eb3-4734-8767-3f950695ab6c,merged into fe149776-7fac-4ef3-b764-c531810694dc,"same normalized address+town, pins within 100 m"
+6259b69f-71c2-42c6-991f-29b92fe8e286,merged into e12fe5da-03c7-4207-9c74-d318ea31d88d,"same normalized address+town, pins within 100 m"
+01996a54-f331-4f8f-9a3d-99d872bdb465,merged into 46ff5219-96bc-4194-baf2-07e73abf7aba,"same normalized address+town, pins within 100 m"
+3c5dc663-8268-4a94-a805-73d543672509,merged into fa1b1ee1-3422-40ce-a15a-ac50976b2c49,"same normalized address+town, pins within 100 m"
+3b5d4243-5e79-4716-bd2b-85c5e65e3cc0,merged into 90e2d967-ae35-412c-b908-c3e6f45516f1,"same normalized address+town, pins within 100 m"
+5c080e83-819d-49d5-be7b-9b7c415836c2,merged into 572b63b3-f154-4c77-950e-15a8fe7c64bc,"same normalized address+town, pins within 100 m"
+cbad4306-2075-46b1-bc38-8b8fa754a64d,merged into 2840226e-f317-4774-8e49-31b0f621cf46,"same normalized address+town, pins within 100 m"
+896aa45d-a63f-4e98-86e3-eab7cab55902,merged into 1f5a6d29-3068-457f-804b-8d13cef2f84e,"same normalized address+town, pins within 100 m"
+f7c09280-8881-45d9-be11-8eebdd41da0a,merged into ef158e03-cfc6-42e9-ac6a-acf1a367278d,"same normalized address+town, pins within 100 m"
+d16d3b22-61d5-4d7b-b754-dc771fd2521a,merged into 17df371b-9937-4557-b42f-c7bac4c19add,"same normalized address+town, pins within 100 m"
