@@ -1,0 +1,8 @@
+# Dunkin' Massachusetts route recreation
+# Install with: python -m pip install -r requirements.txt
+
+pandas          # dataclean scripts and profiling
+duckdb          # Overture Maps pull (overtureapicall.py)
+playwright==1.64.0   # directory scraper (webscrape.py); version from the laptop install
+requests        # API call scripts (Overpass, Nominatim fallbacks)
+matplotlib      # validation map plot and, later, the render
