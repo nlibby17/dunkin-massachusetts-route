@@ -1,0 +1,57 @@
+address,city,pin_source,old_pin,census_pin,nominatim_pin,decision
+147 N Quincy St,Abington,repin_single_witness,"42.115101,-70.998899","42.108107,-70.937667","42.114997,-70.998869",replace
+1234 Massachusetts Ave,Arlington,repin_two_witness,"42.372346,-71.116051","42.424086,-71.178255","42.423921,-71.178274",replace
+6 Gardner Rd,Ashburnham,overture,"42.608897,-71.942207","42.605708,-71.948720","42.608950,-71.942556",eyeball
+267 Central St,Berlin,repin_two_witness,"42.396908,-71.603167","42.392944,-71.610550","42.392887,-71.610595",replace
+64 River Rd W,Berlin,repin_two_witness,"42.356981,-71.624057","42.382039,-71.588167","42.382036,-71.588131",replace
+80 Chelmsford Rd Petrolex Gas Station,Billerica,overture,"42.587492,-71.307621","42.584908,-71.301916","42.587380,-71.307275",eyeball
+2 Main St,Blackstone,repin_two_witness,"42.017547,-71.541306","42.015221,-71.527709","42.016312,-71.527064",replace
+"100 Morrissey Blvd, University of Massachusetts Boston",Boston,overture,"42.315000,-71.047384",,"42.313411,-71.035442",eyeball
+16 Tremont St,Boston,repin_single_witness,"42.358900,-71.059730",,"42.376576,-71.058980",replace
+551 Granite St,Braintree,overture,"42.221150,-71.025500",,"42.211763,-71.020173",eyeball
+69 Middlesex Tpke,Burlington,overture,"42.475238,-71.213332","42.470849,-71.210515","42.475300,-71.213405",eyeball
+3052 Cranberry Hwy,Buzzards Bay,repin_single_witness,"41.757175,-70.653360",,"41.746607,-70.620126",replace
+12 Washington St,Chelsea,repin_single_witness,"42.000828,-71.326667","42.392834,-71.034155",,replace
+425 Meadow St,Chicopee,overture,"42.171839,-72.614176","42.176383,-72.614397","42.175778,-72.614730",eyeball
+740 Chief Justice Cushing Highway,Cohasset,repin_two_witness,"42.238252,-70.804431","42.223563,-70.804533","42.223367,-70.804117",replace
+285 Old Westport Rd,Dartmouth,overture,"41.624151,-71.006209","41.634451,-71.004962","41.622504,-71.007345",eyeball
+1886 Revere Beach Pkwy,Everett,repin_two_witness,"42.402236,-71.068933","42.402647,-71.050271","42.402307,-71.049956",replace
+36 Innovation Way,Fall River,repin_single_witness,"41.748578,-71.099588",,"41.762800,-71.095500",replace
+30 Commercial St,Foxborough,repin_single_witness,"42.052813,-71.239916","42.037646,-71.236938","42.053509,-71.240424",replace
+334 Waverly St,Framingham,repin_two_witness,"42.272239,-71.428933","42.277074,-71.415296","42.277354,-71.413011",replace
+103 Eastern Ave Shell Gas Station,Gloucester,repin_single_witness,"42.622364,-70.643697","42.612868,-70.683540","42.622310,-70.643591",replace
+256 Washington Street,Hudson,overture,"42.379919,-71.565879","42.375323,-71.564301","42.375860,-71.563882",eyeball
+226 Winthrop St,Lawrence,overture,"42.685033,-71.139818","42.688668,-71.147229",,eyeball
+99 Winthrop Ave,Lawrence,repin_two_witness,"42.684238,-71.142715","42.688724,-71.147594","42.688512,-71.147264",replace
+45 Chauncy St,Mansfield,overture,"42.032749,-71.216107","42.031340,-71.223046","42.032758,-71.216045",eyeball
+413 Lakeside Ave,Marlboro,overture,"42.341866,-71.571084",,,eyeball
+188 Haverhill St,Methuen,repin_single_witness,"42.726381,-71.190684",,"42.706215,-71.199106",replace
+8 Massachusetts Ave,Natick,repin_two_witness,"42.311208,-71.366120","42.303004,-71.333388","42.302957,-71.333332",replace
+242 Dedham St Gulf Gas Station,Norfolk,repin_single_witness,"42.089366,-71.301639",,"42.189653,-71.149761",replace
+320 Washington St,North Easton,overture,"42.057299,-71.082401","42.066245,-71.087150","42.059978,-71.079326",eyeball
+1202 Providence Hwy,Norwood,repin_single_witness,"42.172023,-71.194341",,"42.156747,-71.202476",replace
+3086 South Main St,Palmer,overture,"42.207701,-72.347709",,"42.207745,-72.347886",eyeball
+134 Samoset Street,Plymouth,overture,"41.952824,-70.684489","41.956102,-70.678334","41.952695,-70.684503",eyeball
+23 Commerce Way,Plymouth,overture,"41.950149,-70.713802","41.958223,-70.710469","41.950073,-70.713830",eyeball
+160 South St,Plymouth,overture,"41.939142,-70.656338",,"42.241148,-70.895029",eyeball
+4 West St Mobil Gas Station,Reading,repin_single_witness,"42.508729,-71.124125","42.530492,-71.110886","42.508754,-71.124304",replace
+227 Winthrop St,Rehoboth,overture,"41.855030,-71.237247","41.858047,-71.232530","41.854818,-71.237497",eyeball
+505 Gar Hwy,Somerset,repin_single_witness,"41.729070,-71.166345",,"41.740404,-71.186778",replace
+1 Greenfield Rd,South Deerfield,repin_single_witness,"42.470894,-72.615746","42.498703,-72.609536","42.489975,-72.609887",replace
+419-423 Main St,Southbridge,overture,"42.076936,-72.036454",,"42.076450,-72.035597",eyeball
+397 College Hwy,Southwick,repin_two_witness,"42.055810,-72.769235","42.048114,-72.779154","42.048242,-72.779345",replace
+11 Tapley St,Springfield,repin_two_witness,"42.127598,-72.561017","42.125109,-72.566600","42.124952,-72.567464",replace
+50 Leominster Rd,Sterling,overture,"42.444455,-71.752168","42.438749,-71.756167","42.444650,-71.752439",eyeball
+2 Lynn Fells Pkwy,Stoneham,overture,"42.457409,-71.082919",,"42.457454,-71.082820",eyeball
+27 Worcester Providence Tpke,Sutton,repin_two_witness,"42.140189,-71.743132","42.174229,-71.754419","42.174515,-71.753359",replace
+250 South Main Street,Uxbridge,repin_single_witness,"42.063383,-71.620904","42.086594,-71.640630","42.057933,-71.620311",replace
+575 West Center St,West Bridgewater,repin_single_witness,"42.013108,-71.049025","42.024797,-71.063344","42.013153,-71.049081",replace
+506 W Center St Shell Station,West Bridgewater,overture,"42.015057,-71.040088","42.013046,-71.047499","42.015022,-71.040325",eyeball
+212 Southampton Rd,Westfield,repin_two_witness,"42.155853,-72.725289","42.147265,-72.729477","42.147507,-72.729708",replace
+97 Main St,Westminster,repin_two_witness,"42.556927,-71.928354","42.546799,-71.914077","42.546499,-71.914000",replace
+21 Village Inn Rd,Westminster,overture,"42.544729,-71.874502","42.542051,-71.882227","42.544364,-71.874373",eyeball
+38 Winter St,Weymouth,overture,"42.199639,-70.954949","42.201282,-70.948362","42.199714,-70.954972",eyeball
+195 Main St,Wilmington,overture,"42.558361,-71.182291","42.562864,-71.183547","42.558296,-71.182557",eyeball
+1 Horizon Way,Everett,overture,"42.388085,-71.045811",,"42.397764,-71.068149",report_only
+577 Broadway,Lawrence,repin_single_witness,"42.716647,-71.177966","42.681497,-71.153507","42.716647,-71.177966",replace
+95 Westford Road #97 Mobil Gas Station,Tyngsboro,repin_single_witness,"42.697719,-71.440179","42.660529,-71.426743",,replace

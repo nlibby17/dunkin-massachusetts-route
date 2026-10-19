@@ -1,0 +1,1020 @@
+address,city,pin_source,dist_m,bucket,town_km
+"Logan Airport, Terminal B Post Security",East Boston,overture,,no_street_address,0.0
+4 Jersey Street,Boston,overture,335,minor,2.6
+1 Legends Way,Boston,overture,141,agree,2.0
+323 Centre Ave,Abington,overture,105,agree,1.6
+259 Brockton Ave,Abington,overture,17,agree,1.3
+937 Bedford St,Abington,overture,31,agree,1.6
+147 N Quincy St,Abington,overture,5110,SUSPECT,4.1
+100 Powdermill Rd Powdermill Plaza,Acton,overture,126,agree,3.8
+182 Great Rd,Acton,overture,6,agree,1.5
+315 Main St,Acton,overture,24,agree,1.7
+212 Main St,Acton,overture,26,agree,2.4
+150 S Main St,Acushnet,overture,13,agree,0.0
+177 Columbia St,Adams,overture,20,agree,0.0
+389 Main St,Agawam,overture,22,agree,0.0
+152 Silver Street,Agawam,overture,41,agree,2.5
+210 Harvard Ave,Allston,overture,11,agree,0.4
+179 Brighton Ave,Allston,overture,6,agree,0.2
+209 N Harvard St,Allston,overture,32,agree,1.0
+80 Macy St,Amesbury,overture,32,agree,0.0
+175 University Dr,Amherst,overture,280,minor,2.5
+312 College St,Amherst,overture,22,agree,0.0
+349 N Main St,Andover,overture,72,agree,0.0
+93 Main Street Andover Village,Andover,overture,24,agree,2.3
+309 Lowell St Mobil Gas Station,Andover,overture,119,agree,3.7
+139 River Rd Mobil Gas Station,Andover,overture,122,agree,5.2
+21 Summer St,Arlington,overture,22,agree,1.4
+369 Massachusetts Ave,Arlington,overture,28,agree,0.7
+101 Broadway,Arlington,overture,13,agree,0.3
+1234 Massachusetts Ave,Arlington,overture,7694,SUSPECT,4.8
+6 Gardner Rd,Ashburnham,overture,640,SUSPECT,0.0
+123 Union St Shell Station,Ashland,overture,38,agree,0.6
+41 W. Union St,Ashland,overture,104,agree,1.1
+190 Pond St,Ashland,overture,41,agree,2.3
+68 S Main St,Assonet,overture,178,minor,0.2
+60 S Main St,Assonet,overture,158,minor,0.0
+1271 Templeton Rd,Athol,overture,63,agree,2.2
+2143 Main St,Athol,overture,63,agree,0.3
+1634 S Main St,Athol,overture,67,agree,4.5
+134 Pleasant St,Attleboro,overture,16,agree,3.6
+217 South Main St,Attleboro,overture,86,agree,2.5
+106 Washington St,Attleboro,overture,130,agree,3.2
+227 South Ave Shell Gas Station,Attleboro,overture,38,agree,0.0
+285 County St,Attleboro,overture,14,agree,1.3
+337 Washington St Rte 1,Attleboro,overture,51,agree,3.9
+718 Washington St,Attleboro,overture,41,agree,4.9
+717 Southbridge St,Auburn,overture,27,agree,2.7
+386 Southbridge St,Auburn,overture,16,agree,0.6
+310 Washington St,Auburn,overture,31,agree,1.5
+2096 Commonwealth Ave,Auburndale,overture,21,agree,0.0
+20 Memorial Dr,Avon,overture,44,agree,2.4
+5 Stockwell Dr,Avon,overture,52,agree,0.5
+600 Page St,Avon,overture,92,agree,1.7
+16 Park St,Ayer,overture,16,agree,0.0
+34 Elm St,Baldwinville,overture,46,agree,0.0
+751 W Main St,Barnstable,overture,8,agree,1.5
+317 Falmouth Rd Speedway,Barnstable,overture,40,agree,0.9
+Route 132 - Liberty Sq,Barnstable,overture,,no_street_address,1.4
+792 Main St Speedway,Barnstable,overture,128,agree,7.3
+570 Summer St,Barre,overture,82,agree,0.0
+44 North Rd Northside Convenience,Bedford,overture,36,agree,1.2
+308 Great Rd,Bedford,overture,120,agree,1.2
+"The Crossing Plaza,Route 9",Belchertown,overture,,no_street_address,0.0
+37 State St,Belchertown,overture,93,agree,2.0
+20 Pulaski Blvd Alouette Plaza,Bellingham,overture,31,agree,7.5
+207 Mechanic St Rapid Refill Station,Bellingham,overture,458,minor,1.6
+815 S. Main St,Bellingham,overture,40,agree,3.6
+189 Hartford Ave,Bellingham,overture,91,agree,3.4
+300 Hartford Ave,Bellingham,overture,188,minor,4.2
+353 Trapelo Rd,Belmont,overture,9,agree,0.2
+52 Church St,Belmont,overture,46,agree,0.6
+350 Pleasant St,Belmont,overture,16,agree,2.3
+34-38 Padelford Street,Berkley,overture,498,minor,4.0
+126 Myricks St,Berkley,overture,56,agree,1.5
+267 Central St,Berlin,overture,750,SUSPECT,0.0
+64 River Rd W,Berlin,overture,4057,SUSPECT,4.8
+50 Church St,Bernardston,overture,24,agree,0.0
+112 Elliott St,Beverly,overture,149,agree,2.3
+15 West Street Beverly Farms,Beverly,overture,19,agree,5.8
+44 Dodge St Fast Freddies,Beverly,overture,131,agree,0.8
+443 Essex St Sunoco Gas Station,Beverly,overture,33,agree,2.6
+41 Enon St,Beverly,overture,14,agree,1.3
+411 Cabot St Cabot Plaza,Beverly,overture,45,agree,1.8
+80 Chelmsford Rd Petrolex Gas Station,Billerica,overture,548,SUSPECT,5.3
+612 Middlesex Tpke Mobil Gas Station,Billerica,overture,36,agree,2.2
+729 Boston Rd,Billerica,overture,55,agree,3.0
+459 Boston Road,Billerica,overture,51,agree,0.2
+2 Main St,Blackstone,overture,1153,SUSPECT,0.0
+476 Main St,Bolton,overture,34,agree,0.0
+145 Dartmouth St Back Bay Train Station @ Commuter Line,Boston,overture,38,agree,0.8
+350 Longwood Ave,Boston,overture,20,agree,3.6
+155 Seaport Blvd,Boston,overture,53,agree,1.9
+283 Huntington Ave,Boston,overture,109,agree,1.8
+1131 Tremont St MBTA,Boston,overture,154,minor,2.3
+2360 Washington St MBTA,Boston,overture,13,agree,2.6
+180 Canal St Fleet Center,Boston,overture,9,agree,1.9
+1800 Hyde Park Ave,Boston,overture,122,agree,13.4
+37 S Huntington Ave Unit #2,Boston,overture,5,agree,4.2
+715 Boylston St,Boston,overture,7,agree,1.2
+1912 Beacon St,Boston,overture,26,agree,6.9
+30 Warren St,Boston,overture,127,agree,6.3
+457 Brookline Ave Deaconess Hospital,Boston,overture,29,agree,3.7
+1100 Mass Ave Stop & Shop,Boston,overture,115,agree,2.4
+530 Commonwealth Ave,Boston,overture,10,agree,2.5
+Boston Medical Center 818 Harrison Ave,Boston,overture,159,minor,1.6
+434 Mass Ave,Boston,overture,25,agree,1.6
+616 Massachusetts Ave,Boston,overture,17,agree,1.6
+75 Old Colony Ave,Boston,overture,70,agree,1.6
+11 W Broadway,Boston,overture,16,agree,1.0
+1138 Washington St,Boston,overture,3,agree,0.5
+750 Washington St NE Medical Ctr,Boston,overture,88,agree,0.3
+153 Massachusetts Ave,Boston,overture,5,agree,1.8
+411 D St,Boston,overture,146,agree,1.8
+1631 Tremont St,Boston,overture,23,agree,3.5
+One Harbor St,Boston,overture,122,agree,2.6
+1443 Tremont St,Boston,overture,16,agree,3.1
+1580-A Dorchester Ave,Boston,overture,50,agree,5.7
+510 Southampton St,Boston,overture,25,agree,2.2
+330 Brookline Ave,Boston,overture,101,agree,3.4
+"100 Morrissey Blvd, University of Massachusetts Boston",Boston,overture,998,SUSPECT,4.0
+330 Congress St,Boston,overture,16,agree,1.4
+265 Franklin St,Boston,overture,30,agree,1.4
+3 Post Office Square,Boston,overture,97,agree,1.2
+13-15 Maverick Sq,Boston,overture,34,agree,3.2
+951 Bennington St,Boston,overture,88,agree,6.3
+354-356 Bennington St,Boston,overture,24,agree,4.7
+16 Tremont St,Boston,overture,1966,SUSPECT,1.3
+20 North St,Boston,overture,3,agree,1.6
+111 State St,Boston,overture,3,agree,1.5
+711 Atlantic Ave,Boston,overture,19,agree,0.8
+34 William Kelly Sq. #34,Boston,overture,,no_street_address,3.7
+1 1st Ave #34 Building #39,Boston,overture,121,agree,3.2
+101 Summer St,Boston,overture,13,agree,0.9
+895 Morton St,Boston,overture,44,agree,7.7
+684 American Legion Hwy,Boston,overture,43,agree,8.2
+509 Cambridge St 7-Eleven,Boston,overture,19,agree,6.0
+1020 Commonwealth Ave,Boston,overture,21,agree,4.6
+219 Cambridge St Speedway,Boston,overture,60,agree,5.1
+11 Austin St,Boston,overture,66,agree,3.0
+59 Causeway St,Boston,overture,12,agree,1.8
+296 Cambridge St,Boston,overture,23,agree,1.4
+775 Commonwealth Ave Boston University,Boston,overture,97,agree,3.5
+147 Tremont St,Boston,overture,3,agree,0.8
+630 Washington St.,Boston,overture,10,agree,0.5
+16 Kneeland St #18,Boston,overture,4,agree,0.4
+1435-1445 Vfw Pkwy,Boston,overture,,no_street_address,12.3
+2 Bourne Rotary Cir N,Bourne,overture,,no_street_address,0.2
+1425 Mass Ave,Boxborough,overture,46,agree,0.0
+270 Shrewsbury St/Rte 140 Gulf Station,Boylston,overture,428,minor,0.0
+15 S Main St,Bradford,overture,43,agree,0.0
+2140 Washington St,Braintree,overture,104,agree,4.1
+238 Grove St Tedeschi Plaza,Braintree,overture,73,agree,2.0
+553 Pond St # 555,Braintree,overture,22,agree,2.4
+375 Washington St,Braintree,overture,17,agree,1.6
+29 Hayward Street,Braintree,overture,29,agree,3.0
+421 Quincy Ave,Braintree,overture,48,agree,3.9
+1172 Washington St,Braintree,overture,31,agree,0.9
+551 Granite St,Braintree,overture,1132,SUSPECT,2.5
+240 Ivory St,Braintree,overture,163,minor,0.3
+15 Lower Rd,Brewster,overture,34,agree,0.0
+955 Pleasant St,Bridgewater,overture,29,agree,0.4
+750 Bedford St,Bridgewater,overture,50,agree,2.8
+171 Broad St,Bridgewater,overture,39,agree,4.1
+Route 24 Northbound Service Pavilion,Bridgewater,hand_placed,,hand_placed,2.0
+598 Washington St,Brighton,overture,20,agree,1.5
+350 Washington St,Brighton,overture,31,agree,0.4
+736 Cambridge St,Brighton,overture,123,agree,0.2
+214 N Beacon St,Brighton,overture,12,agree,0.6
+245 E Ashland St,Brockton,overture,84,agree,2.2
+634 Centre St,Brockton,overture,50,agree,3.1
+1001 N Main St,Brockton,overture,39,agree,2.8
+43 Torrey St,Brockton,overture,27,agree,1.4
+541 Pleasant Street,Brockton,overture,31,agree,1.1
+784 Belmont St,Brockton,overture,10,agree,2.4
+532 Westgate Dr,Brockton,overture,459,minor,2.1
+317 N Pearl St,Brockton,overture,20,agree,3.4
+1000 W Chestnut St,Brockton,overture,57,agree,4.0
+1280 Belmont St,Brockton,overture,19,agree,4.2
+587 Main St,Brockton,overture,41,agree,1.5
+66 Montello St,Brockton,overture,22,agree,1.1
+635 Crescent St,Brockton,overture,31,agree,3.1
+1775 Main St,Brockton,overture,71,agree,4.1
+1316 Beacon St,Brookline,overture,7,agree,1.0
+8 Harvard St,Brookline,overture,8,agree,0.2
+265 Boylston St,Brookline,overture,27,agree,0.4
+240 Middlesex Tpke,Burlington,overture,334,minor,2.5
+85 Wilmington Rd,Burlington,overture,138,agree,3.3
+10 Wall St,Burlington,overture,103,agree,2.0
+"182A Cambridge St, Shaw's Plaza",Burlington,overture,46,agree,1.1
+69 Middlesex Tpke,Burlington,overture,540,SUSPECT,3.1
+28 Winn St,Burlington,overture,71,agree,2.4
+3052 Cranberry Hwy,Buzzards Bay,overture,2997,SUSPECT,4.6
+278 Main St,Buzzards Bay,overture,26,agree,0.1
+343 Scenic Hwy,Buzzards Bay,overture,348,minor,0.4
+1 Broadway,Cambridge,overture,40,agree,3.1
+5 Cambridgepark Dr MBTA,Cambridge,overture,125,agree,3.1
+2480 Massachusetts Ave,Cambridge,overture,3,agree,3.1
+1 White St,Cambridge,overture,77,agree,1.8
+61 Church St,Cambridge,overture,4,agree,0.2
+65 Jfk St,Cambridge,overture,9,agree,0.2
+1001 Cambridge St Shell,Cambridge,overture,25,agree,2.1
+1001 Massachusetts Ave,Cambridge,overture,101,agree,0.8
+655 Massachusetts Ave,Cambridge,overture,19,agree,1.5
+808 Memorial Dr,Cambridge,overture,25,agree,1.4
+84 Massachusetts Ave,Cambridge,overture,6,agree,2.6
+600 Neponset St.,Canton,overture,88,agree,3.7
+725 Washington St,Canton,overture,38,agree,2.8
+2790 Washington St,Canton,overture,26,agree,3.9
+360 Turnpike St,Canton,overture,18,agree,0.7
+300 Tremont St,Carver,overture,121,agree,7.1
+2 Montello St Ste D,Carver,overture,65,agree,4.8
+80 Main St,Carver,overture,95,agree,0.0
+1648 Falmouth Rd,Centerville,overture,121,agree,0.0
+99 Cambridge St,Charlestown,overture,70,agree,0.0
+28 Worcester Rd,Charlton,overture,33,agree,1.6
+57 N Main St,Charlton,overture,31,agree,0.8
+1563 Main Street,Chatham,overture,26,agree,0.0
+80 Drum Hill Rd Drum Hill Shop Ctr,Chelmsford,overture,37,agree,0.0
+81 Tyngsboro Rd Gulf Gas Station,Chelmsford,overture,69,agree,3.1
+105 Chelmsford St,Chelmsford,overture,16,agree,2.7
+130 Broadway,Chelsea,overture,9,agree,1.0
+276 Beacham St,Chelsea,overture,93,agree,1.1
+234 Everett Ave,Chelsea,overture,30,agree,0.2
+83 Everett Ave,Chelsea,overture,39,agree,0.5
+356 Eastern Ave,Chelsea,overture,9,agree,1.5
+936-942 Broadway Tedeschis,Chelsea,overture,23,agree,1.5
+12 Washington St,Chelsea,overture,49806,SUSPECT,50.1
+372 Washington Ave,Chelsea,overture,9,agree,0.8
+173 North St,Cheshire,overture,44,agree,0.0
+15 Commonwealth Ave,Chestnut Hill,overture,53,agree,0.0
+95 West St,Chicopee,overture,24,agree,4.0
+650 Memorial Dr BJs Wholesale Club,Chicopee,overture,315,minor,0.5
+425 Meadow St,Chicopee,overture,506,SUSPECT,2.8
+820 Memorial Dr,Chicopee,overture,75,agree,0.9
+470 Burnett Rd,Chicopee,overture,27,agree,3.1
+1599 Memorial Dr,Chicopee,overture,148,agree,3.1
+953 Front St,Chicopee,overture,43,agree,2.1
+27 Montgomery St,Chicopee,overture,8,agree,1.2
+493 Main St,Clinton,overture,36,agree,1.8
+1044 Main St,Clinton,overture,129,agree,0.0
+740 Chief Justice Cushing Highway,Cohasset,overture,1633,SUSPECT,0.0
+156 King St,Cohasset,overture,20,agree,1.7
+1641 Sudbury Rd,Concord,overture,123,agree,3.9
+117 Thoreau Street,Concord,overture,25,agree,1.2
+794 Elm St,Concord,overture,56,agree,1.8
+1191 Main St,Concord,overture,20,agree,1.6
+420 Newbury St,Danvers,overture,160,minor,4.9
+160 Andover Street Cumberland Farms,Danvers,overture,124,agree,2.6
+79 Andover St,Danvers,overture,234,minor,1.7
+153 Endicott St,Danvers,overture,41,agree,1.0
+128 Water St,Danvers,overture,52,agree,2.1
+99 High St,Danvers,overture,7,agree,0.8
+465 Faunce Corner Road,Dartmouth,overture,29,agree,3.3
+285 Old Westport Rd,Dartmouth,overture,1150,SUSPECT,2.3
+531 Faunce Corner Rd,Dartmouth,overture,123,agree,3.7
+255 State Rd,Dartmouth,overture,46,agree,0.4
+450 State Rd,Dartmouth,overture,19,agree,1.1
+575 Dartmouth St,Dartmouth,overture,24,agree,5.1
+823 State Rd,Dartmouth,overture,35,agree,4.0
+36 Sawmill Lane,Dedham,overture,22,agree,0.0
+806 Providence Hwy,Dedham,overture,56,agree,2.3
+927 Main St,Dennis,overture,37,agree,6.1
+6 Enterprise Rd Unit 1 & 2,Dennis,overture,111,agree,0.3
+497 Route 134,Dennis,overture,53,agree,0.0
+1236 Dorchester Ave,Dorchester,overture,8,agree,0.1
+456 Blue Hill Ave,Dorchester,overture,50,agree,2.1
+256 Boston St,Dorchester,overture,26,agree,1.3
+847 Dorchester Ave,Dorchester,overture,13,agree,1.4
+719 Gallivan Blvd,Dorchester,overture,19,agree,3.0
+2290 Dorchester Ave,Dorchester Center,overture,13,agree,1.4
+1931 Dorchester Ave,Dorchester Center,overture,41,agree,0.0
+63 Main St,Douglas,overture,18,agree,0.0
+14 Dedham St,Dover,overture,13,agree,0.0
+1373 Lakeview Ave,Dracut,overture,50,agree,2.0
+1198 Mammoth Rd,Dracut,overture,42,agree,3.7
+1500 Broadway Rd,Dracut,overture,37,agree,5.3
+1777 Bridge St,Dracut,overture,41,agree,0.0
+177 Broadway Rd,Dracut,overture,69,agree,1.5
+269 West Main St,Dudley,overture,82,agree,3.2
+10 W Main St,Dudley,overture,10,agree,0.0
+238 Pleasant Street Gulf Gas Station,Dunstable,overture,108,agree,0.0
+5 Chestnut St,Duxbury,overture,19,agree,0.0
+204 N Bedford St,East Bridgewater,overture,103,agree,1.4
+650 Plymouth St,East Bridgewater,overture,48,agree,2.6
+363 E Falmouth Hwy,East Falmouth,overture,29,agree,5.2
+1184 Sandwich Rd,East Falmouth,overture,74,agree,0.0
+1 Mason Rd,East Freetown,overture,28,agree,0.0
+55 Maple St,East Longmeadow,overture,26,agree,0.0
+508 Middleboro Ave,East Taunton,overture,28,agree,0.0
+21 Providence Hwy,East Walpole,overture,60,agree,0.0
+3 Barker Rd,East Wareham,overture,25,agree,0.0
+60 Union St,Easthampton,overture,17,agree,1.4
+126 Northampton St,Easthampton,overture,19,agree,0.0
+5 East St,Easthampton,overture,16,agree,4.4
+"3 Roche Bros Way, Unit F",Easton,overture,,no_street_address,0.0
+63 French King Hwy,Erving,overture,109,agree,0.0
+125 Main St Woodmans Plaza,Essex,overture,14,agree,0.0
+1885 Revere Beach Pkwy,Everett,overture,68,agree,0.7
+524 Broadway,Everett,overture,5,agree,0.3
+318 Broadway Citgo Gas Station,Everett,overture,33,agree,1.0
+339 Main St,Everett,overture,10,agree,1.1
+1886 Revere Beach Pkwy,Everett,overture,1533,SUSPECT,1.7
+321 Ferry St The Corner Store Mart,Everett,overture,72,agree,0.6
+903 Broadway,Everett,overture,41,agree,1.3
+32 Howland Rd,Fairhaven,overture,19,agree,2.4
+277 Bridge St Bridge Street Gas,Fairhaven,overture,33,agree,0.2
+18 Plaza Way,Fairhaven,overture,84,agree,0.8
+540 Brayton Ave,Fall River,overture,29,agree,1.7
+1510 Brayton Ave,Fall River,overture,21,agree,2.2
+1099 William S Canning Blvd,Fall River,overture,61,agree,3.8
+400 Quarry St,Fall River,overture,11,agree,0.7
+499 Globe St,Fall River,overture,50,agree,2.5
+64 Rhode Island Ave,Fall River,overture,55,agree,2.3
+325 Elsbree St,Fall River,overture,67,agree,2.3
+36 Innovation Way,Fall River,overture,1793,SUSPECT,6.7
+190 New Boston Rd,Fall River,overture,35,agree,1.4
+15 Robeson St,Fall River,overture,5,agree,0.2
+657 Pleasant St,Fall River,overture,49,agree,0.1
+350 Rodman St,Fall River,overture,57,agree,0.7
+1023 North Main St,Fall River,overture,15,agree,1.9
+200 Broadway,Fall River,overture,29,agree,1.8
+320 Airport Rd,Fall River,overture,281,minor,6.6
+234 Milliken Blvd,Fall River,overture,19,agree,1.2
+435 Palmer Ave,Falmouth,overture,80,agree,1.0
+614 Main St,Falmouth,overture,30,agree,1.3
+38 N Westfield St,Feeding Hills,overture,10,agree,0.0
+469 Main St,Fiskdale,overture,145,agree,0.0
+150 Great Wolf Drive Great Wolf Lodge,Fitchburg,overture,41,agree,4.3
+33-37 River St,Fitchburg,overture,5,agree,2.1
+151 Main St,Fitchburg,overture,46,agree,2.1
+105 John Fitch Hwy,Fitchburg,overture,37,agree,2.8
+511 Electric Ave,Fitchburg,overture,79,agree,0.4
+129 Whalon St,Fitchburg,overture,63,agree,2.7
+487 Princeton Rd,Fitchburg,overture,25,agree,3.4
+263 Main St,Foxboro,overture,219,minor,0.0
+16 Washington St,Foxborough,overture,225,minor,1.0
+127 Main St.,Foxborough,overture,49,agree,2.1
+221 Patriot Pl,Foxborough,overture,219,minor,0.8
+30 Commercial St,Foxborough,overture,1704,SUSPECT,4.7
+430 Franklin St,Framingham,overture,16,agree,1.0
+876 Edgell Rd,Framingham,overture,47,agree,3.4
+1170 Worcester Rd,Framingham,overture,20,agree,1.4
+100 State St Framingham State University,Framingham,overture,92,agree,0.8
+1670 Worcester Rd Route 9 East,Framingham,overture,230,minor,4.5
+266 Concord St,Framingham,overture,21,agree,2.0
+517 Worcester Rd,Framingham,overture,16,agree,0.9
+692 Cochituate Rd,Framingham,overture,100,agree,3.7
+3 Nicholas Rd,Framingham,overture,67,agree,3.8
+334 Waverly St,Framingham,overture,1244,SUSPECT,2.9
+541 W Central St,Franklin,overture,114,agree,2.0
+547 East Central Street,Franklin,overture,152,minor,2.3
+490 King St. Silver Maple Commons,Franklin,overture,74,agree,1.6
+221 Main St LukeOil Gas-Convenience,Gardner,overture,35,agree,0.4
+264 Timpany Blvd Shell Gas Station,Gardner,overture,82,agree,1.1
+4 Oak St Shell Gas Station,Gardner,overture,42,agree,0.9
+66 E Main St #68 Georgetown Plaza,Georgetown,overture,88,agree,0.0
+85 Washington St Irving Gas Station,Gloucester,overture,30,agree,0.7
+130 Washington St,Gloucester,overture,22,agree,0.8
+205 Main St Walgreens Plaza,Gloucester,overture,69,agree,0.3
+103 Eastern Ave Shell Gas Station,Gloucester,overture,3427,SUSPECT,1.4
+72 Worcester St,Grafton,overture,10,agree,0.0
+77 W State St,Granby,overture,20,agree,0.0
+494 Main St,Great Barrington,overture,138,agree,0.0
+60 Mohawk Trl,Greenfield,overture,41,agree,2.3
+295 Federal St,Greenfield,overture,20,agree,0.0
+378 Federal St,Greenfield,overture,16,agree,0.5
+133 Main Street Groton Center,Groton,overture,21,agree,0.0
+788 Boston Rd,Groton,overture,91,agree,5.1
+318 Main St The Groton Exchange,Groton,overture,55,agree,1.1
+142 Russell St,Hadley,overture,96,agree,3.2
+331 Russell St,Hadley,overture,24,agree,0.0
+355 Plymouth St,Halifax,overture,88,agree,0.0
+15 Walnut Rd Hamilton Crossing Plaza,Hamilton,overture,13,agree,0.0
+3 Allen Street,Hampden,overture,146,agree,0.0
+416 Columbia Rd,Hanover,overture,45,agree,4.2
+1222 Hanover St,Hanover,overture,15,agree,3.7
+1251 Washington St,Hanover,overture,57,agree,0.0
+2117 Washington St,Hanover,overture,16,agree,2.2
+1120 Main St,Hanson,overture,43,agree,2.8
+487 Liberty St,Hanson,overture,20,agree,0.0
+188 Ayer Rd,Harvard,overture,118,agree,0.0
+175 Route 137,Harwich,overture,454,minor,0.4
+109 Route 137,Harwich,overture,133,agree,0.2
+614 Broadway,Haverhill,overture,32,agree,3.1
+915 S Main St,Haverhill,overture,288,minor,3.8
+215 Winter St,Haverhill,overture,34,agree,0.7
+755 Main St,Haverhill,overture,65,agree,1.5
+407 Amesbury Rd,Haverhill,overture,70,agree,3.9
+784 River St,Haverhill,overture,197,minor,2.6
+20 Plaistow Rd,Haverhill,overture,5,agree,3.3
+259 Lincoln Ave,Haverhill,overture,57,agree,4.6
+142 Main St,Haydenville,overture,22,agree,0.0
+315 Lincoln St,Hingham,overture,57,agree,1.3
+187 Whiting St,Hingham,overture,46,agree,7.6
+57 S. Franklin St,Holbrook,overture,145,agree,0.2
+5 Shrewsbury St Chaffins Corner Plaza,Holden,overture,66,agree,1.6
+1175 Main St Mobil Station,Holden,overture,37,agree,2.2
+441 Washington St,Holliston,overture,21,agree,0.0
+330 Main St,Holyoke,overture,91,agree,1.3
+225 Whiting Farms Rd Shell Oil,Holyoke,overture,4,agree,3.2
+473 Pleasant St,Holyoke,overture,19,agree,1.5
+1600 Northampton St,Holyoke,overture,23,agree,1.3
+223 South Street,Holyoke,overture,117,agree,0.4
+144 Hartford Ave,Hopedale,overture,58,agree,0.0
+76 South St,Hopkinton,overture,63,agree,1.5
+78 W Main St,Hopkinton,overture,29,agree,0.0
+256 Washington Street,Hudson,overture,527,SUSPECT,0.4
+350 Main St Quick Stop Gas Station,Hudson,overture,78,agree,1.2
+143 Washington St,Hudson,overture,41,agree,0.4
+1 Bay St,Hull,overture,46,agree,0.0
+156 Iyannough Rd Speedway,Hyannis,overture,139,agree,0.0
+442 Main St,Hyannis,overture,45,agree,1.2
+942 Hyde Park Ave,Hyde Park,overture,85,agree,0.0
+1200 Hyde Park Ave,Hyde Park,overture,28,agree,1.1
+6 Lord Sq,Ipswich,overture,26,agree,0.0
+315 Centre St,Jamaica Plain,overture,56,agree,1.7
+7 Walk Hill St,Jamaica Plain,overture,15,agree,1.7
+757 Centre St,Jamaica Plain,overture,18,agree,0.0
+1 Joseph St,Kingston,overture,45,agree,2.4
+183 Summer St,Kingston,overture,64,agree,0.1
+121 Main Street,Kingston,overture,39,agree,2.9
+330 Bedford St,Lakeville,overture,232,minor,0.0
+1474 Lunenburg Rd,Lancaster,overture,308,minor,0.0
+226 Winthrop St,Lawrence,overture,728,SUSPECT,2.1
+99 Winthrop Ave,Lawrence,overture,639,SUSPECT,2.1
+423-425 Merrimack St,Lawrence,overture,11,agree,0.0
+579 Andover St,Lawrence,overture,24,agree,2.7
+100 Marston St,Lawrence,overture,53,agree,0.9
+123 Lawrence St,Lawrence,overture,11,agree,1.9
+200 Housatonic St,Lee,overture,40,agree,0.0
+1081 Main St,Leicester,overture,11,agree,0.0
+280 New Lancaster Rd,Leominster,overture,80,agree,3.3
+275 New Lancaster Rd,Leominster,overture,139,agree,3.1
+1001 Central St Johnny Appleseed Plaza,Leominster,overture,67,agree,2.2
+180 Central St,Leominster,overture,37,agree,1.0
+76 Main St. Mobil Gas Station,Leominster,overture,45,agree,1.5
+456 Main St,Leominster,overture,23,agree,2.1
+804 N Main St,Leominster,overture,31,agree,4.7
+"915 Waltham St, Shell Oil",Lexington,overture,31,agree,2.4
+286 Lincoln St,Lexington,overture,17,agree,1.5
+141 Massachusetts Ave,Lexington,overture,80,agree,3.4
+373 Waltham St,Lexington,overture,26,agree,0.5
+10 Woburn St,Lexington,overture,81,agree,1.1
+277 Bedford St,Lexington,overture,22,agree,2.8
+460 King St Shell Station,Littleton,overture,18,agree,0.4
+25 King St,Littleton,overture,18,agree,2.9
+220 Great Rd Rt 2A,Littleton,overture,310,minor,0.8
+711 Bliss Road,Longmeadow,overture,125,agree,0.0
+1 Hospital Dr Lowell General Saints Campus,Lowell,overture,44,agree,1.5
+185 Woburn St EXXON Gas Station,Lowell,overture,47,agree,3.3
+556 Dutton St,Lowell,overture,35,agree,0.0
+290 Central St,Lowell,overture,9,agree,0.8
+1081 Gorham St,Lowell,overture,29,agree,1.8
+443 Chelmsford St,Lowell,overture,35,agree,1.5
+515 Pawtucket Blvd,Lowell,overture,51,agree,2.9
+980 Chelmsford St Mobil Gas Station,Lowell,overture,56,agree,3.1
+560 Bridge St,Lowell,overture,19,agree,1.8
+182 Riverside St,Lowell,overture,6,agree,1.7
+295 Varnum Ave Lowell General Hospital,Lowell,overture,180,minor,2.1
+1505 Middlesex St,Lowell,overture,20,agree,2.3
+651 Rogers St,Lowell,overture,76,agree,3.1
+4 Harding Ave,Ludlow,overture,32,agree,0.0
+134 Leominster Shirley Rd Honey Farms,Lunenburg,overture,129,agree,5.7
+400 Electric Ave,Lunenburg,overture,8,agree,0.0
+451 Massachusetts Ave Exxon Station,Lunenburg,overture,73,agree,2.0
+25 Boston St,Lynn,overture,34,agree,0.5
+932 Lynnfield St,Lynn,overture,15,agree,5.1
+625 Western Avenue,Lynn,overture,10,agree,1.1
+333 Lynnway,Lynn,overture,28,agree,1.9
+42 Market St,Lynn,overture,5,agree,1.3
+819 Western Ave,Lynn,overture,22,agree,1.8
+116 Lewis St,Lynn,overture,6,agree,2.3
+577 Walnut St,Lynn,overture,51,agree,2.8
+50 Western Ave,Lynn,overture,111,agree,1.8
+80 Boston St,Lynn,overture,52,agree,0.3
+7 Post Office Sq,Lynnfield,overture,110,agree,0.0
+200 Commercial St,Malden,overture,53,agree,2.5
+424 Main St,Malden,overture,26,agree,1.7
+99 Charles St Stop & Shop,Malden,overture,110,agree,2.1
+980 Eastern Ave,Malden,overture,19,agree,0.4
+655 Salem St,Malden,overture,13,agree,0.3
+619 Broadway,Malden,overture,46,agree,1.8
+155 Beach St,Malden,overture,57,agree,1.7
+40 Beach St Unit B,Manchester by the Sea,overture,53,agree,0.0
+45 Chauncy St,Mansfield,overture,594,SUSPECT,0.9
+4 South Main St,Mansfield,overture,43,agree,0.0
+321 School St,Mansfield,overture,194,minor,1.9
+905 S Main Street,Mansfield,overture,95,agree,3.5
+161 Pleasant St,Marblehead,overture,53,agree,0.0
+450 Wareham Rd,Marion,overture,9,agree,0.0
+413 Lakeside Ave,Marlboro,overture,650,SUSPECT,0.0
+269 E Main St,Marlborough,overture,17,agree,1.2
+681 Boston Post Road Indian Head Shopping Ctr,Marlborough,overture,18,agree,3.3
+312 Maple St,Marlborough,overture,54,agree,0.6
+199 Lakeside Ave,Marlborough,overture,105,agree,2.3
+928 Plain Street,Marshfield,overture,53,agree,4.3
+1862 Ocean St,Marshfield,overture,28,agree,1.6
+3821 Falmouth Rd,Marstons Mills,overture,19,agree,0.0
+"40 South St South Cape Village, Unit 42",Mashpee,overture,5,agree,0.5
+401 Nathan Ellis Hwy,Mashpee,overture,14,agree,2.3
+401 Main St,Mashpee,overture,373,minor,3.6
+1621 Blue Hill Ave,Mattapan,overture,9,agree,0.0
+51 County Rd,Mattapoisett,overture,41,agree,0.0
+5 Waltham St 7-11,Maynard,overture,21,agree,0.2
+129 Parker St,Maynard,overture,188,minor,1.6
+563 Main St,Medfield,overture,15,agree,1.7
+270 Main St Mobil Gas Station,Medfield,overture,58,agree,0.0
+620 Fellsway,Medford,overture,426,minor,1.8
+7 Commercial St,Medford,overture,17,agree,1.2
+283 Middlesex Ave,Medford,overture,210,minor,1.9
+275 Mystic Ave,Medford,overture,145,agree,1.0
+2 And 4 Salem St,Medford,overture,42,agree,0.8
+154 Main St,Medford,overture,63,agree,0.7
+430 Salem St,Medford,overture,7,agree,1.2
+4 Harvard Ave,Medford,overture,15,agree,2.7
+364 Boston Ave,Medford,overture,29,agree,1.6
+42 Summer St,Medway,overture,60,agree,2.6
+81a Main St,Medway,overture,39,agree,0.0
+348 Main St,Melrose,overture,,no_street_address,1.4
+470 Lynn Fells Pkwy,Melrose,overture,46,agree,0.0
+4 Uxbridge Rd,Mendon,overture,43,agree,0.0
+26 Broad St,Merrimac,overture,127,agree,0.0
+5 Ayers Village Rd,Methuen,overture,35,agree,7.1
+163 Howe St.,Methuen,overture,35,agree,2.7
+58 Broadway,Methuen,overture,6,agree,1.1
+188 Haverhill St,Methuen,overture,2346,SUSPECT,0.6
+147 Pelham St,Methuen,overture,49,agree,1.5
+282 Merrimack St,Methuen,overture,29,agree,4.4
+40 Jackson St,Methuen,overture,64,agree,2.1
+464 Lowell St,Methuen,overture,14,agree,3.7
+47 Harding St,Middleboro,overture,200,minor,4.3
+447 Wareham St,Middleboro,overture,49,agree,8.6
+565 W Grove St,Middleboro,overture,220,minor,3.3
+3 E Grove St,Middleboro,overture,59,agree,1.9
+275 North Main Street,Middleton,overture,152,minor,5.1
+241 Maple St,Middleton,overture,56,agree,0.0
+15 Manning Rd,Middleton,overture,136,agree,0.9
+260 S Main St,Middleton,overture,13,agree,2.3
+31 Main St,Milford,overture,32,agree,0.8
+111 Cedar St,Milford,overture,74,agree,2.1
+35 Medway Rd,Milford,overture,220,minor,0.6
+350 East Main St,Milford,overture,153,minor,1.5
+146 S Main St,Milford,overture,327,minor,2.8
+1 Elm St,Millbury,overture,76,agree,0.0
+100 Worcester Providence Tpk Xtramart,Millbury,overture,,no_street_address,1.2
+871 Main St,Millis,overture,16,agree,0.0
+545 Adams St,Milton,overture,7,agree,0.0
+153 Main St,Monson,overture,36,agree,0.0
+1245 Worcester St Natick Mall,Natick,overture,164,minor,1.6
+117 W Central St Unit A,Natick,overture,279,minor,1.9
+223 N Main St,Natick,overture,50,agree,0.5
+8 Massachusetts Ave,Natick,overture,2842,SUSPECT,1.2
+50 East Central St,Natick,overture,21,agree,2.6
+1362 Worcester St,Natick,overture,77,agree,2.0
+260 Chestnut St,Needham,overture,21,agree,0.1
+1203 Highland Ave,Needham,overture,81,agree,1.1
+399 Great Plain Ave,Needham,overture,19,agree,1.7
+380 Hathaway Rd,New Bedford,overture,46,agree,2.0
+99 Belleville Ave,New Bedford,overture,105,agree,0.7
+231 Union St,New Bedford,overture,10,agree,2.5
+1746 Purchase St,New Bedford,overture,25,agree,0.8
+929 Kempton St Speedway,New Bedford,overture,138,agree,2.8
+450 Ashley Blvd,New Bedford,overture,24,agree,1.5
+1121 Kempton St,New Bedford,overture,88,agree,3.0
+359 S. Front St.,New Bedford,overture,28,agree,3.9
+2095 Acushnet Ave,New Bedford,overture,18,agree,2.6
+950 Kings Hwy,New Bedford,overture,50,agree,2.4
+53 Popes Island,New Bedford,overture,19,agree,2.3
+19 Rockdale Ave,New Bedford,overture,16,agree,4.8
+3021 Acushnet Ave,New Bedford,overture,59,agree,5.1
+207 Theodore Rice Blvd,New Bedford,overture,113,agree,8.0
+1169 Braley Rd,New Bedford,overture,23,agree,8.0
+167 State St,Newburyport,overture,62,agree,2.3
+70 Storey Ave,Newburyport,overture,44,agree,2.9
+1148 Beacon St,Newton,overture,13,agree,0.0
+1250 Washington St,Newton,overture,12,agree,2.4
+38 Langley Rd,Newton,overture,24,agree,1.4
+940 Boylston St,Newton,overture,20,agree,1.3
+138 Needham St,Newton,overture,20,agree,2.0
+345 Washington St,Newton,overture,29,agree,3.4
+401 Watertown St,Newton,overture,66,agree,3.3
+134 Main St,Norfolk,overture,70,agree,1.9
+242 Dedham St Gulf Gas Station,Norfolk,overture,16768,SUSPECT,3.4
+5 Union St,North Adams,overture,30,agree,0.0
+315 Turnpike St,North Andover,overture,466,minor,3.0
+733 Turnpike St Ste 9,North Andover,overture,70,agree,3.8
+535 Chickering Rd,North Andover,overture,43,agree,0.1
+388 Elm St,North Attleboro,overture,26,agree,0.0
+544 S Washington St,North Attleboro,overture,180,minor,2.1
+605 E Washington St,North Attleborough,overture,140,agree,0.0
+1470 S Washington St Wal Mart,North Attleborough,overture,138,agree,6.0
+181 Boston Rd,North Billerica,overture,55,agree,0.0
+1 Republic Rd,North Billerica,overture,63,agree,2.8
+127 Faunce Corner Rd,North Dartmouth,overture,149,agree,0.0
+420 Somerset Ave,North Dighton,overture,84,agree,0.0
+285 Washington St,North Easton,overture,64,agree,1.2
+700 Depot St,North Easton,overture,91,agree,4.5
+320 Washington St,North Easton,overture,1069,SUSPECT,0.4
+634 N Falmouth Hwy,North Falmouth,overture,44,agree,0.0
+138 Southbridge Rd,North Oxford,overture,56,agree,0.0
+293 Main St,North Reading,overture,63,agree,2.3
+13 Main St,North Reading,overture,92,agree,1.0
+6 Washington St,North Reading,overture,48,agree,2.9
+645 Bridge St,North Weymouth,overture,19,agree,0.0
+132 King St,Northampton,overture,20,agree,1.6
+55 Damon Rd,Northampton,overture,63,agree,0.1
+70 W Main St,Northborough,overture,20,agree,0.0
+4 N Main St,Northbridge,overture,23,agree,0.0
+420 Old Colony Rd,Norton,overture,299,minor,4.1
+175 Mansfield Ave Great Woods Mkt Place,Norton,overture,61,agree,0.0
+246 E Main St,Norton,overture,107,agree,4.3
+10 Washington St,Norwell,overture,46,agree,0.0
+1202 Providence Hwy,Norwood,overture,1826,SUSPECT,0.8
+141 Nahatan St,Norwood,overture,25,agree,1.5
+24 E River St,Orange,overture,36,agree,1.9
+167 Daniel Shays Hwy,Orange,overture,153,minor,3.4
+136 Cranberry Highway Orleans Shopping Center #A1,Orleans,overture,83,agree,0.0
+123 Sutton Ave Xtramart,Oxford,overture,273,minor,0.2
+17 Sutton Ave,Oxford,overture,35,agree,1.2
+3086 South Main St,Palmer,overture,1042,SUSPECT,4.4
+1559 N Main St,Palmer,overture,41,agree,0.8
+1144 Thorndike St,Palmer,overture,33,agree,1.0
+607 Pleasant St,Paxton,overture,34,agree,0.0
+124 Newbury St,Peabody,overture,378,minor,3.2
+3 Central St,Peabody,overture,35,agree,2.2
+162 Washington St,Peabody,overture,14,agree,2.2
+79 Lynnfield St CVS Plaza,Peabody,overture,74,agree,1.9
+527 Lowell St,Peabody,overture,129,agree,2.7
+672 Lowell St,Peabody,overture,226,minor,4.8
+256 Andover St,Peabody,overture,11,agree,1.5
+155 Church St Route 139 Mobil Station,Pembroke,overture,68,agree,0.1
+145 Church St,Pembroke,overture,141,agree,0.0
+355 Washington St,Pembroke,overture,33,agree,2.7
+152 Center St,Pembroke,repin_census_non_exact,19080,known_bad_REPINNED,20.4
+61-63 Main St,Pepperell,overture,29,agree,0.0
+84 Dalton Ave,Pittsfield,overture,17,agree,1.6
+425 East St,Pittsfield,overture,24,agree,0.2
+1653 North St,Pittsfield,overture,28,agree,5.0
+480 West Housatonic St,Pittsfield,overture,20,agree,2.7
+18 1st St,Pittsfield,overture,7,agree,0.4
+86A Washington St.,Plainville,overture,104,agree,1.3
+4 Taunton St,Plainville,overture,42,agree,0.4
+301 Washington St,Plainville,overture,423,minor,2.1
+275 A Sandwich St,Plymouth,overture,26,agree,2.9
+11 Long Pond Rd,Plymouth,overture,90,agree,2.2
+265 South Meadow Rd,Plymouth,overture,215,minor,5.9
+765 State Rd,Plymouth,overture,22,agree,11.0
+2300 State Rd,Plymouth,overture,39,agree,17.6
+134 Samoset Street,Plymouth,overture,626,SUSPECT,1.0
+105 Samoset St Speedway,Plymouth,overture,82,agree,1.3
+367 Court St,Plymouth,overture,78,agree,3.7
+131 Commerce Way,Plymouth,overture,141,agree,3.2
+23 Commerce Way,Plymouth,overture,939,SUSPECT,2.9
+160 South St,Plymouth,overture,38931,SUSPECT,2.0
+366 Centre St,Quincy,overture,43,agree,2.2
+388 E Squantum St,Quincy,overture,118,agree,3.9
+100 Granite St,Quincy,overture,54,agree,0.9
+243 Quincy Ave #227,Quincy,overture,72,agree,2.2
+588 Washington St,Quincy,overture,17,agree,2.9
+751 E Squantum St,Quincy,overture,23,agree,4.9
+360-364 Sea Street,Quincy,overture,33,agree,2.3
+543 Southern Artery,Quincy,overture,32,agree,1.5
+550 Adams St,Quincy,overture,32,agree,1.4
+195 Newport Ave,Quincy,overture,68,agree,2.1
+687 Hancock St,Quincy,overture,22,agree,1.6
+125 Hancock St,Quincy,overture,126,agree,3.6
+39 Warren St Blockbuster Plaza,Randolph,overture,129,agree,3.7
+105 Mazzeo Drive,Randolph,overture,122,agree,4.0
+1375-1395 N Main St,Randolph,overture,5,agree,0.4
+290 Broadway,Raynham,overture,12,agree,1.1
+748 New State Highway,Raynham,overture,31,agree,4.1
+406 New State Hwy,Raynham,overture,76,agree,3.5
+1701 Broadway,Raynham,overture,40,agree,4.4
+4 West St Mobil Gas Station,Reading,overture,2652,SUSPECT,2.8
+110 Main St Shell Gas Station,Reading,overture,46,agree,1.5
+87 Walkers Brook Dr Shell Gas Station,Reading,overture,45,agree,0.0
+273 Salem St,Reading,overture,50,agree,1.0
+227 Winthrop St,Rehoboth,overture,515,SUSPECT,5.9
+3 Park St,Rehoboth,overture,113,agree,1.4
+1 Bennington St,Revere,overture,7,agree,2.9
+41 Lee Burbank Hwy Speedway,Revere,overture,47,agree,2.9
+477 Beach St,Revere,overture,43,agree,1.4
+145 Broadway,Revere,overture,28,agree,1.9
+338 Squire Rd,Revere,overture,39,agree,0.9
+555 North Shore Rd,Revere,overture,40,agree,2.4
+30 Squire Rd,Revere,overture,50,agree,0.0
+1149 Hingham St Home Depot,Rockland,overture,70,agree,0.7
+851 Hingham St,Rockland,overture,98,agree,0.0
+165 Market St,Rockland,overture,122,agree,4.5
+4610 Washington St,Roslindale,overture,233,minor,1.8
+4175 Washington St,Roslindale,overture,23,agree,0.0
+148 Newburyport Turnpike Rowley Plaza Rt 1,Rowley,overture,94,agree,0.0
+1926 Columbus Ave,Roxbury,overture,29,agree,1.6
+2493 Washington St,Roxbury,overture,13,agree,0.0
+255 Main St,Rutland,overture,14,agree,0.0
+24 Meetinghouse Ln,Sagamore Beach,overture,47,agree,0.0
+429 Highland Ave,Salem,overture,19,agree,3.1
+152 Washington St,Salem,overture,21,agree,1.5
+9 1/2 Paradise Rd Staples Plaza,Salem,overture,103,agree,2.4
+31 Bridge St,Salem,overture,27,agree,3.2
+105 North St Citgo Gas Station,Salem,overture,29,agree,2.2
+68 Boston St,Salem,overture,14,agree,1.6
+248 Highland Ave,Salem,overture,181,minor,1.9
+"352 Lafayette St, Salem State College",Salem,overture,350,minor,0.9
+201 Canal St,Salem,overture,22,agree,0.3
+61 Main St,Salisbury,overture,35,agree,2.8
+15 Lafayette Rd,Salisbury,overture,39,agree,1.7
+192 Elm St In Sunoco,Salisbury,overture,140,agree,1.1
+273 Cotuit Rd Speedway,Sandwich,overture,40,agree,1.9
+Route 130 Trade Winds Plz,Sandwich,overture,,no_street_address,0.7
+336 Route 130 Speedway,Sandwich,overture,58,agree,0.0
+111 Route 6A,Sandwich,overture,27,agree,4.8
+533 Broadway,Saugus,overture,35,agree,2.0
+86 Broadway #86T,Saugus,overture,43,agree,3.4
+35 Lincoln Ave,Saugus,overture,76,agree,2.2
+42 Hamilton St,Saugus,overture,171,minor,0.7
+339 Main St,Saugus,overture,38,agree,1.9
+508 Lincoln Ave,Saugus,overture,50,agree,2.0
+1539 Broadway,Saugus,overture,56,agree,1.4
+1204 Broadway,Saugus,overture,261,minor,1.1
+32 Driftway,Scituate,overture,59,agree,0.0
+4 Highland Ave,Seekonk,overture,55,agree,0.5
+822 Fall River Ave,Seekonk,overture,104,agree,0.2
+1035 Newman Ave,Seekonk,overture,41,agree,7.6
+1058 Fall River Ave,Seekonk,overture,127,agree,1.0
+198 Taunton Ave,Seekonk,overture,41,agree,2.3
+700 S Main St Shaw's Plaza,Sharon,overture,114,agree,0.0
+23 South Main Street,Sherborn,overture,53,agree,0.0
+2 Fredonian St,Shirley,overture,25,agree,0.0
+118 Boston Tpke White City Plaza,Shrewsbury,overture,69,agree,2.6
+36 Maple Ave,Shrewsbury,overture,33,agree,2.1
+866 Hartford Tpke,Shrewsbury,overture,32,agree,3.2
+307 Hartford Tpke Flynn's Truck Stop,Shrewsbury,overture,41,agree,2.8
+271 Boston Turnpike Shell Gas Station,Shrewsbury,overture,7,agree,1.9
+505 Gar Hwy,Somerset,overture,2112,SUSPECT,2.6
+2756 County St,Somerset,overture,165,minor,2.7
+978 County St,Somerset,overture,24,agree,0.0
+1073 Grand Army Hwy,Somerset,overture,32,agree,2.9
+76 Middlesex Avenue Suite 101,Somerville,overture,45,agree,1.0
+709 McGrath Hwy Speedway,Somerville,overture,136,agree,0.7
+379 Alewife Brook Pky Gulf Gas Station,Somerville,overture,37,agree,3.9
+220 Broadway,Somerville,overture,20,agree,0.5
+504 Broadway,Somerville,overture,40,agree,1.1
+850 Broadway,Somerville,overture,24,agree,2.2
+282 Somerville Ave,Somerville,overture,41,agree,1.3
+519 Somerville Ave,Somerville,overture,24,agree,1.3
+154 Highland Ave,Somerville,overture,12,agree,0.8
+"14 McGrath Hwy, Twin City Plaza",Somerville,overture,217,minor,2.0
+77 L St,South Boston,overture,24,agree,0.0
+1 Greenfield Rd,South Deerfield,overture,3134,SUSPECT,0.0
+606 Washington St,South Easton,overture,44,agree,0.0
+South Hadley Shopping Center Newton St,South Hadley,overture,,no_street_address,0.0
+755 Main St,South Weymouth,overture,35,agree,0.0
+436 Station Ave,South Yarmouth,overture,46,agree,0.0
+136 College Hwy,Southampton,overture,56,agree,0.0
+162 Cordaville Rd Town Center Plaza,Southborough,overture,137,agree,0.0
+386 E Main St,Southbridge,overture,49,agree,0.8
+736 Worcester St,Southbridge,overture,49,agree,2.2
+419-423 Main St,Southbridge,overture,2049,SUSPECT,1.4
+208 College Hwy,Southwick,overture,204,minor,3.6
+397 College Hwy,Southwick,overture,1184,SUSPECT,0.0
+72 W Main St,Spencer,overture,282,minor,4.1
+353 Main St,Spencer,overture,,no_street_address,0.0
+55 Frank B Murray St,Springfield,overture,30,agree,2.9
+570 Sumner Avenue,Springfield,overture,29,agree,3.2
+694 Page Blvd,Springfield,overture,25,agree,3.0
+1211 East Columbus Ave,Springfield,overture,51,agree,2.9
+805 Main St,Springfield,overture,9,agree,2.7
+77 West St,Springfield,overture,81,agree,4.1
+1487 Bay St,Springfield,overture,55,agree,2.8
+3065 Main St,Springfield,overture,30,agree,3.9
+"695 Liberty St, # 705",Springfield,overture,48,agree,2.1
+1500 Main St Baystate Mall,Springfield,overture,111,agree,3.0
+1046 Wilbraham Rd,Springfield,overture,72,agree,2.9
+1761 Allen St,Springfield,overture,8,agree,5.6
+273 Hancock St,Springfield,overture,60,agree,1.6
+568 Belmont Ave,Springfield,overture,67,agree,3.3
+1252 Saint James Ave,Springfield,overture,42,agree,3.1
+11 Tapley St,Springfield,overture,537,SUSPECT,1.4
+140 Armory St,Springfield,overture,35,agree,1.6
+350 Cottage Street Unit #1 Satellite,Springfield,overture,54,agree,3.7
+1287 Page Boulevard,Springfield,overture,40,agree,4.4
+1190 Boston Rd,Springfield,overture,61,agree,5.4
+100 Congress St,Springfield,overture,51,agree,2.9
+1918 Wilbraham Rd,Springfield,overture,29,agree,5.3
+50 Leominster Rd,Sterling,overture,714,SUSPECT,0.0
+196 Main St,Stoneham,overture,40,agree,0.9
+2 Lynn Fells Pkwy,Stoneham,overture,2051,SUSPECT,3.0
+128 Franklin St,Stoneham,overture,303,minor,0.9
+62a Montvale Ave Montvale Plaza,Stoneham,overture,91,agree,0.6
+65 Main St,Stoneham,overture,32,agree,1.7
+287 Park St,Stoughton,overture,21,agree,2.1
+"145 Sharon St, In Mobil Gas Station",Stoughton,overture,68,agree,3.9
+438 Washington St,Stoughton,overture,27,agree,0.4
+372 Washington St Mobil Station,Stoughton,overture,42,agree,0.2
+1516 Turnpike St Turnpike Plaza,Stoughton,overture,33,agree,2.6
+108 Great Road,Stow,overture,31,agree,0.0
+215 Charlton Rd,Sturbridge,overture,283,minor,2.8
+120 Main St,Sturbridge,overture,39,agree,0.1
+236 Route 15,Sturbridge,overture,94,agree,3.3
+378 Boston Post Rd,Sudbury,overture,45,agree,0.0
+303 Amherst Rd,Sunderland,overture,25,agree,0.0
+27 Worcester Providence Tpke,Sutton,overture,3898,SUSPECT,0.0
+980 Paradise Rd,Swampscott,overture,66,agree,0.0
+651 Gar Hwy,Swansea,overture,28,agree,1.2
+328 Wilbur Ave,Swansea,overture,23,agree,2.6
+5 Washington St,Taunton,overture,20,agree,0.7
+232 Broadway,Taunton,overture,14,agree,2.1
+336 Winthrop St,Taunton,overture,24,agree,3.3
+2099 Bay St,Taunton,overture,230,minor,6.7
+43 Worcester St,Taunton,overture,25,agree,5.2
+983 County St,Taunton,overture,83,agree,3.8
+648 County St,Taunton,overture,43,agree,2.8
+19 Cape Hwy Rt 44,Taunton,overture,129,agree,2.1
+491 Weir St,Taunton,overture,23,agree,1.6
+148 N Walker St,Taunton,overture,421,minor,4.1
+4 Sandwich Rd,Teaticket,overture,66,agree,0.0
+212 Patriots Rd,Templeton,overture,130,agree,0.0
+1973 Main St,Tewksbury,overture,90,agree,3.9
+1785 Andover St Circle K Mobil,Tewksbury,overture,82,agree,2.5
+940 Andover St,Tewksbury,overture,50,agree,4.6
+1220 Main St,Tewksbury,overture,59,agree,1.5
+1699 Shawsheen Rd,Tewksbury,overture,358,minor,3.5
+381 Main St,Tewksbury,overture,145,agree,2.8
+367 Boston St Route 1,Topsfield,overture,9,agree,0.0
+28 Main St,Townsend,overture,48,agree,1.7
+17 Elm St,Townsend,overture,414,minor,3.6
+440 Middlesex Rd,Tyngsboro,repin_census_non_exact,503,known_bad_REPINNED,0.0
+10 Hartford Ave,Upton,overture,410,minor,0.0
+250 South Main Street,Uxbridge,overture,3052,SUSPECT,2.5
+158 N Main St,Uxbridge,overture,89,agree,0.0
+30 Lackey Dam Rd,Uxbridge,overture,3,agree,4.7
+632 Main St,Wakefield,overture,8,agree,0.6
+225 North Ave,Wakefield,overture,28,agree,0.5
+518 Salem St,Wakefield,overture,34,agree,2.5
+995 Old Post Rd,Walpole,overture,101,agree,1.8
+506 High Plain St,Walpole,overture,97,agree,1.2
+1425 Main St,Walpole,overture,53,agree,2.6
+703 Main St,Walpole,overture,3,agree,1.9
+415 South St,Waltham,overture,299,minor,2.1
+591 Moody St 7-Eleven,Waltham,overture,27,agree,1.6
+175 Forest St,Waltham,overture,329,minor,1.5
+75 3rd Ave,Waltham,overture,167,minor,2.5
+511 Totten Pond Rd,Waltham,overture,126,agree,2.6
+130 Lexington St,Waltham,overture,74,agree,0.0
+859 Main St,Waltham,overture,12,agree,0.8
+53 Linden St,Waltham,overture,20,agree,1.2
+49 River St,Waltham,overture,46,agree,2.0
+876A Lexington St,Waltham,overture,7,agree,2.7
+139 West St,Ware,overture,70,agree,0.0
+2360 Cranberry Hwy,Wareham,overture,19,agree,2.5
+419 Main St,Wareham,overture,121,agree,1.4
+195 Marion Rd,Wareham,overture,31,agree,1.8
+2505 Cranberry Hwy,Wareham,overture,54,agree,0.3
+1300 W Main St,Warren,overture,161,minor,0.0
+448 Main St,Watertown,overture,13,agree,3.1
+640 Arsenal St,Watertown,overture,254,minor,1.0
+635 Mount Auburn St,Watertown,overture,9,agree,0.1
+49 Mount Auburn St,Watertown,overture,32,agree,2.1
+289 Boston Post Road,Wayland,overture,1,agree,0.0
+15 E Plain St,Wayland,overture,122,agree,4.6
+170 Thompson Rd,Webster,overture,21,agree,0.3
+144 Thompson Rd,Webster,overture,43,agree,0.0
+978 Worcester St,Wellesley,overture,29,agree,2.9
+951 Worcester St,Wellesley,overture,61,agree,2.8
+277 Linden St,Wellesley,overture,64,agree,0.4
+2393 State Hwy Rte 6,Wellfleet,overture,,no_street_address,0.0
+2135 Iyannough Rd,West Barnstable,overture,143,agree,0.0
+244 W Boylston St,West Boylston,overture,33,agree,0.0
+575 West Center St,West Bridgewater,overture,1757,SUSPECT,1.4
+506 W Center St Shell Station,West Bridgewater,overture,652,SUSPECT,0.7
+9 N Main St,West Bridgewater,overture,55,agree,2.0
+387 W Center St,West Bridgewater,overture,109,agree,0.0
+92 W. Main St,West Brookfield,overture,24,agree,0.0
+5318 Washington Street,West Roxbury,overture,27,agree,2.1
+155 Spring St,West Roxbury,overture,61,agree,0.5
+85 Memorial Ave,West Springfield,overture,66,agree,4.3
+1333 Westfield St,West Springfield,overture,40,agree,2.9
+11 Pierce St,West Springfield,overture,177,minor,0.0
+2068 Riverdale St,West Springfield,overture,54,agree,3.5
+185 Turnpike Rd,Westborough,overture,78,agree,1.2
+124 Turnpike Rd Route 9 EASTBOUND,Westborough,overture,158,minor,0.0
+35 East Main St,Westborough,overture,35,agree,1.4
+93 Main St,Westfield,overture,33,agree,1.9
+127 N Elm St,Westfield,overture,38,agree,0.5
+1056 North Rd,Westfield,overture,133,agree,6.2
+"1 Ely Rd, Westfield State University",Westfield,overture,71,agree,4.7
+20 Southwick Rd,Westfield,overture,60,agree,3.8
+212 Southampton Rd,Westfield,overture,1015,SUSPECT,2.4
+439 N Elm St,Westfield,overture,72,agree,0.6
+625 E Main St,Westfield,overture,126,agree,2.8
+179 Littleton Rd Gulf Gas Station,Westford,overture,10,agree,0.0
+294B Littleton Rd Big Apple Market,Westford,overture,8,agree,1.9
+500 Groton Rd,Westford,overture,79,agree,6.6
+97 Main St,Westminster,overture,1624,SUSPECT,4.4
+21 Village Inn Rd,Westminster,overture,699,SUSPECT,1.4
+88 Boston Post Rd Mobil Gas Station,Weston,overture,11,agree,0.0
+175 State Rd,Westport,overture,88,agree,0.0
+50 University Ave,Westwood,overture,199,minor,3.0
+915 High St,Westwood,overture,64,agree,3.5
+115 Providence Hwy,Westwood,overture,34,agree,0.7
+400 Washington St,Westwood,overture,38,agree,0.6
+208 Providence Hgwy Rainbow Square,Westwood,overture,119,agree,0.2
+1255 Main St,Weymouth,overture,68,agree,4.5
+162-180 Bridge St,Weymouth,overture,15,agree,4.5
+38 Winter St,Weymouth,overture,573,SUSPECT,0.2
+185 Washington St,Weymouth,overture,25,agree,1.8
+807 Washington St,Weymouth,overture,84,agree,0.8
+634 Middle St,Weymouth,overture,179,minor,0.9
+1540 Commercial St,Weymouth,overture,46,agree,3.2
+1083 Providence Rd,Whitinsville,overture,17,agree,0.0
+26 South Ave,Whitman,overture,25,agree,0.9
+811 Bedford St,Whitman,overture,22,agree,0.2
+281 Bedford St,Whitman,overture,18,agree,1.4
+2144 Boston Rd,Wilbraham,overture,259,minor,0.0
+361 Main St,Williamstown,overture,84,agree,0.0
+357 Middlesex Ave,Wilmington,overture,187,minor,1.2
+195 Main St,Wilmington,overture,511,SUSPECT,2.0
+321 Main St,Wilmington,overture,40,agree,1.8
+211 Lowell St Lucci's Plaza,Wilmington,overture,79,agree,2.3
+586 Main St Shell,Wilmington,overture,269,minor,2.0
+206 Ballardvale St,Wilmington,overture,43,agree,3.4
+66 Concord St,Wilmington,overture,45,agree,1.8
+316 Lowell St Mobil,Wilmington,overture,6,agree,2.6
+5 Central St Winchendon Plaza,Winchendon,overture,35,agree,3.5
+93 Gardner Rd,Winchendon,overture,59,agree,4.5
+797 Main St,Winchester,overture,292,minor,0.0
+230 Revere Street,Winthrop,overture,22,agree,0.0
+20 Main St,Winthrop,overture,32,agree,1.4
+318 Montvale Ave,Woburn,overture,32,agree,2.3
+"880 Main St Suite A, B, C, & G",Woburn,overture,54,agree,3.1
+409 Main St,Woburn,overture,27,agree,0.3
+75 Main St Mobil Gas Staton,Woburn,overture,17,agree,1.3
+400 Cambridge Rd Horn Pond Plaza,Woburn,overture,59,agree,2.6
+36 Commerce Way,Woburn,overture,79,agree,3.5
+305 Mishawum Rd,Woburn,overture,87,agree,2.9
+344 Washington St,Woburn,overture,5,agree,2.6
+990 Grafton St,Worcester,overture,27,agree,4.1
+257 Providence St Xtra Mart Gas Station,Worcester,overture,69,agree,3.4
+590 Southbridge St,Worcester,overture,12,agree,2.8
+185R Madison St,Worcester,overture,79,agree,1.6
+265 Grafton St,Worcester,overture,44,agree,1.5
+310 Belmont St Irving Gas Station,Worcester,overture,33,agree,2.5
+123 Summer St Worcester Medical Center,Worcester,overture,151,minor,0.5
+421-427 Main St,Worcester,overture,39,agree,0.7
+845 Main St,Worcester,overture,33,agree,2.2
+665 Plantation St,Worcester,overture,201,minor,4.3
+295 Shrewsbury St,Worcester,overture,12,agree,1.3
+366 Plantation St,Worcester,overture,207,minor,2.7
+543 Lincoln St,Worcester,overture,34,agree,3.6
+340 Grove St Shell Station,Worcester,overture,214,minor,2.0
+648 Chandler St,Worcester,overture,129,agree,4.9
+67 W Boylston St Yankee Gas Station,Worcester,overture,55,agree,2.6
+640 Park Ave,Worcester,overture,41,agree,4.0
+490 Lincoln St,Worcester,overture,412,minor,3.3
+1283 Main St,Worcester,overture,38,agree,5.0
+60 S Ludlow St,Worcester,overture,29,agree,6.1
+765 W Boylston St,Worcester,overture,50,agree,5.7
+185 Park Ave Mobil Gas Station,Worcester,overture,14,agree,1.5
+104 Belmont St Tedeschi,Worcester,overture,27,agree,0.5
+211 Chandler St,Worcester,overture,33,agree,2.0
+29 Franklin St,Wrentham,overture,43,agree,3.7
+1001 South St,Wrentham,repin_census_non_exact,836,known_bad_REPINNED,0.0
+1048 South St Wrentham Village Outlets,Wrentham,overture,123,agree,0.0
+464 Route 28,Yarmouth,overture,24,agree,3.2
+1050 Route 28,Yarmouth,overture,27,agree,0.0
+1353 Route 28 Speedway,Yarmouth,overture,65,agree,1.7
+550 Huntington Ave,Boston,overture,8,agree,2.8
+517 Concord Ave,Cambridge,overture,129,agree,2.5
+1 Horizon Way,Everett,overture,2127,SUSPECT,2.4
+413 Lakeside Ave Shell,Marlborough,overture,26,agree,3.1
+Hanscom Air Force Base Main Exchange Building,Bedford,nominatim2,0,agree,3.2
+8 Park Plz City Place,Boston,donor_fuzzy,195,minor,0.3
+400 Fenway Emmanuel College,Boston,donor_fuzzy,,no_street_address,3.2
+1 South Station,Boston,repin_census_non_exact,3113,known_bad_REPINNED,6.0
+100 Cambridge St,Boston,nominatim,0,agree,1.4
+360 Huntington Ave Northeastern University,Boston,nominatim2,0,agree,2.1
+800 Boylston St. Prudential Center,Boston,donor_fuzzy,216,minor,1.4
+115 Forsyth St Northeastern University,Boston,nominatim2,69,agree,2.3
+100 City Hall Plaza,Boston,nominatim,0,agree,1.4
+235 Washington St,Boston,nominatim,0,agree,1.3
+568 Mac Arthur Boulevard,Bourne,donor_fuzzy2,24,agree,4.5
+Route 24 Southbound Service Pavilion,Bridgewater,hand_placed,,hand_placed,2.1
+201 Alewife Brook Pky,Cambridge,donor_fuzzy,25,agree,2.7
+532 Russells Mills Road,Dartmouth,nominatim,5,agree,4.8
+10 Andrews Parkway,Devens,nominatim,0,agree,0.0
+875 Morrissey Blvd,Dorchester,donor_fuzzy,33,agree,1.9
+17 Pearson St Mr. Mikes Sunoco,Gardner,donor_fuzzy,36,agree,1.0
+173 Pleasant Lake Dr,Harwich,donor_fuzzy,42,agree,4.2
+481 Route 28,Harwich Port,nominatim,242,minor,0.0
+30 Union St,Holbrook,repin_census_exact,108,known_bad_REPINNED,0.1
+187 Summer St,Kingston,nominatim,185,minor,0.1
+577 Broadway,Lawrence,nominatim,4390,SUSPECT,3.2
+8 Broadway Rt 1 South Gulf Gas Station,Lynnfield,nominatim3,67,agree,1.3
+57 Eastern Ave,Malden,nominatim,9,agree,1.7
+34 Salem Street,Medford,nominatim,6,agree,0.7
+479 Broadway,Methuen,nominatim,25,agree,1.8
+140 Nauset Street,New Bedford,nominatim,32,agree,1.1
+1018 Osgood St,North Andover,nominatim,36,agree,2.2
+444 Walpole Street,Norwood,nominatim,59,agree,2.1
+117 Newbury St (Rt 1 N),Peabody,nominatim2,118,agree,3.2
+109 Franklin Street,Quincy,nominatim,10,agree,1.6
+1245 N Main St,Randolph,nominatim,30,agree,0.0
+160 BROADWAY WM5448,Raynham,donor_fuzzy,,no_street_address,1.5
+35 Squire Rd,Revere,nominatim,69,agree,0.0
+126 Sharon Street,Stoughton,nominatim,34,agree,3.9
+175 Maple Ave,Swansea,donor_fuzzy,57,agree,0.0
+2345 G A R Hwy Shell Gas Station,Swansea,donor_fuzzy2,,no_street_address,4.1
+2368 G A R Hwy,Swansea,donor_fuzzy2,,no_street_address,4.1
+1992 Main St Petroil Station,Tewksbury,nominatim2,29,agree,4.0
+5 East St Mobil Gas Station,Tewksbury,nominatim2,7,agree,1.0
+95 Westford Road #97 Mobil Gas Station,Tyngsboro,nominatim3,4279,SUSPECT,0.0
+138 East Main Street,Webster,nominatim3,276,minor,1.5
+12 Washington St,Wellesley,nominatim,12,agree,3.3
+Mile 105 Mass Turnpike Westboro Travel Plaza,Westborough,donor_fuzzy,,no_street_address,4.5
+100 Valley Parkway Store # 2629,Whitinsville,nominatim2,478,minor,4.8
+185 Cambridge Rd Woburn Four Corners,Woburn,nominatim2,45,agree,2.9
+55 N Lake Ave,Worcester,donor_fuzzy,176,minor,3.1
+177 Southwest Cutoff Bee Zee Gas Station,Worcester,nominatim3,,no_street_address,5.5
+100 Institute Rd Worcester Polytech Institute,Worcester,donor_fuzzy,315,minor,1.2
