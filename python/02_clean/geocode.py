@@ -21,7 +21,7 @@ import urllib.parse
 import urllib.request
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parent.parent
+ROOT = Path(__file__).resolve().parent.parent.parent
 FINAL_PATH = ROOT / "data" / "clean" / "dunkins_final_v2.csv"
 QUEUE_PATH = ROOT / "data" / "clean" / "geocode_queue.csv"
 OUT_PATH = ROOT / "data" / "clean" / "dunkins_final_v3.csv"

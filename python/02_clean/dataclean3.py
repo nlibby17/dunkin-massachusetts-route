@@ -32,7 +32,7 @@ import re
 from collections import Counter, defaultdict
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parent.parent
+ROOT = Path(__file__).resolve().parent.parent.parent
 STAGE1_PATH = ROOT / "data" / "clean" / "dunkins_stage1.csv"
 DECIDED_PATH = ROOT / "data" / "clean" / "manual_review.csv"
 OFFICIAL_PATH = ROOT / "data" / "raw" / "official_addresses.csv"

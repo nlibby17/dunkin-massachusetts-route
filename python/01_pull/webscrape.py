@@ -27,7 +27,7 @@ TEST_TOWN = ""          # probe first; "" for the full run
 BASE = "https://www.dunkindonuts.com/locations/us/ma/{slug}/"
 DELAY_SECONDS = 0.75           # politeness pause between pages
 
-ROOT = Path(__file__).resolve().parent.parent
+ROOT = Path(__file__).resolve().parent.parent.parent
 TOWNS_PATH = ROOT / "data" / "raw" / "official_directory_towns.txt"
 OUT_PATH = ROOT / "data" / "raw" / "official_addresses.csv"
 

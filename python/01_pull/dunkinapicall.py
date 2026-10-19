@@ -73,7 +73,7 @@ def main():
     df = flatten(elements)
 
     out_path = (
-        Path(__file__).resolve().parent.parent
+        Path(__file__).resolve().parent.parent.parent
         / "data"
         / "raw"
         / "dunkins_raw.csv"

@@ -11,7 +11,7 @@ import csv
 import math
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parent.parent
+ROOT = Path(__file__).resolve().parent.parent.parent
 IN_PATH = ROOT / "data" / "clean" / "dunkins_final_v7.csv"
 OUT_PATH = ROOT / "data" / "clean" / "dunkins_final_v8.csv"
 

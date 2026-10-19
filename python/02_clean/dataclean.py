@@ -29,9 +29,9 @@ QUEUE_CAP = 100          # Tedium ceiling for manual review
 MERGE_RADIUS_M = 100     # proximity half of the auto-merge rule
 LOW_CONF_FILL = 0.70     # tier-3 queue fill threshold
 
-RAW_PATH = (Path(__file__).resolve().parent.parent
+RAW_PATH = (Path(__file__).resolve().parent.parent.parent
             / "data" / "raw" / "overture_dunkins_raw.csv")
-CLEAN_DIR = (Path(__file__).resolve().parent.parent / "data" / "clean")
+CLEAN_DIR = (Path(__file__).resolve().parent.parent.parent / "data" / "clean")
 
 # Referee verdicts already rendered by hand. Keyed by overture_id.
 KNOWN_NOTES = {

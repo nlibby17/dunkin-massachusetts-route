@@ -19,7 +19,7 @@ from pathlib import Path
 import numpy as np
 import requests
 
-ROOT = Path(__file__).resolve().parent.parent
+ROOT = Path(__file__).resolve().parent.parent.parent
 FINAL_PATH = ROOT / "data" / "clean" / "dunkins_final_v8.csv"
 DIST_PATH = ROOT / "data" / "clean" / "distance_matrix.npy"
 DUR_PATH = ROOT / "data" / "clean" / "duration_matrix.npy"

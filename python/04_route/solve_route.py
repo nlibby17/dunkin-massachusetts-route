@@ -24,14 +24,14 @@ import matplotlib.pyplot as plt
 import numpy as np
 from ortools.constraint_solver import pywrapcp, routing_enums_pb2
 
-ROOT = Path(__file__).resolve().parent.parent
+ROOT = Path(__file__).resolve().parent.parent.parent
 DIST_PATH = ROOT / "data" / "clean" / "distance_matrix.npy"
 DUR_PATH = ROOT / "data" / "clean" / "duration_matrix.npy"
 INDEX_PATH = ROOT / "data" / "clean" / "matrix_index.csv"
 ORDER_PATH = ROOT / "data" / "clean" / "route_order.csv"
 PLOT_PATH = ROOT / "data" / "clean" / "route_plot.png"
 
-TIME_LIMIT_S = 600
+TIME_LIMIT_S = 1800
 M_PER_MILE = 1609.344
 
 

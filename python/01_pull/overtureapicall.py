@@ -78,7 +78,7 @@ def main():
     df = con.sql(QUERY).df()
 
     out_path = (
-        Path(__file__).resolve().parent.parent
+        Path(__file__).resolve().parent.parent.parent
         / "data"
         / "raw"
         / "overture_dunkins_raw.csv"

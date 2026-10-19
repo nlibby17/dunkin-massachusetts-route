@@ -25,7 +25,7 @@ import csv
 import re
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parent.parent
+ROOT = Path(__file__).resolve().parent.parent.parent
 FINAL_PATH = ROOT / "data" / "clean" / "dunkins_final.csv"
 STAGE1_PATH = ROOT / "data" / "clean" / "dunkins_stage1.csv"
 OUT_PATH = ROOT / "data" / "clean" / "dunkins_final_v2.csv"

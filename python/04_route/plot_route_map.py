@@ -23,7 +23,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import requests
 
-ROOT = Path(__file__).resolve().parent.parent
+ROOT = Path(__file__).resolve().parent.parent.parent
 ORDER_PATH = ROOT / "data" / "clean" / "route_order.csv"
 DUR_PATH = ROOT / "data" / "clean" / "duration_matrix.npy"
 GEO_PATH = ROOT / "data" / "clean" / "route_geometry.geojson"

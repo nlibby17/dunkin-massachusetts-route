@@ -28,7 +28,7 @@ import urllib.request
 from collections import defaultdict
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parent.parent
+ROOT = Path(__file__).resolve().parent.parent.parent
 V6_PATH = ROOT / "data" / "clean" / "dunkins_final_v6.csv"
 V5_PATH = ROOT / "data" / "clean" / "dunkins_final_v5.csv"
 AUDIT_PATH = ROOT / "data" / "clean" / "coord_audit.csv"
