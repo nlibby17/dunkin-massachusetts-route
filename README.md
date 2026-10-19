@@ -37,6 +37,8 @@ only; the concept is DataDork's, so this will not be portfolio'd.
   price, my gas station's price, my car's MPG.
 - Distances are true road distances throughout (OSRM), never
   straight-line.
+- First solve of this dataset (10-minute solver box): 1,019
+  stops, 2,356.9 miles, 86.1 driving hours.
 
 ## How the data was pulled
 - Four nets via OSM: name, brand, operator (case-insensitive
@@ -238,15 +240,40 @@ only; the concept is DataDork's, so this will not be portfolio'd.
   15 fuzzy donors, 27 hand-placed. Residual documented class:
   19 rows no address geocoder can check (venue and plaza
   listings); all 19 pins sit inside their own towns.
+- OSRM setup: Docker, osrm/osrm-backend v5.26.0. Preprocessing
+  (extract with the car profile, partition, customize; MLD) run
+  on massachusetts-261017.osm.pbf; routed serves the result with
+  --max-table-size 5000.
+- Distance matrix (build_matrix.py): one table call produced
+  the full 1,019 x 1,019 distance and duration matrices.
+  Unreachable pairs: zero, which also closes the last pin
+  question (a stop plotted somewhere unroutable would have
+  surfaced here). Longest single leg in the state: 400 km.
+- First solve (solve_route.py): OR-Tools, PATH_CHEAPEST_ARC
+  start, GUIDED_LOCAL_SEARCH improvement, 600 s box, road
+  distance as the objective, anchored at 543 Southern Artery,
+  Quincy (the original store). Result: 1,019 stops,
+  2,356.9 miles, 86.1 driving hours, against DataDork's
+  2,308 miles / 65 hours / 1,028 stops. Distance lands within
+  2.1% on a first pass; the time gap is profile speeds plus
+  optimizing distance rather than duration (the tour averages
+  27.4 mph; his implies 35.5 mph).
+- Route map (plot_route_map.py): road geometry fetched for all
+  1,019 legs from the local server, zero failures, 175,377 path
+  points stitched into route_geometry.geojson and rendered as
+  route_map.png. The map doubles as the validation plot: the
+  tour traces the state cleanly and no pin sits anywhere a
+  store could not be.
 
 ## Pipeline
 1. Pull locations to CSV [x] (Overture, OSM, official directory)
 2. Clean and reconcile [x] (1,019 stops, all pinned)
-3. Validation (coordinate audit [x]; per-town counts and map
-   plot still open)
-4. OSRM road engine (setup done: Docker, osrm image, MA .osm.pbf
-   downloaded; extract/partition/customize pending)
-5. Distance matrix [ ]
-6. Route solve (loop from Quincy) [ ]
+3. Validation [x] (coordinate audit; per-town counts reconcile
+   once village and neighborhood filing labels are folded; map
+   plot is the route map)
+4. OSRM road engine [x] (preprocessing done, routed serving)
+5. Distance matrix [x] (1,019 x 1,019, zero unreachable pairs)
+6. Route solve [x] first pass: 2,356.9 miles from Quincy
+   (a longer improvement pass is planned before the dashboard)
 7. Dashboard + video render (small test render before the full
    render) [ ]
