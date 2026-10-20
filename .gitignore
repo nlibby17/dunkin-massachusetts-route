@@ -25,3 +25,4 @@ data/clean/render_frames*/
 *.mp3
 *.wav
 *.webm
+data/raw/basemap/
