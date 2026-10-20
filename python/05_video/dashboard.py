@@ -1,5 +1,5 @@
 """
-Dashboard + camera for the Dunkin' tour video.
+Dashboard + camera + renderer for the Dunkin' tour video.
 
 The map fills the frame; the dashboard is a band across the
 top. Left: miles gauge (fills light green to deep green) with
@@ -11,19 +11,24 @@ gas dollars and gallons for the 2011 Jetta TDI.
 Timeline: about 60 s of motion at 30 fps, each frame advancing
 simulated time in proportion to real OSRM leg durations. The
 camera is rule driven: its window scales with the distance to
-the next stop, smoothed so it glides. The video opens and
+the next stop (gain 10, floor 0.65 degrees, so the view stays
+at region scale and always shows which part of Massachusetts
+you are in), smoothed so it glides. The video opens and
 closes on the full-state view (the 2 s stillness bookends),
 diving in at the start and pulling back at the end.
 
-This step renders three still frames for review:
-  data/clean/dashboard_tests/still_opening.png
-  data/clean/dashboard_tests/still_boston.png
-  data/clean/dashboard_tests/still_final.png
+Modes (no argument renders the three review stills):
+  (none)     still_opening / still_boston / still_final PNGs
+  --test     the opening 10 s at half resolution -> mp4
+  --render   the full ~64 s at 1920x1080 -> mp4
 """
 
 import csv
 import json
+import shutil
+import subprocess
 import sys
+import time
 from pathlib import Path
 
 import matplotlib
@@ -48,6 +53,10 @@ DIESEL_PRICE = 6.29      # per gallon
 MPG = 35.0               # 2011 Jetta TDI, estimated
 FPS = 30
 MOTION_S = 60
+STILL_S = 2
+TEST_S = 10
+TEST_DPI = 50
+FULL_DPI = 100
 ORANGE = "#FF6712"
 PINK = "#DA1884"
 PAPER = "#fff8f0"
@@ -193,12 +202,12 @@ def camera_path(tl, stops_xy, frames, state_cam):
         st = tl.state(t_h)
         nxt = stops_xy[(st["leg"] + 1) % len(stops_xy)]
         d = float(np.hypot(*(nxt - st["pos"])))
-        w_t = min(max(2.6 * d, 0.055), state_cam[2])
+        w_t = min(max(10.0 * d, 0.65), state_cam[2])
         c_t = st["pos"] + 0.35 * (nxt - st["pos"])
         target = np.array([c_t[0], c_t[1], w_t])
         if f > frames - 121:  # final pull-back to the state view
             target = state_cam
-        cam = cam + 0.045 * (target - cam)
+        cam = cam + 0.08 * (target - cam)
         path.append(cam.copy())
     return path
 
@@ -297,7 +306,6 @@ class Dashboard:
                  ha="center")
         hud.text(1120, 36, "STOPS", family=self.num_font,
                  fontsize=15, color="#7a6a5e", ha="center")
-
         # headed to
         leg = st["leg"]
         if leg >= len(self.order) - 1 and st["frac"] > 0:
@@ -358,5 +366,94 @@ def main():
     print("dashboard stills ready")
 
 
+# ---------------------------------------------------------------
+# Render: frames -> mp4. "--test" renders the opening 10 s at
+# half resolution (2 s hold + 8 s of motion); "--render" the
+# full ~64 s at 1920x1080 (2 s hold + 60 s motion + 2 s settle).
+# ---------------------------------------------------------------
+
+def ffmpeg_exe():
+    exe = shutil.which("ffmpeg")
+    if exe:
+        return exe
+    try:
+        import imageio_ffmpeg
+        return imageio_ffmpeg.get_ffmpeg_exe()
+    except Exception:
+        return None
+
+
+def render(test=False):
+    title_font, num_font = setup_fonts()
+    order, legs, leg_dist, leg_dur, stops_xy = load_tour()
+    tl = Timeline(legs, leg_dist, leg_dur)
+    frames_motion = FPS * MOTION_S
+    state_cam = state_camera(stops_xy)
+    path = camera_path(tl, stops_xy, frames_motion, state_cam)
+    dash = Dashboard(tl, order, stops_xy, title_font, num_font)
+    dpi = TEST_DPI if test else FULL_DPI
+    frames_dir = CLEAN / ("render_frames_test" if test
+                          else "render_frames")
+    frames_dir.mkdir(parents=True, exist_ok=True)
+    for old in frames_dir.glob("frame_*.png"):
+        old.unlink()
+    head = STILL_S * FPS
+    motion = (TEST_S - STILL_S) * FPS if test else frames_motion
+    tail = 0 if test else STILL_S * FPS
+    total = head + motion + tail
+    print(f"rendering {total} frames at dpi {dpi} "
+          f"({'test' if test else 'full'})...")
+    t0 = time.time()
+    made = 0
+
+    def emit(t_h, cam):
+        nonlocal made
+        dash.draw(t_h, cam)
+        p = frames_dir / f"frame_{made:05d}.png"
+        dash.fig.savefig(p, dpi=dpi,
+                         facecolor=dash.fig.get_facecolor())
+        made += 1
+        if made % 60 == 0 or made == total:
+            el = time.time() - t0
+            eta = el / made * (total - made)
+            print(f"  {made}/{total} frames, {el:,.0f}s elapsed, "
+                  f"~{eta:,.0f}s to go")
+
+    emit(0.0, state_cam)
+    first = frames_dir / "frame_00000.png"
+    while made < head:
+        shutil.copy(first, frames_dir / f"frame_{made:05d}.png")
+        made += 1
+    for f in range(motion):
+        t_h = tl.total_h * f / (frames_motion - 1)
+        emit(t_h, path[f])
+    if tail:
+        emit(tl.total_h, state_cam)
+        last = frames_dir / f"frame_{made - 1:05d}.png"
+        while made < total:
+            shutil.copy(last,
+                        frames_dir / f"frame_{made:05d}.png")
+            made += 1
+    exe = ffmpeg_exe()
+    out = CLEAN / ("test_opening.mp4" if test
+                   else "dunkin_tour.mp4")
+    if exe is None:
+        print("ffmpeg not found; frames are kept in "
+              f"{frames_dir}. Install imageio-ffmpeg and the "
+              "assembly can run without re-rendering.")
+        return
+    cmd = [exe, "-y", "-framerate", str(FPS), "-i",
+           str(frames_dir / "frame_%05d.png"), "-c:v",
+           "libx264", "-pix_fmt", "yuv420p", "-crf", "18",
+           str(out)]
+    subprocess.run(cmd, check=True)
+    print(f"video written: {out}")
+
+
 if __name__ == "__main__":
-    main()
+    if "--test" in sys.argv:
+        render(test=True)
+    elif "--render" in sys.argv:
+        render(test=False)
+    else:
+        main()

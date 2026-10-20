@@ -6,3 +6,7 @@ duckdb          # Overture Maps pull (overtureapicall.py)
 playwright==1.64.0   # directory scraper (webscrape.py); version from the laptop install
 requests        # API call scripts (Overpass, Nominatim fallbacks)
 matplotlib      # validation map plot and, later, the render
+numpy           # distance/duration matrices (.npy); route math, timeline and camera
+ortools         # route solver (solve_route.py)
+pyshp           # basemap: reads the Census TIGER shapefiles (base_map.py)
+imageio-ffmpeg  # render: supplies the ffmpeg binary for frame assembly (dashboard.py)

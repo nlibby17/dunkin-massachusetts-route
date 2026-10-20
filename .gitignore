@@ -20,4 +20,8 @@ Thumbs.db
 desktop.ini
 
 data/clean/*.npy
-
+data/clean/render_frames*/
+*.mp4
+*.mp3
+*.wav
+*.webm
