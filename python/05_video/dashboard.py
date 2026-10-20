@@ -196,6 +196,7 @@ def state_camera(stops_xy):
 def camera_path(tl, stops_xy, frames, state_cam):
     """Smoothed camera (cx, cy, width) for every motion frame."""
     cam = state_cam.copy()
+    log_w = float(np.log(cam[2]))
     path = []
     for f in range(frames):
         t_h = tl.total_h * f / (frames - 1)
@@ -207,7 +208,10 @@ def camera_path(tl, stops_xy, frames, state_cam):
         target = np.array([c_t[0], c_t[1], w_t])
         if f > frames - 121:  # final pull-back to the state view
             target = state_cam
-        cam = cam + 0.08 * (target - cam)
+        cam[:2] = cam[:2] + 0.08 * (target[:2] - cam[:2])
+        log_w += 0.03 * (float(np.log(target[2])) - log_w)
+        cam[2] = float(np.exp(log_w))
+
         path.append(cam.copy())
     return path
 
@@ -256,9 +260,13 @@ class Dashboard:
         dx = np.concatenate([p[:, 0] for p in driven])
         dy = np.concatenate([p[:, 1] for p in driven])
         ax.plot(dx, dy, color=ORANGE, linewidth=2.3, zorder=4)
-        dot = float(np.clip(3.4 / w, 2.0, 30.0))
+        dot = float(np.clip(8.0 / w, 9.0, 16.0))
+        ax.scatter(self.stops[:, 0], self.stops[:, 1], s=dot * 2.6,
+                   color="white", zorder=4.6, linewidths=0,
+                   alpha=0.55)
         ax.scatter(self.stops[:, 0], self.stops[:, 1], s=dot,
                    color=PINK, zorder=5, linewidths=0)
+
         vis = self.stops[:st["visited"]]
         ax.scatter(vis[:, 0], vis[:, 1], s=dot * 1.5,
                    color=ORANGE, zorder=6, linewidths=0)

@@ -2,6 +2,7 @@
 Practice project recreating DataDork's "fastest route to every Dunkin'
 in Massachusetts" using open data and a real road network. Practice
 only, concept from DataDork.
+Watch: https://youtu.be/EgDIaHsu0is
 
 ## Dataset definition
 - Definition: Include regular Dunkin's stores, Dunkin's under shared
@@ -20,7 +21,7 @@ only, concept from DataDork.
   counters inside other businesses are under-mapped.
 - True count is hard to pin down. Sources disagree because
   definitions and snapshot dates differ: the reference video used
-  1,028, the officical Dunkin' directory lists 1,035, Google shows ~1,040. Cleaning
+  1,028, the official Dunkin' directory lists 1,035, Google shows ~1,040. Cleaning
   rules will not be adjusted to hit another source's number.
 - Known limit: the directory is a live snapshot from 10/18/2026
   while Overture's release is dated 2026-09-23.1; a small number of
@@ -33,7 +34,7 @@ only, concept from DataDork.
   ending in Quincy. His constants: $3.79 per coffee, gas $407
   (implies 25 MPG at $4.41/gal).
 - This project uses my own constants instead: iced coffee at $3.84, and
-  diesel at $6.29/gal for my 2011 Jetta TDI at an estimated
+  diesel at $6.29/gal for my 2011 Jetta TDi at an estimated
   35 MPG. At the final totals that is $3,912.96 of coffee and
   67.3 gallons of diesel for $423.57.
 - Distances are true road distances throughout (OSRM), not
@@ -44,8 +45,11 @@ only, concept from DataDork.
   the route is final.
 - Finished video: dunkin_tour_final.mp4, 64 seconds at
   1920x1080, the settled loop under the live dashboard with
-  the "Roadrunner" soundtrack. Concept to finished product
-  in just under 24 hours.
+  the "Roadrunner" soundtrack.
+  Watch: https://youtu.be/EgDIaHsu0is
+  (v2, 10/20/2026: stop dots enlarged with a light halo so
+  they stay visible at the full-state view, and the camera
+  zoom re-smoothed to remove the pumping in v1.)
 
 ## Repository layout
 - python/01_pull: the three source pulls (OSM, Overture,
